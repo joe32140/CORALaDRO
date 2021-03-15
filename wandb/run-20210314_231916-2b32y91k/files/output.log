@@ -2542,3 +2542,4426 @@ acc_avg: 0.967
   hospital = 0  [n =    608]:	weight: 0.416	loss: 0.096	acc: 0.961	
   hospital = 3  [n =    480]:	weight: 0.367	loss: 0.080	acc: 0.971	
   hospital = 4  [n =    512]:	weight: 0.217	loss: 0.083	acc: 0.971	
+objective: 0.058
+penalty: 0.001
+loss_avg: 0.087
+acc_avg: 0.971
+  hospital = 0  [n =    512]:	weight: 0.417	loss: 0.090	acc: 0.977	
+  hospital = 3  [n =    528]:	weight: 0.366	loss: 0.089	acc: 0.968	
+  hospital = 4  [n =    560]:	weight: 0.217	loss: 0.083	acc: 0.968	
+objective: 0.060
+penalty: 0.001
+loss_avg: 0.092
+acc_avg: 0.968
+  hospital = 0  [n =    464]:	weight: 0.417	loss: 0.099	acc: 0.968	
+  hospital = 3  [n =    576]:	weight: 0.367	loss: 0.079	acc: 0.970	
+  hospital = 4  [n =    560]:	weight: 0.216	loss: 0.099	acc: 0.966	
+objective: 0.058
+penalty: 0.001
+loss_avg: 0.086
+acc_avg: 0.967
+  hospital = 0  [n =    592]:	weight: 0.417	loss: 0.096	acc: 0.965	
+  hospital = 3  [n =    464]:	weight: 0.366	loss: 0.070	acc: 0.972	
+  hospital = 4  [n =    544]:	weight: 0.217	loss: 0.090	acc: 0.965	
+objective: 0.066
+penalty: 0.001
+loss_avg: 0.096
+acc_avg: 0.970
+  hospital = 0  [n =    496]:	weight: 0.420	loss: 0.110	acc: 0.968	
+  hospital = 3  [n =    512]:	weight: 0.364	loss: 0.111	acc: 0.967	
+  hospital = 4  [n =    592]:	weight: 0.216	loss: 0.070	acc: 0.975	
+objective: 0.057
+penalty: 0.001
+loss_avg: 0.087
+acc_avg: 0.973
+  hospital = 0  [n =    528]:	weight: 0.420	loss: 0.074	acc: 0.981	
+  hospital = 3  [n =    496]:	weight: 0.365	loss: 0.108	acc: 0.958	
+  hospital = 4  [n =    576]:	weight: 0.216	loss: 0.080	acc: 0.979	
+objective: 0.056
+penalty: 0.001
+loss_avg: 0.082
+acc_avg: 0.974
+  hospital = 0  [n =    592]:	weight: 0.420	loss: 0.096	acc: 0.966	
+  hospital = 3  [n =    496]:	weight: 0.365	loss: 0.069	acc: 0.984	
+  hospital = 4  [n =    512]:	weight: 0.215	loss: 0.080	acc: 0.973	
+objective: 0.065
+penalty: 0.001
+loss_avg: 0.096
+acc_avg: 0.968
+  hospital = 0  [n =    528]:	weight: 0.420	loss: 0.073	acc: 0.975	
+  hospital = 3  [n =    608]:	weight: 0.366	loss: 0.117	acc: 0.956	
+  hospital = 4  [n =    464]:	weight: 0.214	loss: 0.094	acc: 0.974	
+objective: 0.048
+penalty: 0.001
+loss_avg: 0.073
+acc_avg: 0.977
+  hospital = 0  [n =    592]:	weight: 0.418	loss: 0.065	acc: 0.978	
+  hospital = 3  [n =    480]:	weight: 0.367	loss: 0.072	acc: 0.979	
+  hospital = 4  [n =    528]:	weight: 0.214	loss: 0.083	acc: 0.975	
+objective: 0.053
+penalty: 0.001
+loss_avg: 0.081
+acc_avg: 0.973
+  hospital = 0  [n =    592]:	weight: 0.417	loss: 0.073	acc: 0.976	
+  hospital = 3  [n =    432]:	weight: 0.367	loss: 0.090	acc: 0.972	
+  hospital = 4  [n =    576]:	weight: 0.216	loss: 0.084	acc: 0.970	
+objective: 0.066
+penalty: 0.001
+loss_avg: 0.098
+acc_avg: 0.966
+  hospital = 0  [n =    560]:	weight: 0.420	loss: 0.095	acc: 0.964	
+  hospital = 3  [n =    496]:	weight: 0.365	loss: 0.107	acc: 0.962	
+  hospital = 4  [n =    544]:	weight: 0.215	loss: 0.092	acc: 0.971	
+objective: 0.065
+penalty: 0.001
+loss_avg: 0.092
+acc_avg: 0.972
+  hospital = 0  [n =    576]:	weight: 0.420	loss: 0.101	acc: 0.974	
+  hospital = 3  [n =    528]:	weight: 0.366	loss: 0.103	acc: 0.964	
+  hospital = 4  [n =    496]:	weight: 0.214	loss: 0.070	acc: 0.980	
+objective: 0.056
+penalty: 0.001
+loss_avg: 0.083
+acc_avg: 0.974
+  hospital = 0  [n =    544]:	weight: 0.418	loss: 0.062	acc: 0.985	
+  hospital = 3  [n =    560]:	weight: 0.369	loss: 0.110	acc: 0.961	
+  hospital = 4  [n =    496]:	weight: 0.213	loss: 0.074	acc: 0.976	
+objective: 0.051
+penalty: 0.001
+loss_avg: 0.076
+acc_avg: 0.978
+  hospital = 0  [n =    528]:	weight: 0.418	loss: 0.084	acc: 0.973	
+  hospital = 3  [n =    528]:	weight: 0.370	loss: 0.071	acc: 0.981	
+  hospital = 4  [n =    544]:	weight: 0.212	loss: 0.074	acc: 0.978	
+objective: 0.055
+penalty: 0.001
+loss_avg: 0.080
+acc_avg: 0.976
+  hospital = 0  [n =    528]:	weight: 0.420	loss: 0.108	acc: 0.966	
+  hospital = 3  [n =    448]:	weight: 0.369	loss: 0.068	acc: 0.975	
+  hospital = 4  [n =    624]:	weight: 0.212	loss: 0.066	acc: 0.984	
+objective: 0.056
+penalty: 0.001
+loss_avg: 0.085
+acc_avg: 0.971
+  hospital = 0  [n =    592]:	weight: 0.422	loss: 0.078	acc: 0.971	
+  hospital = 3  [n =    528]:	weight: 0.366	loss: 0.076	acc: 0.973	
+  hospital = 4  [n =    480]:	weight: 0.212	loss: 0.105	acc: 0.969	
+objective: 0.040
+penalty: 0.001
+loss_avg: 0.061
+acc_avg: 0.984
+  hospital = 0  [n =    576]:	weight: 0.422	loss: 0.045	acc: 0.991	
+  hospital = 3  [n =    544]:	weight: 0.366	loss: 0.071	acc: 0.980	
+  hospital = 4  [n =    480]:	weight: 0.212	loss: 0.070	acc: 0.979	
+objective: 0.054
+penalty: 0.001
+loss_avg: 0.080
+acc_avg: 0.976
+  hospital = 0  [n =    512]:	weight: 0.418	loss: 0.065	acc: 0.980	
+  hospital = 3  [n =    608]:	weight: 0.369	loss: 0.091	acc: 0.972	
+  hospital = 4  [n =    480]:	weight: 0.212	loss: 0.083	acc: 0.975	
+objective: 0.058
+penalty: 0.001
+loss_avg: 0.088
+acc_avg: 0.972
+  hospital = 0  [n =    480]:	weight: 0.417	loss: 0.086	acc: 0.967	
+  hospital = 3  [n =    576]:	weight: 0.371	loss: 0.088	acc: 0.972	
+  hospital = 4  [n =    544]:	weight: 0.212	loss: 0.090	acc: 0.976	
+objective: 0.064
+penalty: 0.001
+loss_avg: 0.090
+acc_avg: 0.970
+  hospital = 0  [n =    512]:	weight: 0.418	loss: 0.110	acc: 0.961	
+  hospital = 3  [n =    656]:	weight: 0.371	loss: 0.083	acc: 0.974	
+  hospital = 4  [n =    432]:	weight: 0.211	loss: 0.079	acc: 0.975	
+objective: 0.064
+penalty: 0.001
+loss_avg: 0.097
+acc_avg: 0.967
+  hospital = 0  [n =    592]:	weight: 0.418	loss: 0.092	acc: 0.970	
+  hospital = 3  [n =    464]:	weight: 0.372	loss: 0.096	acc: 0.968	
+  hospital = 4  [n =    544]:	weight: 0.211	loss: 0.105	acc: 0.965	
+objective: 0.056
+penalty: 0.001
+loss_avg: 0.087
+acc_avg: 0.968
+  hospital = 0  [n =    544]:	weight: 0.418	loss: 0.071	acc: 0.976	
+  hospital = 3  [n =    544]:	weight: 0.371	loss: 0.085	acc: 0.971	
+  hospital = 4  [n =    512]:	weight: 0.211	loss: 0.104	acc: 0.955	
+objective: 0.059
+penalty: 0.001
+loss_avg: 0.092
+acc_avg: 0.970
+  hospital = 0  [n =    464]:	weight: 0.416	loss: 0.087	acc: 0.976	
+  hospital = 3  [n =    480]:	weight: 0.371	loss: 0.096	acc: 0.960	
+  hospital = 4  [n =    656]:	weight: 0.213	loss: 0.093	acc: 0.973	
+objective: 0.050
+penalty: 0.001
+loss_avg: 0.075
+acc_avg: 0.974
+  hospital = 0  [n =    576]:	weight: 0.417	loss: 0.077	acc: 0.970	
+  hospital = 3  [n =    416]:	weight: 0.370	loss: 0.083	acc: 0.974	
+  hospital = 4  [n =    608]:	weight: 0.214	loss: 0.068	acc: 0.977	
+objective: 0.044
+penalty: 0.001
+loss_avg: 0.066
+acc_avg: 0.982
+  hospital = 0  [n =    512]:	weight: 0.416	loss: 0.071	acc: 0.980	
+  hospital = 3  [n =    528]:	weight: 0.370	loss: 0.067	acc: 0.981	
+  hospital = 4  [n =    560]:	weight: 0.214	loss: 0.060	acc: 0.986	
+objective: 0.059
+penalty: 0.001
+loss_avg: 0.089
+acc_avg: 0.967
+  hospital = 0  [n =    512]:	weight: 0.418	loss: 0.090	acc: 0.967	
+  hospital = 3  [n =    496]:	weight: 0.369	loss: 0.095	acc: 0.968	
+  hospital = 4  [n =    592]:	weight: 0.214	loss: 0.084	acc: 0.966	
+objective: 0.061
+penalty: 0.001
+loss_avg: 0.087
+acc_avg: 0.978
+  hospital = 0  [n =    480]:	weight: 0.417	loss: 0.093	acc: 0.975	
+  hospital = 3  [n =    608]:	weight: 0.370	loss: 0.104	acc: 0.970	
+  hospital = 4  [n =    512]:	weight: 0.213	loss: 0.060	acc: 0.988	
+objective: 0.063
+penalty: 0.001
+loss_avg: 0.094
+acc_avg: 0.969
+  hospital = 0  [n =    592]:	weight: 0.416	loss: 0.095	acc: 0.966	
+  hospital = 3  [n =    432]:	weight: 0.372	loss: 0.100	acc: 0.968	
+  hospital = 4  [n =    576]:	weight: 0.212	loss: 0.090	acc: 0.974	
+objective: 0.063
+penalty: 0.001
+loss_avg: 0.094
+acc_avg: 0.971
+  hospital = 0  [n =    576]:	weight: 0.418	loss: 0.083	acc: 0.976	
+  hospital = 3  [n =    496]:	weight: 0.370	loss: 0.104	acc: 0.968	
+  hospital = 4  [n =    528]:	weight: 0.212	loss: 0.096	acc: 0.968	
+objective: 0.078
+penalty: 0.002
+loss_avg: 0.168
+acc_avg: 0.938
+  hospital = 3  [n =     16]:	weight: 0.371	loss: 0.038	acc: 1.000	
+  hospital = 4  [n =     16]:	weight: 0.213	loss: 0.298	acc: 0.875	
+Epoch eval:
+Average acc: 0.969
+  slide = 0  [n =   7346]:	acc = 0.979
+  slide = 1  [n =   7934]:	acc = 0.976
+  slide = 2  [n =   6888]:	acc = 0.929
+  slide = 3  [n =  23391]:	acc = 0.988
+  slide = 4  [n =  12729]:	acc = 0.983
+  slide = 5  [n =   5554]:	acc = 0.923
+  slide = 6  [n =   5739]:	acc = 0.983
+  slide = 7  [n =   2737]:	acc = 0.978
+  slide = 8  [n =  23262]:	acc = 0.975
+  slide = 9  [n =   6692]:	acc = 0.921
+  slide = 30  [n =   8082]:	acc = 0.985
+  slide = 31  [n =   2695]:	acc = 0.985
+  slide = 32  [n =   6768]:	acc = 0.966
+  slide = 33  [n =   3038]:	acc = 0.985
+  slide = 34  [n =   2921]:	acc = 0.946
+  slide = 35  [n =   4614]:	acc = 0.955
+  slide = 36  [n =   8199]:	acc = 0.994
+  slide = 37  [n =   4146]:	acc = 0.984
+  slide = 38  [n =  43646]:	acc = 0.962
+  slide = 39  [n =  14787]:	acc = 0.958
+  slide = 40  [n =   5019]:	acc = 0.977
+  slide = 41  [n =   7898]:	acc = 0.989
+  slide = 42  [n =   5415]:	acc = 0.978
+  slide = 43  [n =   5535]:	acc = 0.974
+  slide = 44  [n =   5517]:	acc = 0.981
+  slide = 45  [n =   4900]:	acc = 0.959
+  slide = 46  [n =   3452]:	acc = 0.975
+  slide = 47  [n =  10135]:	acc = 0.972
+  slide = 48  [n =  42383]:	acc = 0.967
+  slide = 49  [n =  11010]:	acc = 0.954
+Worst-group acc: 0.921
+
+Validation (OOD):
+objective: 0.000
+penalty: 0.000
+loss_avg: 0.332
+acc_avg: 0.860
+  hospital = 1  [n =  34904]:	weight: 0.000	loss: 0.332	acc: 0.860	
+Epoch eval:
+Average acc: 0.860
+  slide = 10  [n =   2078]:	acc = 0.733
+  slide = 11  [n =   5371]:	acc = 0.682
+  slide = 12  [n =   1705]:	acc = 0.901
+  slide = 13  [n =  10404]:	acc = 0.955
+  slide = 14  [n =    888]:	acc = 0.945
+  slide = 15  [n =   2966]:	acc = 0.927
+  slide = 16  [n =   4971]:	acc = 0.928
+  slide = 17  [n =   2659]:	acc = 0.728
+  slide = 18  [n =   1275]:	acc = 0.897
+  slide = 19  [n =   2587]:	acc = 0.799
+Worst-group acc: 0.682
+Validation acc_avg: 0.860
+Epoch 1 has the best validation performance so far.
+
+
+Epoch [2]:
+
+Train:
+objective: 0.061
+penalty: 0.001
+loss_avg: 0.095
+acc_avg: 0.969
+  hospital = 0  [n =    384]:	weight: 0.415	loss: 0.104	acc: 0.971	
+  hospital = 3  [n =    640]:	weight: 0.371	loss: 0.077	acc: 0.972	
+  hospital = 4  [n =    576]:	weight: 0.214	loss: 0.110	acc: 0.964	
+objective: 0.062
+penalty: 0.001
+loss_avg: 0.087
+acc_avg: 0.972
+  hospital = 0  [n =    544]:	weight: 0.415	loss: 0.101	acc: 0.969	
+  hospital = 3  [n =    528]:	weight: 0.372	loss: 0.101	acc: 0.964	
+  hospital = 4  [n =    528]:	weight: 0.213	loss: 0.058	acc: 0.983	
+objective: 0.050
+penalty: 0.001
+loss_avg: 0.077
+acc_avg: 0.975
+  hospital = 0  [n =    448]:	weight: 0.414	loss: 0.065	acc: 0.982	
+  hospital = 3  [n =    480]:	weight: 0.374	loss: 0.098	acc: 0.967	
+  hospital = 4  [n =    672]:	weight: 0.213	loss: 0.071	acc: 0.976	
+objective: 0.061
+penalty: 0.001
+loss_avg: 0.090
+acc_avg: 0.972
+  hospital = 0  [n =    544]:	weight: 0.412	loss: 0.077	acc: 0.976	
+  hospital = 3  [n =    512]:	weight: 0.375	loss: 0.118	acc: 0.961	
+  hospital = 4  [n =    544]:	weight: 0.213	loss: 0.077	acc: 0.978	
+objective: 0.061
+penalty: 0.001
+loss_avg: 0.090
+acc_avg: 0.971
+  hospital = 0  [n =    464]:	weight: 0.409	loss: 0.087	acc: 0.968	
+  hospital = 3  [n =    608]:	weight: 0.379	loss: 0.104	acc: 0.967	
+  hospital = 4  [n =    528]:	weight: 0.212	loss: 0.075	acc: 0.977	
+objective: 0.061
+penalty: 0.001
+loss_avg: 0.095
+acc_avg: 0.971
+  hospital = 0  [n =    496]:	weight: 0.408	loss: 0.084	acc: 0.974	
+  hospital = 3  [n =    592]:	weight: 0.381	loss: 0.082	acc: 0.983	
+  hospital = 4  [n =    512]:	weight: 0.212	loss: 0.120	acc: 0.955	
+objective: 0.055
+penalty: 0.001
+loss_avg: 0.084
+acc_avg: 0.969
+  hospital = 0  [n =    528]:	weight: 0.406	loss: 0.078	acc: 0.970	
+  hospital = 3  [n =    528]:	weight: 0.380	loss: 0.080	acc: 0.975	
+  hospital = 4  [n =    544]:	weight: 0.213	loss: 0.096	acc: 0.963	
+objective: 0.055
+penalty: 0.001
+loss_avg: 0.082
+acc_avg: 0.976
+  hospital = 0  [n =    480]:	weight: 0.407	loss: 0.086	acc: 0.971	
+  hospital = 3  [n =    608]:	weight: 0.380	loss: 0.082	acc: 0.977	
+  hospital = 4  [n =    512]:	weight: 0.213	loss: 0.078	acc: 0.980	
+objective: 0.061
+penalty: 0.001
+loss_avg: 0.091
+acc_avg: 0.969
+  hospital = 0  [n =    448]:	weight: 0.404	loss: 0.084	acc: 0.980	
+  hospital = 3  [n =    592]:	weight: 0.383	loss: 0.104	acc: 0.965	
+  hospital = 4  [n =    560]:	weight: 0.213	loss: 0.083	acc: 0.964	
+objective: 0.066
+penalty: 0.001
+loss_avg: 0.097
+acc_avg: 0.967
+  hospital = 0  [n =    464]:	weight: 0.401	loss: 0.088	acc: 0.970	
+  hospital = 3  [n =    560]:	weight: 0.387	loss: 0.128	acc: 0.957	
+  hospital = 4  [n =    576]:	weight: 0.213	loss: 0.074	acc: 0.974	
+objective: 0.056
+penalty: 0.001
+loss_avg: 0.082
+acc_avg: 0.970
+  hospital = 0  [n =    544]:	weight: 0.400	loss: 0.088	acc: 0.963	
+  hospital = 3  [n =    496]:	weight: 0.388	loss: 0.092	acc: 0.964	
+  hospital = 4  [n =    560]:	weight: 0.211	loss: 0.069	acc: 0.982	
+objective: 0.061
+penalty: 0.001
+loss_avg: 0.090
+acc_avg: 0.971
+  hospital = 0  [n =    624]:	weight: 0.402	loss: 0.101	acc: 0.974	
+  hospital = 3  [n =    512]:	weight: 0.388	loss: 0.073	acc: 0.973	
+  hospital = 4  [n =    464]:	weight: 0.211	loss: 0.094	acc: 0.966	
+objective: 0.061
+penalty: 0.001
+loss_avg: 0.094
+acc_avg: 0.967
+  hospital = 0  [n =    512]:	weight: 0.403	loss: 0.081	acc: 0.979	
+  hospital = 3  [n =    480]:	weight: 0.386	loss: 0.109	acc: 0.954	
+  hospital = 4  [n =    608]:	weight: 0.211	loss: 0.092	acc: 0.967	
+objective: 0.067
+penalty: 0.001
+loss_avg: 0.103
+acc_avg: 0.966
+  hospital = 0  [n =    480]:	weight: 0.402	loss: 0.100	acc: 0.963	
+  hospital = 3  [n =    592]:	weight: 0.387	loss: 0.094	acc: 0.971	
+  hospital = 4  [n =    528]:	weight: 0.212	loss: 0.115	acc: 0.964	
+objective: 0.063
+penalty: 0.001
+loss_avg: 0.101
+acc_avg: 0.969
+  hospital = 0  [n =    480]:	weight: 0.399	loss: 0.075	acc: 0.981	
+  hospital = 3  [n =    560]:	weight: 0.388	loss: 0.096	acc: 0.971	
+  hospital = 4  [n =    560]:	weight: 0.214	loss: 0.127	acc: 0.957	
+objective: 0.066
+penalty: 0.001
+loss_avg: 0.097
+acc_avg: 0.969
+  hospital = 0  [n =    528]:	weight: 0.397	loss: 0.105	acc: 0.970	
+  hospital = 3  [n =    560]:	weight: 0.389	loss: 0.092	acc: 0.971	
+  hospital = 4  [n =    512]:	weight: 0.214	loss: 0.093	acc: 0.967	
+objective: 0.051
+penalty: 0.001
+loss_avg: 0.076
+acc_avg: 0.977
+  hospital = 0  [n =    496]:	weight: 0.396	loss: 0.066	acc: 0.984	
+  hospital = 3  [n =    496]:	weight: 0.390	loss: 0.097	acc: 0.966	
+  hospital = 4  [n =    608]:	weight: 0.214	loss: 0.067	acc: 0.980	
+objective: 0.050
+penalty: 0.001
+loss_avg: 0.077
+acc_avg: 0.976
+  hospital = 0  [n =    528]:	weight: 0.396	loss: 0.075	acc: 0.977	
+  hospital = 3  [n =    560]:	weight: 0.389	loss: 0.067	acc: 0.977	
+  hospital = 4  [n =    512]:	weight: 0.215	loss: 0.091	acc: 0.973	
+objective: 0.055
+penalty: 0.001
+loss_avg: 0.081
+acc_avg: 0.975
+  hospital = 0  [n =    640]:	weight: 0.396	loss: 0.069	acc: 0.981	
+  hospital = 3  [n =    464]:	weight: 0.388	loss: 0.094	acc: 0.970	
+  hospital = 4  [n =    496]:	weight: 0.216	loss: 0.086	acc: 0.972	
+objective: 0.067
+penalty: 0.001
+loss_avg: 0.099
+acc_avg: 0.971
+  hospital = 0  [n =    512]:	weight: 0.394	loss: 0.090	acc: 0.973	
+  hospital = 3  [n =    544]:	weight: 0.391	loss: 0.116	acc: 0.960	
+  hospital = 4  [n =    544]:	weight: 0.215	loss: 0.091	acc: 0.982	
+objective: 0.053
+penalty: 0.000
+loss_avg: 0.083
+acc_avg: 0.976
+  hospital = 0  [n =    624]:	weight: 0.394	loss: 0.059	acc: 0.984	
+  hospital = 3  [n =    464]:	weight: 0.391	loss: 0.092	acc: 0.976	
+  hospital = 4  [n =    512]:	weight: 0.215	loss: 0.102	acc: 0.967	
+objective: 0.043
+penalty: 0.001
+loss_avg: 0.065
+acc_avg: 0.979
+  hospital = 0  [n =    512]:	weight: 0.392	loss: 0.055	acc: 0.982	
+  hospital = 3  [n =    592]:	weight: 0.392	loss: 0.067	acc: 0.981	
+  hospital = 4  [n =    496]:	weight: 0.216	loss: 0.072	acc: 0.974	
+objective: 0.052
+penalty: 0.001
+loss_avg: 0.079
+acc_avg: 0.976
+  hospital = 0  [n =    448]:	weight: 0.390	loss: 0.086	acc: 0.973	
+  hospital = 3  [n =    656]:	weight: 0.394	loss: 0.065	acc: 0.983	
+  hospital = 4  [n =    496]:	weight: 0.216	loss: 0.091	acc: 0.968	
+objective: 0.063
+penalty: 0.001
+loss_avg: 0.096
+acc_avg: 0.969
+  hospital = 0  [n =    560]:	weight: 0.391	loss: 0.092	acc: 0.970	
+  hospital = 3  [n =    544]:	weight: 0.392	loss: 0.082	acc: 0.976	
+  hospital = 4  [n =    496]:	weight: 0.217	loss: 0.118	acc: 0.960	
+objective: 0.052
+penalty: 0.001
+loss_avg: 0.075
+acc_avg: 0.976
+  hospital = 0  [n =    560]:	weight: 0.391	loss: 0.072	acc: 0.979	
+  hospital = 3  [n =    560]:	weight: 0.392	loss: 0.083	acc: 0.973	
+  hospital = 4  [n =    480]:	weight: 0.217	loss: 0.069	acc: 0.977	
+objective: 0.048
+penalty: 0.001
+loss_avg: 0.072
+acc_avg: 0.979
+  hospital = 0  [n =    544]:	weight: 0.390	loss: 0.068	acc: 0.980	
+  hospital = 3  [n =    464]:	weight: 0.393	loss: 0.085	acc: 0.976	
+  hospital = 4  [n =    592]:	weight: 0.217	loss: 0.067	acc: 0.981	
+objective: 0.047
+penalty: 0.001
+loss_avg: 0.068
+acc_avg: 0.984
+  hospital = 0  [n =    496]:	weight: 0.389	loss: 0.075	acc: 0.980	
+  hospital = 3  [n =    592]:	weight: 0.395	loss: 0.071	acc: 0.983	
+  hospital = 4  [n =    512]:	weight: 0.216	loss: 0.057	acc: 0.988	
+objective: 0.054
+penalty: 0.001
+loss_avg: 0.081
+acc_avg: 0.970
+  hospital = 0  [n =    528]:	weight: 0.390	loss: 0.081	acc: 0.970	
+  hospital = 3  [n =    576]:	weight: 0.394	loss: 0.073	acc: 0.970	
+  hospital = 4  [n =    496]:	weight: 0.216	loss: 0.089	acc: 0.970	
+objective: 0.057
+penalty: 0.001
+loss_avg: 0.094
+acc_avg: 0.968
+  hospital = 0  [n =    512]:	weight: 0.389	loss: 0.073	acc: 0.973	
+  hospital = 3  [n =    496]:	weight: 0.393	loss: 0.071	acc: 0.974	
+  hospital = 4  [n =    592]:	weight: 0.218	loss: 0.132	acc: 0.958	
+objective: 0.063
+penalty: 0.001
+loss_avg: 0.093
+acc_avg: 0.971
+  hospital = 0  [n =    560]:	weight: 0.387	loss: 0.076	acc: 0.977	
+  hospital = 3  [n =    528]:	weight: 0.394	loss: 0.113	acc: 0.966	
+  hospital = 4  [n =    512]:	weight: 0.220	loss: 0.090	acc: 0.969	
+objective: 0.058
+penalty: 0.001
+loss_avg: 0.086
+acc_avg: 0.974
+  hospital = 0  [n =    544]:	weight: 0.387	loss: 0.087	acc: 0.974	
+  hospital = 3  [n =    528]:	weight: 0.395	loss: 0.094	acc: 0.970	
+  hospital = 4  [n =    528]:	weight: 0.219	loss: 0.075	acc: 0.977	
+objective: 0.053
+penalty: 0.001
+loss_avg: 0.079
+acc_avg: 0.976
+  hospital = 0  [n =    624]:	weight: 0.387	loss: 0.070	acc: 0.979	
+  hospital = 3  [n =    448]:	weight: 0.396	loss: 0.094	acc: 0.971	
+  hospital = 4  [n =    528]:	weight: 0.218	loss: 0.079	acc: 0.975	
+objective: 0.072
+penalty: 0.001
+loss_avg: 0.105
+acc_avg: 0.962
+  hospital = 0  [n =    576]:	weight: 0.387	loss: 0.113	acc: 0.962	
+  hospital = 3  [n =    544]:	weight: 0.395	loss: 0.099	acc: 0.961	
+  hospital = 4  [n =    480]:	weight: 0.218	loss: 0.103	acc: 0.962	
+objective: 0.049
+penalty: 0.001
+loss_avg: 0.075
+acc_avg: 0.978
+  hospital = 0  [n =    480]:	weight: 0.388	loss: 0.082	acc: 0.977	
+  hospital = 3  [n =    544]:	weight: 0.394	loss: 0.068	acc: 0.978	
+  hospital = 4  [n =    576]:	weight: 0.217	loss: 0.076	acc: 0.977	
+objective: 0.062
+penalty: 0.001
+loss_avg: 0.090
+acc_avg: 0.968
+  hospital = 0  [n =    416]:	weight: 0.387	loss: 0.086	acc: 0.974	
+  hospital = 3  [n =    608]:	weight: 0.396	loss: 0.116	acc: 0.954	
+  hospital = 4  [n =    576]:	weight: 0.218	loss: 0.065	acc: 0.977	
+objective: 0.057
+penalty: 0.001
+loss_avg: 0.081
+acc_avg: 0.976
+  hospital = 0  [n =    560]:	weight: 0.385	loss: 0.095	acc: 0.968	
+  hospital = 3  [n =    576]:	weight: 0.400	loss: 0.082	acc: 0.976	
+  hospital = 4  [n =    464]:	weight: 0.215	loss: 0.062	acc: 0.985	
+objective: 0.078
+penalty: 0.001
+loss_avg: 0.119
+acc_avg: 0.959
+  hospital = 0  [n =    464]:	weight: 0.387	loss: 0.129	acc: 0.955	
+  hospital = 3  [n =    560]:	weight: 0.399	loss: 0.107	acc: 0.968	
+  hospital = 4  [n =    576]:	weight: 0.214	loss: 0.122	acc: 0.953	
+objective: 0.063
+penalty: 0.001
+loss_avg: 0.092
+acc_avg: 0.976
+  hospital = 0  [n =    496]:	weight: 0.387	loss: 0.104	acc: 0.974	
+  hospital = 3  [n =    576]:	weight: 0.398	loss: 0.088	acc: 0.972	
+  hospital = 4  [n =    528]:	weight: 0.215	loss: 0.086	acc: 0.981	
+objective: 0.054
+penalty: 0.001
+loss_avg: 0.081
+acc_avg: 0.972
+  hospital = 0  [n =    576]:	weight: 0.387	loss: 0.079	acc: 0.977	
+  hospital = 3  [n =    528]:	weight: 0.398	loss: 0.077	acc: 0.972	
+  hospital = 4  [n =    496]:	weight: 0.215	loss: 0.087	acc: 0.966	
+objective: 0.062
+penalty: 0.001
+loss_avg: 0.093
+acc_avg: 0.971
+  hospital = 0  [n =    640]:	weight: 0.389	loss: 0.096	acc: 0.966	
+  hospital = 3  [n =    432]:	weight: 0.397	loss: 0.091	acc: 0.975	
+  hospital = 4  [n =    528]:	weight: 0.214	loss: 0.090	acc: 0.973	
+objective: 0.073
+penalty: 0.001
+loss_avg: 0.106
+acc_avg: 0.964
+  hospital = 0  [n =    528]:	weight: 0.390	loss: 0.091	acc: 0.973	
+  hospital = 3  [n =    544]:	weight: 0.397	loss: 0.137	acc: 0.947	
+  hospital = 4  [n =    528]:	weight: 0.214	loss: 0.090	acc: 0.972	
+objective: 0.064
+penalty: 0.001
+loss_avg: 0.099
+acc_avg: 0.966
+  hospital = 0  [n =    608]:	weight: 0.388	loss: 0.081	acc: 0.977	
+  hospital = 3  [n =    496]:	weight: 0.398	loss: 0.099	acc: 0.968	
+  hospital = 4  [n =    496]:	weight: 0.214	loss: 0.120	acc: 0.950	
+objective: 0.054
+penalty: 0.001
+loss_avg: 0.084
+acc_avg: 0.974
+  hospital = 0  [n =    480]:	weight: 0.387	loss: 0.079	acc: 0.979	
+  hospital = 3  [n =    528]:	weight: 0.399	loss: 0.082	acc: 0.973	
+  hospital = 4  [n =    592]:	weight: 0.214	loss: 0.090	acc: 0.970	
+objective: 0.050
+penalty: 0.001
+loss_avg: 0.078
+acc_avg: 0.974
+  hospital = 0  [n =    512]:	weight: 0.387	loss: 0.080	acc: 0.971	
+  hospital = 3  [n =    544]:	weight: 0.397	loss: 0.059	acc: 0.985	
+  hospital = 4  [n =    544]:	weight: 0.216	loss: 0.096	acc: 0.967	
+objective: 0.058
+penalty: 0.001
+loss_avg: 0.089
+acc_avg: 0.971
+  hospital = 0  [n =    608]:	weight: 0.386	loss: 0.073	acc: 0.980	
+  hospital = 3  [n =    432]:	weight: 0.397	loss: 0.104	acc: 0.963	
+  hospital = 4  [n =    560]:	weight: 0.218	loss: 0.094	acc: 0.968	
+objective: 0.054
+penalty: 0.001
+loss_avg: 0.079
+acc_avg: 0.971
+  hospital = 0  [n =    496]:	weight: 0.385	loss: 0.083	acc: 0.970	
+  hospital = 3  [n =    592]:	weight: 0.398	loss: 0.082	acc: 0.970	
+  hospital = 4  [n =    512]:	weight: 0.217	loss: 0.073	acc: 0.975	
+objective: 0.049
+penalty: 0.001
+loss_avg: 0.073
+acc_avg: 0.982
+  hospital = 0  [n =    512]:	weight: 0.386	loss: 0.077	acc: 0.984	
+  hospital = 3  [n =    576]:	weight: 0.397	loss: 0.067	acc: 0.986	
+  hospital = 4  [n =    512]:	weight: 0.217	loss: 0.075	acc: 0.975	
+objective: 0.050
+penalty: 0.001
+loss_avg: 0.079
+acc_avg: 0.974
+  hospital = 0  [n =    560]:	weight: 0.387	loss: 0.083	acc: 0.971	
+  hospital = 3  [n =    480]:	weight: 0.396	loss: 0.050	acc: 0.983	
+  hospital = 4  [n =    560]:	weight: 0.217	loss: 0.101	acc: 0.970	
+objective: 0.071
+penalty: 0.001
+loss_avg: 0.105
+acc_avg: 0.968
+  hospital = 0  [n =    560]:	weight: 0.387	loss: 0.102	acc: 0.970	
+  hospital = 3  [n =    528]:	weight: 0.394	loss: 0.114	acc: 0.964	
+  hospital = 4  [n =    512]:	weight: 0.218	loss: 0.101	acc: 0.971	
+objective: 0.060
+penalty: 0.001
+loss_avg: 0.087
+acc_avg: 0.971
+  hospital = 0  [n =    512]:	weight: 0.387	loss: 0.089	acc: 0.971	
+  hospital = 3  [n =    592]:	weight: 0.395	loss: 0.093	acc: 0.965	
+  hospital = 4  [n =    496]:	weight: 0.217	loss: 0.077	acc: 0.978	
+objective: 0.072
+penalty: 0.001
+loss_avg: 0.104
+acc_avg: 0.967
+  hospital = 0  [n =    496]:	weight: 0.386	loss: 0.104	acc: 0.966	
+  hospital = 3  [n =    608]:	weight: 0.398	loss: 0.113	acc: 0.969	
+  hospital = 4  [n =    496]:	weight: 0.217	loss: 0.093	acc: 0.966	
+objective: 0.057
+penalty: 0.000
+loss_avg: 0.085
+acc_avg: 0.972
+  hospital = 0  [n =    512]:	weight: 0.383	loss: 0.066	acc: 0.982	
+  hospital = 3  [n =    592]:	weight: 0.401	loss: 0.099	acc: 0.965	
+  hospital = 4  [n =    496]:	weight: 0.215	loss: 0.086	acc: 0.970	
+objective: 0.052
+penalty: 0.001
+loss_avg: 0.077
+acc_avg: 0.974
+  hospital = 0  [n =    576]:	weight: 0.382	loss: 0.075	acc: 0.974	
+  hospital = 3  [n =    528]:	weight: 0.403	loss: 0.075	acc: 0.975	
+  hospital = 4  [n =    496]:	weight: 0.215	loss: 0.083	acc: 0.972	
+objective: 0.061
+penalty: 0.001
+loss_avg: 0.091
+acc_avg: 0.972
+  hospital = 0  [n =    512]:	weight: 0.383	loss: 0.086	acc: 0.969	
+  hospital = 3  [n =    592]:	weight: 0.402	loss: 0.093	acc: 0.971	
+  hospital = 4  [n =    496]:	weight: 0.215	loss: 0.095	acc: 0.978	
+objective: 0.059
+penalty: 0.001
+loss_avg: 0.083
+acc_avg: 0.975
+  hospital = 0  [n =    544]:	weight: 0.382	loss: 0.097	acc: 0.965	
+  hospital = 3  [n =    592]:	weight: 0.404	loss: 0.085	acc: 0.978	
+  hospital = 4  [n =    464]:	weight: 0.214	loss: 0.065	acc: 0.983	
+objective: 0.065
+penalty: 0.000
+loss_avg: 0.091
+acc_avg: 0.969
+  hospital = 0  [n =    528]:	weight: 0.385	loss: 0.123	acc: 0.956	
+  hospital = 3  [n =    560]:	weight: 0.405	loss: 0.093	acc: 0.971	
+  hospital = 4  [n =    512]:	weight: 0.211	loss: 0.057	acc: 0.980	
+objective: 0.053
+penalty: 0.001
+loss_avg: 0.080
+acc_avg: 0.974
+  hospital = 0  [n =    576]:	weight: 0.387	loss: 0.077	acc: 0.976	
+  hospital = 3  [n =    528]:	weight: 0.404	loss: 0.074	acc: 0.977	
+  hospital = 4  [n =    496]:	weight: 0.210	loss: 0.090	acc: 0.970	
+objective: 0.054
+penalty: 0.001
+loss_avg: 0.082
+acc_avg: 0.971
+  hospital = 0  [n =    496]:	weight: 0.386	loss: 0.079	acc: 0.970	
+  hospital = 3  [n =    576]:	weight: 0.404	loss: 0.082	acc: 0.972	
+  hospital = 4  [n =    528]:	weight: 0.210	loss: 0.084	acc: 0.972	
+objective: 0.062
+penalty: 0.000
+loss_avg: 0.093
+acc_avg: 0.970
+  hospital = 0  [n =    592]:	weight: 0.386	loss: 0.081	acc: 0.978	
+  hospital = 3  [n =    480]:	weight: 0.405	loss: 0.108	acc: 0.962	
+  hospital = 4  [n =    528]:	weight: 0.210	loss: 0.093	acc: 0.968	
+objective: 0.064
+penalty: 0.001
+loss_avg: 0.095
+acc_avg: 0.968
+  hospital = 0  [n =    576]:	weight: 0.387	loss: 0.111	acc: 0.960	
+  hospital = 3  [n =    560]:	weight: 0.404	loss: 0.075	acc: 0.977	
+  hospital = 4  [n =    464]:	weight: 0.210	loss: 0.099	acc: 0.968	
+objective: 0.062
+penalty: 0.001
+loss_avg: 0.094
+acc_avg: 0.966
+  hospital = 0  [n =    592]:	weight: 0.389	loss: 0.091	acc: 0.968	
+  hospital = 3  [n =    496]:	weight: 0.402	loss: 0.092	acc: 0.964	
+  hospital = 4  [n =    512]:	weight: 0.208	loss: 0.099	acc: 0.965	
+objective: 0.056
+penalty: 0.001
+loss_avg: 0.080
+acc_avg: 0.978
+  hospital = 0  [n =    544]:	weight: 0.390	loss: 0.089	acc: 0.974	
+  hospital = 3  [n =    560]:	weight: 0.402	loss: 0.083	acc: 0.977	
+  hospital = 4  [n =    496]:	weight: 0.208	loss: 0.065	acc: 0.984	
+objective: 0.053
+penalty: 0.001
+loss_avg: 0.079
+acc_avg: 0.974
+  hospital = 0  [n =    560]:	weight: 0.390	loss: 0.084	acc: 0.973	
+  hospital = 3  [n =    560]:	weight: 0.402	loss: 0.073	acc: 0.977	
+  hospital = 4  [n =    480]:	weight: 0.208	loss: 0.079	acc: 0.973	
+objective: 0.069
+penalty: 0.001
+loss_avg: 0.100
+acc_avg: 0.964
+  hospital = 0  [n =    464]:	weight: 0.390	loss: 0.121	acc: 0.957	
+  hospital = 3  [n =    592]:	weight: 0.403	loss: 0.100	acc: 0.958	
+  hospital = 4  [n =    544]:	weight: 0.206	loss: 0.082	acc: 0.976	
+objective: 0.066
+penalty: 0.001
+loss_avg: 0.099
+acc_avg: 0.963
+  hospital = 0  [n =    592]:	weight: 0.392	loss: 0.085	acc: 0.966	
+  hospital = 3  [n =    480]:	weight: 0.403	loss: 0.120	acc: 0.956	
+  hospital = 4  [n =    528]:	weight: 0.206	loss: 0.095	acc: 0.966	
+objective: 0.051
+penalty: 0.000
+loss_avg: 0.074
+acc_avg: 0.977
+  hospital = 0  [n =    544]:	weight: 0.391	loss: 0.078	acc: 0.976	
+  hospital = 3  [n =    544]:	weight: 0.404	loss: 0.075	acc: 0.978	
+  hospital = 4  [n =    512]:	weight: 0.205	loss: 0.069	acc: 0.979	
+objective: 0.061
+penalty: 0.001
+loss_avg: 0.099
+acc_avg: 0.971
+  hospital = 0  [n =    496]:	weight: 0.389	loss: 0.060	acc: 0.988	
+  hospital = 3  [n =    544]:	weight: 0.406	loss: 0.101	acc: 0.967	
+  hospital = 4  [n =    560]:	weight: 0.205	loss: 0.132	acc: 0.961	
+objective: 0.051
+penalty: 0.000
+loss_avg: 0.074
+acc_avg: 0.979
+  hospital = 0  [n =    544]:	weight: 0.386	loss: 0.074	acc: 0.982	
+  hospital = 3  [n =    544]:	weight: 0.406	loss: 0.080	acc: 0.974	
+  hospital = 4  [n =    512]:	weight: 0.208	loss: 0.067	acc: 0.982	
+objective: 0.063
+penalty: 0.001
+loss_avg: 0.096
+acc_avg: 0.971
+  hospital = 0  [n =    496]:	weight: 0.385	loss: 0.079	acc: 0.982	
+  hospital = 3  [n =    544]:	weight: 0.408	loss: 0.105	acc: 0.969	
+  hospital = 4  [n =    560]:	weight: 0.208	loss: 0.103	acc: 0.964	
+objective: 0.048
+penalty: 0.000
+loss_avg: 0.077
+acc_avg: 0.976
+  hospital = 0  [n =    560]:	weight: 0.383	loss: 0.071	acc: 0.980	
+  hospital = 3  [n =    512]:	weight: 0.407	loss: 0.055	acc: 0.980	
+  hospital = 4  [n =    528]:	weight: 0.209	loss: 0.105	acc: 0.968	
+objective: 0.068
+penalty: 0.001
+loss_avg: 0.102
+acc_avg: 0.967
+  hospital = 0  [n =    512]:	weight: 0.384	loss: 0.110	acc: 0.967	
+  hospital = 3  [n =    560]:	weight: 0.406	loss: 0.094	acc: 0.970	
+  hospital = 4  [n =    528]:	weight: 0.210	loss: 0.103	acc: 0.964	
+objective: 0.059
+penalty: 0.000
+loss_avg: 0.085
+acc_avg: 0.972
+  hospital = 0  [n =    544]:	weight: 0.387	loss: 0.113	acc: 0.963	
+  hospital = 3  [n =    544]:	weight: 0.403	loss: 0.069	acc: 0.982	
+  hospital = 4  [n =    512]:	weight: 0.210	loss: 0.073	acc: 0.971	
+objective: 0.065
+penalty: 0.001
+loss_avg: 0.100
+acc_avg: 0.967
+  hospital = 0  [n =    560]:	weight: 0.389	loss: 0.124	acc: 0.954	
+  hospital = 3  [n =    496]:	weight: 0.402	loss: 0.062	acc: 0.986	
+  hospital = 4  [n =    544]:	weight: 0.210	loss: 0.110	acc: 0.963	
+objective: 0.054
+penalty: 0.000
+loss_avg: 0.077
+acc_avg: 0.977
+  hospital = 0  [n =    592]:	weight: 0.394	loss: 0.084	acc: 0.976	
+  hospital = 3  [n =    528]:	weight: 0.398	loss: 0.084	acc: 0.973	
+  hospital = 4  [n =    480]:	weight: 0.209	loss: 0.062	acc: 0.981	
+objective: 0.039
+penalty: 0.000
+loss_avg: 0.063
+acc_avg: 0.983
+  hospital = 0  [n =    448]:	weight: 0.394	loss: 0.063	acc: 0.982	
+  hospital = 3  [n =    576]:	weight: 0.397	loss: 0.043	acc: 0.993	
+  hospital = 4  [n =    576]:	weight: 0.209	loss: 0.082	acc: 0.972	
+objective: 0.053
+penalty: 0.000
+loss_avg: 0.085
+acc_avg: 0.972
+  hospital = 0  [n =    560]:	weight: 0.392	loss: 0.054	acc: 0.984	
+  hospital = 3  [n =    496]:	weight: 0.396	loss: 0.086	acc: 0.976	
+  hospital = 4  [n =    544]:	weight: 0.211	loss: 0.116	acc: 0.956	
+objective: 0.061
+penalty: 0.000
+loss_avg: 0.092
+acc_avg: 0.973
+  hospital = 0  [n =    544]:	weight: 0.391	loss: 0.093	acc: 0.974	
+  hospital = 3  [n =    544]:	weight: 0.396	loss: 0.082	acc: 0.980	
+  hospital = 4  [n =    512]:	weight: 0.214	loss: 0.102	acc: 0.965	
+objective: 0.063
+penalty: 0.001
+loss_avg: 0.099
+acc_avg: 0.967
+  hospital = 0  [n =    528]:	weight: 0.391	loss: 0.096	acc: 0.972	
+  hospital = 3  [n =    496]:	weight: 0.394	loss: 0.081	acc: 0.974	
+  hospital = 4  [n =    576]:	weight: 0.215	loss: 0.117	acc: 0.957	
+objective: 0.051
+penalty: 0.001
+loss_avg: 0.082
+acc_avg: 0.976
+  hospital = 0  [n =    448]:	weight: 0.390	loss: 0.059	acc: 0.989	
+  hospital = 3  [n =    576]:	weight: 0.393	loss: 0.073	acc: 0.976	
+  hospital = 4  [n =    576]:	weight: 0.217	loss: 0.107	acc: 0.965	
+objective: 0.057
+penalty: 0.001
+loss_avg: 0.088
+acc_avg: 0.971
+  hospital = 0  [n =    560]:	weight: 0.388	loss: 0.087	acc: 0.973	
+  hospital = 3  [n =    448]:	weight: 0.392	loss: 0.084	acc: 0.971	
+  hospital = 4  [n =    592]:	weight: 0.220	loss: 0.092	acc: 0.970	
+objective: 0.050
+penalty: 0.001
+loss_avg: 0.072
+acc_avg: 0.976
+  hospital = 0  [n =    560]:	weight: 0.388	loss: 0.053	acc: 0.986	
+  hospital = 3  [n =    608]:	weight: 0.394	loss: 0.089	acc: 0.965	
+  hospital = 4  [n =    432]:	weight: 0.219	loss: 0.071	acc: 0.979	
+objective: 0.065
+penalty: 0.000
+loss_avg: 0.093
+acc_avg: 0.969
+  hospital = 0  [n =    544]:	weight: 0.388	loss: 0.127	acc: 0.952	
+  hospital = 3  [n =    528]:	weight: 0.394	loss: 0.079	acc: 0.975	
+  hospital = 4  [n =    528]:	weight: 0.218	loss: 0.073	acc: 0.979	
+objective: 0.061
+penalty: 0.001
+loss_avg: 0.094
+acc_avg: 0.972
+  hospital = 0  [n =    528]:	weight: 0.390	loss: 0.081	acc: 0.973	
+  hospital = 3  [n =    480]:	weight: 0.392	loss: 0.104	acc: 0.971	
+  hospital = 4  [n =    592]:	weight: 0.217	loss: 0.098	acc: 0.971	
+objective: 0.047
+penalty: 0.000
+loss_avg: 0.073
+acc_avg: 0.976
+  hospital = 0  [n =    448]:	weight: 0.389	loss: 0.076	acc: 0.978	
+  hospital = 3  [n =    592]:	weight: 0.392	loss: 0.061	acc: 0.980	
+  hospital = 4  [n =    560]:	weight: 0.219	loss: 0.083	acc: 0.971	
+objective: 0.049
+penalty: 0.000
+loss_avg: 0.074
+acc_avg: 0.977
+  hospital = 0  [n =    448]:	weight: 0.388	loss: 0.091	acc: 0.967	
+  hospital = 3  [n =    576]:	weight: 0.392	loss: 0.063	acc: 0.979	
+  hospital = 4  [n =    576]:	weight: 0.220	loss: 0.071	acc: 0.983	
+objective: 0.059
+penalty: 0.000
+loss_avg: 0.085
+acc_avg: 0.966
+  hospital = 0  [n =    528]:	weight: 0.388	loss: 0.100	acc: 0.962	
+  hospital = 3  [n =    560]:	weight: 0.392	loss: 0.084	acc: 0.964	
+  hospital = 4  [n =    512]:	weight: 0.219	loss: 0.070	acc: 0.971	
+objective: 0.066
+penalty: 0.001
+loss_avg: 0.096
+acc_avg: 0.970
+  hospital = 0  [n =    464]:	weight: 0.389	loss: 0.092	acc: 0.970	
+  hospital = 3  [n =    688]:	weight: 0.394	loss: 0.098	acc: 0.969	
+  hospital = 4  [n =    448]:	weight: 0.217	loss: 0.096	acc: 0.971	
+objective: 0.063
+penalty: 0.001
+loss_avg: 0.096
+acc_avg: 0.971
+  hospital = 0  [n =    496]:	weight: 0.387	loss: 0.097	acc: 0.974	
+  hospital = 3  [n =    640]:	weight: 0.395	loss: 0.076	acc: 0.973	
+  hospital = 4  [n =    464]:	weight: 0.218	loss: 0.122	acc: 0.966	
+objective: 0.057
+penalty: 0.000
+loss_avg: 0.085
+acc_avg: 0.971
+  hospital = 0  [n =    544]:	weight: 0.386	loss: 0.073	acc: 0.980	
+  hospital = 3  [n =    480]:	weight: 0.396	loss: 0.106	acc: 0.958	
+  hospital = 4  [n =    576]:	weight: 0.218	loss: 0.079	acc: 0.972	
+objective: 0.057
+penalty: 0.000
+loss_avg: 0.088
+acc_avg: 0.973
+  hospital = 0  [n =    496]:	weight: 0.386	loss: 0.084	acc: 0.978	
+  hospital = 3  [n =    544]:	weight: 0.396	loss: 0.079	acc: 0.974	
+  hospital = 4  [n =    560]:	weight: 0.218	loss: 0.101	acc: 0.966	
+objective: 0.067
+penalty: 0.001
+loss_avg: 0.098
+acc_avg: 0.969
+  hospital = 0  [n =    544]:	weight: 0.384	loss: 0.085	acc: 0.971	
+  hospital = 3  [n =    480]:	weight: 0.398	loss: 0.132	acc: 0.967	
+  hospital = 4  [n =    576]:	weight: 0.219	loss: 0.081	acc: 0.970	
+objective: 0.057
+penalty: 0.000
+loss_avg: 0.084
+acc_avg: 0.974
+  hospital = 0  [n =    496]:	weight: 0.384	loss: 0.092	acc: 0.968	
+  hospital = 3  [n =    576]:	weight: 0.398	loss: 0.083	acc: 0.976	
+  hospital = 4  [n =    528]:	weight: 0.218	loss: 0.078	acc: 0.979	
+objective: 0.063
+penalty: 0.000
+loss_avg: 0.099
+acc_avg: 0.964
+  hospital = 0  [n =    512]:	weight: 0.384	loss: 0.100	acc: 0.971	
+  hospital = 3  [n =    480]:	weight: 0.398	loss: 0.088	acc: 0.967	
+  hospital = 4  [n =    608]:	weight: 0.218	loss: 0.107	acc: 0.957	
+objective: 0.065
+penalty: 0.000
+loss_avg: 0.096
+acc_avg: 0.970
+  hospital = 0  [n =    576]:	weight: 0.384	loss: 0.110	acc: 0.962	
+  hospital = 3  [n =    528]:	weight: 0.397	loss: 0.084	acc: 0.977	
+  hospital = 4  [n =    496]:	weight: 0.219	loss: 0.092	acc: 0.972	
+objective: 0.061
+penalty: 0.000
+loss_avg: 0.088
+acc_avg: 0.977
+  hospital = 0  [n =    560]:	weight: 0.386	loss: 0.077	acc: 0.982	
+  hospital = 3  [n =    544]:	weight: 0.396	loss: 0.108	acc: 0.969	
+  hospital = 4  [n =    496]:	weight: 0.219	loss: 0.079	acc: 0.980	
+objective: 0.058
+penalty: 0.000
+loss_avg: 0.085
+acc_avg: 0.975
+  hospital = 0  [n =    576]:	weight: 0.387	loss: 0.110	acc: 0.967	
+  hospital = 3  [n =    480]:	weight: 0.397	loss: 0.071	acc: 0.983	
+  hospital = 4  [n =    544]:	weight: 0.217	loss: 0.072	acc: 0.976	
+objective: 0.060
+penalty: 0.001
+loss_avg: 0.091
+acc_avg: 0.971
+  hospital = 0  [n =    528]:	weight: 0.389	loss: 0.087	acc: 0.968	
+  hospital = 3  [n =    528]:	weight: 0.394	loss: 0.090	acc: 0.973	
+  hospital = 4  [n =    544]:	weight: 0.217	loss: 0.096	acc: 0.972	
+objective: 0.050
+penalty: 0.000
+loss_avg: 0.074
+acc_avg: 0.984
+  hospital = 0  [n =    448]:	weight: 0.388	loss: 0.081	acc: 0.984	
+  hospital = 3  [n =    576]:	weight: 0.396	loss: 0.079	acc: 0.981	
+  hospital = 4  [n =    576]:	weight: 0.217	loss: 0.063	acc: 0.986	
+objective: 0.054
+penalty: 0.000
+loss_avg: 0.080
+acc_avg: 0.976
+  hospital = 0  [n =    528]:	weight: 0.388	loss: 0.081	acc: 0.975	
+  hospital = 3  [n =    544]:	weight: 0.396	loss: 0.080	acc: 0.976	
+  hospital = 4  [n =    528]:	weight: 0.217	loss: 0.080	acc: 0.977	
+objective: 0.053
+penalty: 0.000
+loss_avg: 0.078
+acc_avg: 0.975
+  hospital = 0  [n =    544]:	weight: 0.388	loss: 0.084	acc: 0.972	
+  hospital = 3  [n =    544]:	weight: 0.396	loss: 0.072	acc: 0.980	
+  hospital = 4  [n =    512]:	weight: 0.216	loss: 0.079	acc: 0.973	
+objective: 0.058
+penalty: 0.000
+loss_avg: 0.089
+acc_avg: 0.968
+  hospital = 0  [n =    496]:	weight: 0.386	loss: 0.069	acc: 0.974	
+  hospital = 3  [n =    592]:	weight: 0.397	loss: 0.090	acc: 0.966	
+  hospital = 4  [n =    512]:	weight: 0.217	loss: 0.108	acc: 0.965	
+objective: 0.069
+penalty: 0.000
+loss_avg: 0.099
+acc_avg: 0.967
+  hospital = 0  [n =    560]:	weight: 0.386	loss: 0.093	acc: 0.968	
+  hospital = 3  [n =    496]:	weight: 0.398	loss: 0.129	acc: 0.956	
+  hospital = 4  [n =    544]:	weight: 0.216	loss: 0.078	acc: 0.978	
+objective: 0.057
+penalty: 0.000
+loss_avg: 0.085
+acc_avg: 0.976
+  hospital = 0  [n =    560]:	weight: 0.385	loss: 0.088	acc: 0.977	
+  hospital = 3  [n =    528]:	weight: 0.399	loss: 0.076	acc: 0.981	
+  hospital = 4  [n =    512]:	weight: 0.216	loss: 0.091	acc: 0.969	
+objective: 0.062
+penalty: 0.000
+loss_avg: 0.095
+acc_avg: 0.971
+  hospital = 0  [n =    528]:	weight: 0.385	loss: 0.087	acc: 0.975	
+  hospital = 3  [n =    560]:	weight: 0.399	loss: 0.091	acc: 0.971	
+  hospital = 4  [n =    512]:	weight: 0.216	loss: 0.106	acc: 0.965	
+objective: 0.042
+penalty: 0.000
+loss_avg: 0.061
+acc_avg: 0.982
+  hospital = 0  [n =    576]:	weight: 0.386	loss: 0.066	acc: 0.983	
+  hospital = 3  [n =    560]:	weight: 0.398	loss: 0.057	acc: 0.984	
+  hospital = 4  [n =    464]:	weight: 0.216	loss: 0.060	acc: 0.981	
+objective: 0.057
+penalty: 0.000
+loss_avg: 0.090
+acc_avg: 0.974
+  hospital = 0  [n =    512]:	weight: 0.385	loss: 0.079	acc: 0.975	
+  hospital = 3  [n =    480]:	weight: 0.399	loss: 0.088	acc: 0.979	
+  hospital = 4  [n =    608]:	weight: 0.217	loss: 0.102	acc: 0.969	
+objective: 0.054
+penalty: 0.000
+loss_avg: 0.082
+acc_avg: 0.976
+  hospital = 0  [n =    528]:	weight: 0.385	loss: 0.098	acc: 0.968	
+  hospital = 3  [n =    496]:	weight: 0.397	loss: 0.070	acc: 0.982	
+  hospital = 4  [n =    576]:	weight: 0.218	loss: 0.077	acc: 0.977	
+objective: 0.057
+penalty: 0.001
+loss_avg: 0.090
+acc_avg: 0.972
+  hospital = 0  [n =    464]:	weight: 0.385	loss: 0.078	acc: 0.978	
+  hospital = 3  [n =    592]:	weight: 0.395	loss: 0.079	acc: 0.978	
+  hospital = 4  [n =    544]:	weight: 0.220	loss: 0.113	acc: 0.961	
+objective: 0.052
+penalty: 0.000
+loss_avg: 0.082
+acc_avg: 0.976
+  hospital = 0  [n =    432]:	weight: 0.384	loss: 0.083	acc: 0.977	
+  hospital = 3  [n =    576]:	weight: 0.395	loss: 0.068	acc: 0.983	
+  hospital = 4  [n =    592]:	weight: 0.221	loss: 0.095	acc: 0.970	
+objective: 0.059
+penalty: 0.000
+loss_avg: 0.088
+acc_avg: 0.973
+  hospital = 0  [n =    544]:	weight: 0.382	loss: 0.080	acc: 0.976	
+  hospital = 3  [n =    576]:	weight: 0.395	loss: 0.093	acc: 0.969	
+  hospital = 4  [n =    480]:	weight: 0.222	loss: 0.090	acc: 0.975	
+objective: 0.055
+penalty: 0.000
+loss_avg: 0.085
+acc_avg: 0.974
+  hospital = 0  [n =    512]:	weight: 0.382	loss: 0.080	acc: 0.979	
+  hospital = 3  [n =    480]:	weight: 0.396	loss: 0.082	acc: 0.975	
+  hospital = 4  [n =    608]:	weight: 0.222	loss: 0.093	acc: 0.969	
+objective: 0.050
+penalty: 0.000
+loss_avg: 0.077
+acc_avg: 0.977
+  hospital = 0  [n =    496]:	weight: 0.381	loss: 0.066	acc: 0.986	
+  hospital = 3  [n =    576]:	weight: 0.395	loss: 0.074	acc: 0.974	
+  hospital = 4  [n =    528]:	weight: 0.224	loss: 0.091	acc: 0.972	
+objective: 0.060
+penalty: 0.000
+loss_avg: 0.088
+acc_avg: 0.973
+  hospital = 0  [n =    528]:	weight: 0.379	loss: 0.082	acc: 0.972	
+  hospital = 3  [n =    592]:	weight: 0.397	loss: 0.091	acc: 0.971	
+  hospital = 4  [n =    480]:	weight: 0.224	loss: 0.092	acc: 0.977	
+objective: 0.056
+penalty: 0.000
+loss_avg: 0.082
+acc_avg: 0.973
+  hospital = 0  [n =    560]:	weight: 0.379	loss: 0.082	acc: 0.977	
+  hospital = 3  [n =    624]:	weight: 0.397	loss: 0.078	acc: 0.973	
+  hospital = 4  [n =    416]:	weight: 0.224	loss: 0.088	acc: 0.969	
+objective: 0.066
+penalty: 0.001
+loss_avg: 0.092
+acc_avg: 0.975
+  hospital = 0  [n =    512]:	weight: 0.377	loss: 0.080	acc: 0.979	
+  hospital = 3  [n =    608]:	weight: 0.402	loss: 0.128	acc: 0.961	
+  hospital = 4  [n =    480]:	weight: 0.221	loss: 0.058	acc: 0.990	
+objective: 0.057
+penalty: 0.000
+loss_avg: 0.092
+acc_avg: 0.970
+  hospital = 0  [n =    496]:	weight: 0.374	loss: 0.070	acc: 0.972	
+  hospital = 3  [n =    544]:	weight: 0.404	loss: 0.076	acc: 0.974	
+  hospital = 4  [n =    560]:	weight: 0.222	loss: 0.126	acc: 0.964	
+objective: 0.066
+penalty: 0.000
+loss_avg: 0.100
+acc_avg: 0.971
+  hospital = 0  [n =    496]:	weight: 0.372	loss: 0.079	acc: 0.976	
+  hospital = 3  [n =    560]:	weight: 0.404	loss: 0.109	acc: 0.975	
+  hospital = 4  [n =    544]:	weight: 0.224	loss: 0.109	acc: 0.963	
+objective: 0.051
+penalty: 0.000
+loss_avg: 0.078
+acc_avg: 0.976
+  hospital = 0  [n =    624]:	weight: 0.372	loss: 0.073	acc: 0.978	
+  hospital = 3  [n =    432]:	weight: 0.404	loss: 0.074	acc: 0.984	
+  hospital = 4  [n =    544]:	weight: 0.224	loss: 0.088	acc: 0.967	
+objective: 0.062
+penalty: 0.000
+loss_avg: 0.098
+acc_avg: 0.970
+  hospital = 0  [n =    448]:	weight: 0.371	loss: 0.091	acc: 0.971	
+  hospital = 3  [n =    640]:	weight: 0.403	loss: 0.071	acc: 0.978	
+  hospital = 4  [n =    512]:	weight: 0.227	loss: 0.138	acc: 0.959	
+objective: 0.065
+penalty: 0.000
+loss_avg: 0.100
+acc_avg: 0.969
+  hospital = 0  [n =    544]:	weight: 0.369	loss: 0.089	acc: 0.972	
+  hospital = 3  [n =    544]:	weight: 0.402	loss: 0.091	acc: 0.972	
+  hospital = 4  [n =    512]:	weight: 0.229	loss: 0.120	acc: 0.961	
+objective: 0.051
+penalty: 0.001
+loss_avg: 0.075
+acc_avg: 0.980
+  hospital = 0  [n =    432]:	weight: 0.369	loss: 0.079	acc: 0.977	
+  hospital = 3  [n =    624]:	weight: 0.402	loss: 0.079	acc: 0.978	
+  hospital = 4  [n =    544]:	weight: 0.229	loss: 0.067	acc: 0.985	
+objective: 0.061
+penalty: 0.000
+loss_avg: 0.085
+acc_avg: 0.974
+  hospital = 0  [n =    560]:	weight: 0.368	loss: 0.083	acc: 0.975	
+  hospital = 3  [n =    608]:	weight: 0.405	loss: 0.105	acc: 0.967	
+  hospital = 4  [n =    432]:	weight: 0.227	loss: 0.059	acc: 0.981	
+objective: 0.044
+penalty: 0.000
+loss_avg: 0.066
+acc_avg: 0.981
+  hospital = 0  [n =    560]:	weight: 0.368	loss: 0.076	acc: 0.979	
+  hospital = 3  [n =    480]:	weight: 0.406	loss: 0.058	acc: 0.981	
+  hospital = 4  [n =    560]:	weight: 0.226	loss: 0.063	acc: 0.982	
+objective: 0.051
+penalty: 0.001
+loss_avg: 0.074
+acc_avg: 0.976
+  hospital = 0  [n =    560]:	weight: 0.368	loss: 0.071	acc: 0.979	
+  hospital = 3  [n =    560]:	weight: 0.407	loss: 0.083	acc: 0.970	
+  hospital = 4  [n =    480]:	weight: 0.225	loss: 0.065	acc: 0.981	
+objective: 0.061
+penalty: 0.000
+loss_avg: 0.093
+acc_avg: 0.969
+  hospital = 0  [n =    560]:	weight: 0.369	loss: 0.101	acc: 0.964	
+  hospital = 3  [n =    512]:	weight: 0.405	loss: 0.077	acc: 0.980	
+  hospital = 4  [n =    528]:	weight: 0.225	loss: 0.100	acc: 0.962	
+objective: 0.062
+penalty: 0.000
+loss_avg: 0.093
+acc_avg: 0.974
+  hospital = 0  [n =    496]:	weight: 0.369	loss: 0.083	acc: 0.972	
+  hospital = 3  [n =    496]:	weight: 0.406	loss: 0.107	acc: 0.972	
+  hospital = 4  [n =    608]:	weight: 0.225	loss: 0.091	acc: 0.979	
+objective: 0.053
+penalty: 0.000
+loss_avg: 0.079
+acc_avg: 0.974
+  hospital = 0  [n =    544]:	weight: 0.370	loss: 0.097	acc: 0.965	
+  hospital = 3  [n =    496]:	weight: 0.405	loss: 0.067	acc: 0.978	
+  hospital = 4  [n =    560]:	weight: 0.226	loss: 0.072	acc: 0.980	
+objective: 0.055
+penalty: 0.001
+loss_avg: 0.085
+acc_avg: 0.972
+  hospital = 0  [n =    608]:	weight: 0.369	loss: 0.054	acc: 0.985	
+  hospital = 3  [n =    400]:	weight: 0.404	loss: 0.113	acc: 0.958	
+  hospital = 4  [n =    592]:	weight: 0.227	loss: 0.098	acc: 0.968	
+objective: 0.060
+penalty: 0.000
+loss_avg: 0.090
+acc_avg: 0.974
+  hospital = 0  [n =    592]:	weight: 0.366	loss: 0.062	acc: 0.986	
+  hospital = 3  [n =    592]:	weight: 0.406	loss: 0.092	acc: 0.973	
+  hospital = 4  [n =    416]:	weight: 0.228	loss: 0.127	acc: 0.957	
+objective: 0.062
+penalty: 0.000
+loss_avg: 0.092
+acc_avg: 0.968
+  hospital = 0  [n =    544]:	weight: 0.365	loss: 0.092	acc: 0.961	
+  hospital = 3  [n =    544]:	weight: 0.407	loss: 0.090	acc: 0.971	
+  hospital = 4  [n =    512]:	weight: 0.227	loss: 0.093	acc: 0.973	
+objective: 0.068
+penalty: 0.000
+loss_avg: 0.099
+acc_avg: 0.968
+  hospital = 0  [n =    608]:	weight: 0.367	loss: 0.114	acc: 0.964	
+  hospital = 3  [n =    512]:	weight: 0.406	loss: 0.091	acc: 0.975	
+  hospital = 4  [n =    480]:	weight: 0.227	loss: 0.088	acc: 0.967	
+objective: 0.049
+penalty: 0.000
+loss_avg: 0.071
+acc_avg: 0.982
+  hospital = 0  [n =    464]:	weight: 0.368	loss: 0.059	acc: 0.989	
+  hospital = 3  [n =    592]:	weight: 0.407	loss: 0.093	acc: 0.971	
+  hospital = 4  [n =    544]:	weight: 0.225	loss: 0.058	acc: 0.989	
+objective: 0.054
+penalty: 0.000
+loss_avg: 0.081
+acc_avg: 0.974
+  hospital = 0  [n =    448]:	weight: 0.367	loss: 0.093	acc: 0.969	
+  hospital = 3  [n =    560]:	weight: 0.408	loss: 0.081	acc: 0.973	
+  hospital = 4  [n =    592]:	weight: 0.225	loss: 0.072	acc: 0.980	
+objective: 0.062
+penalty: 0.000
+loss_avg: 0.092
+acc_avg: 0.972
+  hospital = 0  [n =    608]:	weight: 0.368	loss: 0.093	acc: 0.977	
+  hospital = 3  [n =    480]:	weight: 0.408	loss: 0.100	acc: 0.960	
+  hospital = 4  [n =    512]:	weight: 0.225	loss: 0.082	acc: 0.977	
+objective: 0.062
+penalty: 0.000
+loss_avg: 0.093
+acc_avg: 0.972
+  hospital = 0  [n =    544]:	weight: 0.369	loss: 0.090	acc: 0.972	
+  hospital = 3  [n =    512]:	weight: 0.407	loss: 0.098	acc: 0.967	
+  hospital = 4  [n =    544]:	weight: 0.224	loss: 0.092	acc: 0.976	
+objective: 0.045
+penalty: 0.000
+loss_avg: 0.070
+acc_avg: 0.982
+  hospital = 0  [n =    528]:	weight: 0.367	loss: 0.062	acc: 0.985	
+  hospital = 3  [n =    576]:	weight: 0.408	loss: 0.058	acc: 0.990	
+  hospital = 4  [n =    496]:	weight: 0.225	loss: 0.093	acc: 0.970	
+objective: 0.079
+penalty: 0.000
+loss_avg: 0.114
+acc_avg: 0.961
+  hospital = 0  [n =    656]:	weight: 0.368	loss: 0.118	acc: 0.963	
+  hospital = 3  [n =    544]:	weight: 0.408	loss: 0.107	acc: 0.960	
+  hospital = 4  [n =    400]:	weight: 0.225	loss: 0.116	acc: 0.960	
+objective: 0.061
+penalty: 0.000
+loss_avg: 0.087
+acc_avg: 0.974
+  hospital = 0  [n =    576]:	weight: 0.372	loss: 0.112	acc: 0.965	
+  hospital = 3  [n =    544]:	weight: 0.406	loss: 0.080	acc: 0.978	
+  hospital = 4  [n =    480]:	weight: 0.222	loss: 0.065	acc: 0.979	
+objective: 0.058
+penalty: 0.000
+loss_avg: 0.086
+acc_avg: 0.976
+  hospital = 0  [n =    544]:	weight: 0.374	loss: 0.086	acc: 0.976	
+  hospital = 3  [n =    464]:	weight: 0.406	loss: 0.110	acc: 0.963	
+  hospital = 4  [n =    592]:	weight: 0.220	loss: 0.066	acc: 0.985	
+objective: 0.049
+penalty: 0.000
+loss_avg: 0.072
+acc_avg: 0.979
+  hospital = 0  [n =    544]:	weight: 0.374	loss: 0.065	acc: 0.983	
+  hospital = 3  [n =    560]:	weight: 0.407	loss: 0.077	acc: 0.977	
+  hospital = 4  [n =    496]:	weight: 0.220	loss: 0.075	acc: 0.976	
+objective: 0.072
+penalty: 0.000
+loss_avg: 0.108
+acc_avg: 0.967
+  hospital = 0  [n =    560]:	weight: 0.373	loss: 0.102	acc: 0.962	
+  hospital = 3  [n =    496]:	weight: 0.408	loss: 0.116	acc: 0.970	
+  hospital = 4  [n =    544]:	weight: 0.220	loss: 0.107	acc: 0.971	
+objective: 0.062
+penalty: 0.000
+loss_avg: 0.097
+acc_avg: 0.962
+  hospital = 0  [n =    528]:	weight: 0.372	loss: 0.091	acc: 0.953	
+  hospital = 3  [n =    496]:	weight: 0.407	loss: 0.089	acc: 0.972	
+  hospital = 4  [n =    576]:	weight: 0.220	loss: 0.110	acc: 0.962	
+objective: 0.053
+penalty: 0.000
+loss_avg: 0.077
+acc_avg: 0.979
+  hospital = 0  [n =    528]:	weight: 0.372	loss: 0.077	acc: 0.979	
+  hospital = 3  [n =    608]:	weight: 0.407	loss: 0.080	acc: 0.979	
+  hospital = 4  [n =    464]:	weight: 0.220	loss: 0.071	acc: 0.981	
+objective: 0.062
+penalty: 0.000
+loss_avg: 0.088
+acc_avg: 0.972
+  hospital = 0  [n =    512]:	weight: 0.372	loss: 0.088	acc: 0.977	
+  hospital = 3  [n =    608]:	weight: 0.411	loss: 0.103	acc: 0.964	
+  hospital = 4  [n =    480]:	weight: 0.218	loss: 0.071	acc: 0.977	
+objective: 0.060
+penalty: 0.000
+loss_avg: 0.085
+acc_avg: 0.975
+  hospital = 0  [n =    576]:	weight: 0.372	loss: 0.090	acc: 0.974	
+  hospital = 3  [n =    528]:	weight: 0.411	loss: 0.100	acc: 0.966	
+  hospital = 4  [n =    496]:	weight: 0.217	loss: 0.063	acc: 0.986	
+objective: 0.062
+penalty: 0.000
+loss_avg: 0.092
+acc_avg: 0.973
+  hospital = 0  [n =    608]:	weight: 0.373	loss: 0.099	acc: 0.975	
+  hospital = 3  [n =    528]:	weight: 0.411	loss: 0.083	acc: 0.973	
+  hospital = 4  [n =    464]:	weight: 0.216	loss: 0.094	acc: 0.970	
+objective: 0.048
+penalty: 0.000
+loss_avg: 0.073
+acc_avg: 0.979
+  hospital = 0  [n =    512]:	weight: 0.376	loss: 0.084	acc: 0.979	
+  hospital = 3  [n =    528]:	weight: 0.409	loss: 0.058	acc: 0.983	
+  hospital = 4  [n =    560]:	weight: 0.215	loss: 0.078	acc: 0.977	
+objective: 0.056
+penalty: 0.000
+loss_avg: 0.083
+acc_avg: 0.977
+  hospital = 0  [n =    592]:	weight: 0.378	loss: 0.096	acc: 0.970	
+  hospital = 3  [n =    544]:	weight: 0.407	loss: 0.068	acc: 0.982	
+  hospital = 4  [n =    464]:	weight: 0.215	loss: 0.083	acc: 0.981	
+objective: 0.072
+penalty: 0.000
+loss_avg: 0.106
+acc_avg: 0.966
+  hospital = 0  [n =    400]:	weight: 0.376	loss: 0.098	acc: 0.970	
+  hospital = 3  [n =    608]:	weight: 0.409	loss: 0.124	acc: 0.957	
+  hospital = 4  [n =    592]:	weight: 0.215	loss: 0.093	acc: 0.971	
+objective: 0.052
+penalty: 0.000
+loss_avg: 0.079
+acc_avg: 0.973
+  hospital = 0  [n =    672]:	weight: 0.376	loss: 0.078	acc: 0.976	
+  hospital = 3  [n =    464]:	weight: 0.410	loss: 0.071	acc: 0.974	
+  hospital = 4  [n =    464]:	weight: 0.215	loss: 0.088	acc: 0.968	
+objective: 0.057
+penalty: 0.000
+loss_avg: 0.086
+acc_avg: 0.972
+  hospital = 0  [n =    544]:	weight: 0.377	loss: 0.089	acc: 0.969	
+  hospital = 3  [n =    528]:	weight: 0.408	loss: 0.081	acc: 0.975	
+  hospital = 4  [n =    528]:	weight: 0.215	loss: 0.088	acc: 0.972	
+objective: 0.061
+penalty: 0.000
+loss_avg: 0.096
+acc_avg: 0.969
+  hospital = 0  [n =    544]:	weight: 0.377	loss: 0.085	acc: 0.965	
+  hospital = 3  [n =    496]:	weight: 0.408	loss: 0.087	acc: 0.980	
+  hospital = 4  [n =    560]:	weight: 0.216	loss: 0.114	acc: 0.962	
+objective: 0.058
+penalty: 0.000
+loss_avg: 0.092
+acc_avg: 0.972
+  hospital = 0  [n =    432]:	weight: 0.378	loss: 0.110	acc: 0.968	
+  hospital = 3  [n =    592]:	weight: 0.404	loss: 0.060	acc: 0.983	
+  hospital = 4  [n =    576]:	weight: 0.218	loss: 0.112	acc: 0.964	
+objective: 0.052
+penalty: 0.000
+loss_avg: 0.077
+acc_avg: 0.979
+  hospital = 0  [n =    544]:	weight: 0.378	loss: 0.087	acc: 0.972	
+  hospital = 3  [n =    560]:	weight: 0.403	loss: 0.070	acc: 0.980	
+  hospital = 4  [n =    496]:	weight: 0.219	loss: 0.073	acc: 0.986	
+objective: 0.057
+penalty: 0.000
+loss_avg: 0.089
+acc_avg: 0.973
+  hospital = 0  [n =    512]:	weight: 0.378	loss: 0.068	acc: 0.986	
+  hospital = 3  [n =    560]:	weight: 0.403	loss: 0.087	acc: 0.973	
+  hospital = 4  [n =    528]:	weight: 0.219	loss: 0.112	acc: 0.958	
+objective: 0.047
+penalty: 0.000
+loss_avg: 0.069
+acc_avg: 0.979
+  hospital = 0  [n =    512]:	weight: 0.376	loss: 0.066	acc: 0.982	
+  hospital = 3  [n =    560]:	weight: 0.404	loss: 0.076	acc: 0.973	
+  hospital = 4  [n =    528]:	weight: 0.220	loss: 0.065	acc: 0.983	
+objective: 0.057
+penalty: 0.000
+loss_avg: 0.086
+acc_avg: 0.976
+  hospital = 0  [n =    528]:	weight: 0.375	loss: 0.076	acc: 0.979	
+  hospital = 3  [n =    592]:	weight: 0.406	loss: 0.085	acc: 0.978	
+  hospital = 4  [n =    480]:	weight: 0.220	loss: 0.097	acc: 0.969	
+objective: 0.056
+penalty: 0.000
+loss_avg: 0.086
+acc_avg: 0.973
+  hospital = 0  [n =    576]:	weight: 0.377	loss: 0.109	acc: 0.965	
+  hospital = 3  [n =    496]:	weight: 0.403	loss: 0.047	acc: 0.992	
+  hospital = 4  [n =    528]:	weight: 0.220	loss: 0.097	acc: 0.964	
+objective: 0.058
+penalty: 0.000
+loss_avg: 0.090
+acc_avg: 0.974
+  hospital = 0  [n =    560]:	weight: 0.380	loss: 0.094	acc: 0.975	
+  hospital = 3  [n =    400]:	weight: 0.399	loss: 0.086	acc: 0.975	
+  hospital = 4  [n =    640]:	weight: 0.221	loss: 0.089	acc: 0.972	
+objective: 0.050
+penalty: 0.000
+loss_avg: 0.076
+acc_avg: 0.982
+  hospital = 0  [n =    512]:	weight: 0.378	loss: 0.059	acc: 0.988	
+  hospital = 3  [n =    480]:	weight: 0.400	loss: 0.095	acc: 0.977	
+  hospital = 4  [n =    608]:	weight: 0.222	loss: 0.076	acc: 0.982	
+objective: 0.051
+penalty: 0.000
+loss_avg: 0.078
+acc_avg: 0.978
+  hospital = 0  [n =    640]:	weight: 0.379	loss: 0.075	acc: 0.978	
+  hospital = 3  [n =    480]:	weight: 0.398	loss: 0.066	acc: 0.983	
+  hospital = 4  [n =    480]:	weight: 0.224	loss: 0.094	acc: 0.973	
+objective: 0.066
+penalty: 0.000
+loss_avg: 0.096
+acc_avg: 0.970
+  hospital = 0  [n =    512]:	weight: 0.378	loss: 0.108	acc: 0.973	
+  hospital = 3  [n =    576]:	weight: 0.399	loss: 0.101	acc: 0.962	
+  hospital = 4  [n =    512]:	weight: 0.223	loss: 0.079	acc: 0.977	
+objective: 0.061
+penalty: 0.000
+loss_avg: 0.088
+acc_avg: 0.972
+  hospital = 0  [n =    576]:	weight: 0.380	loss: 0.077	acc: 0.974	
+  hospital = 3  [n =    512]:	weight: 0.399	loss: 0.115	acc: 0.965	
+  hospital = 4  [n =    512]:	weight: 0.221	loss: 0.073	acc: 0.977	
+objective: 0.060
+penalty: 0.000
+loss_avg: 0.096
+acc_avg: 0.969
+  hospital = 0  [n =    512]:	weight: 0.378	loss: 0.081	acc: 0.973	
+  hospital = 3  [n =    528]:	weight: 0.400	loss: 0.080	acc: 0.975	
+  hospital = 4  [n =    560]:	weight: 0.222	loss: 0.125	acc: 0.959	
+objective: 0.069
+penalty: 0.000
+loss_avg: 0.101
+acc_avg: 0.967
+  hospital = 0  [n =    560]:	weight: 0.375	loss: 0.073	acc: 0.977	
+  hospital = 3  [n =    544]:	weight: 0.401	loss: 0.132	acc: 0.954	
+  hospital = 4  [n =    496]:	weight: 0.223	loss: 0.099	acc: 0.970	
+objective: 0.072
+penalty: 0.000
+loss_avg: 0.106
+acc_avg: 0.962
+  hospital = 0  [n =    560]:	weight: 0.372	loss: 0.091	acc: 0.975	
+  hospital = 3  [n =    560]:	weight: 0.405	loss: 0.118	acc: 0.952	
+  hospital = 4  [n =    480]:	weight: 0.222	loss: 0.110	acc: 0.960	
+objective: 0.064
+penalty: 0.000
+loss_avg: 0.096
+acc_avg: 0.970
+  hospital = 0  [n =    624]:	weight: 0.374	loss: 0.105	acc: 0.963	
+  hospital = 3  [n =    416]:	weight: 0.404	loss: 0.099	acc: 0.966	
+  hospital = 4  [n =    560]:	weight: 0.222	loss: 0.084	acc: 0.980	
+objective: 0.059
+penalty: 0.000
+loss_avg: 0.091
+acc_avg: 0.974
+  hospital = 0  [n =    512]:	weight: 0.375	loss: 0.089	acc: 0.982	
+  hospital = 3  [n =    496]:	weight: 0.404	loss: 0.087	acc: 0.968	
+  hospital = 4  [n =    592]:	weight: 0.222	loss: 0.096	acc: 0.971	
+objective: 0.057
+penalty: 0.000
+loss_avg: 0.086
+acc_avg: 0.977
+  hospital = 0  [n =    592]:	weight: 0.376	loss: 0.080	acc: 0.978	
+  hospital = 3  [n =    512]:	weight: 0.401	loss: 0.082	acc: 0.977	
+  hospital = 4  [n =    496]:	weight: 0.223	loss: 0.098	acc: 0.976	
+objective: 0.057
+penalty: 0.000
+loss_avg: 0.085
+acc_avg: 0.972
+  hospital = 0  [n =    592]:	weight: 0.377	loss: 0.083	acc: 0.970	
+  hospital = 3  [n =    464]:	weight: 0.401	loss: 0.089	acc: 0.970	
+  hospital = 4  [n =    544]:	weight: 0.223	loss: 0.084	acc: 0.978	
+objective: 0.067
+penalty: 0.000
+loss_avg: 0.096
+acc_avg: 0.963
+  hospital = 0  [n =    560]:	weight: 0.377	loss: 0.099	acc: 0.959	
+  hospital = 3  [n =    496]:	weight: 0.401	loss: 0.118	acc: 0.950	
+  hospital = 4  [n =    544]:	weight: 0.221	loss: 0.074	acc: 0.980	
+objective: 0.057
+penalty: 0.000
+loss_avg: 0.086
+acc_avg: 0.973
+  hospital = 0  [n =    560]:	weight: 0.378	loss: 0.087	acc: 0.973	
+  hospital = 3  [n =    512]:	weight: 0.401	loss: 0.080	acc: 0.969	
+  hospital = 4  [n =    528]:	weight: 0.222	loss: 0.091	acc: 0.977	
+objective: 0.056
+penalty: 0.000
+loss_avg: 0.086
+acc_avg: 0.971
+  hospital = 0  [n =    512]:	weight: 0.377	loss: 0.077	acc: 0.975	
+  hospital = 3  [n =    560]:	weight: 0.401	loss: 0.085	acc: 0.973	
+  hospital = 4  [n =    528]:	weight: 0.222	loss: 0.095	acc: 0.966	
+objective: 0.054
+penalty: 0.000
+loss_avg: 0.083
+acc_avg: 0.977
+  hospital = 0  [n =    656]:	weight: 0.378	loss: 0.088	acc: 0.977	
+  hospital = 3  [n =    320]:	weight: 0.399	loss: 0.086	acc: 0.975	
+  hospital = 4  [n =    624]:	weight: 0.223	loss: 0.077	acc: 0.978	
+objective: 0.063
+penalty: 0.000
+loss_avg: 0.098
+acc_avg: 0.971
+  hospital = 0  [n =    592]:	weight: 0.380	loss: 0.074	acc: 0.980	
+  hospital = 3  [n =    496]:	weight: 0.396	loss: 0.099	acc: 0.970	
+  hospital = 4  [n =    512]:	weight: 0.225	loss: 0.126	acc: 0.963	
+objective: 0.052
+penalty: 0.000
+loss_avg: 0.076
+acc_avg: 0.977
+  hospital = 0  [n =    608]:	weight: 0.380	loss: 0.086	acc: 0.974	
+  hospital = 3  [n =    512]:	weight: 0.396	loss: 0.070	acc: 0.975	
+  hospital = 4  [n =    480]:	weight: 0.225	loss: 0.069	acc: 0.983	
+objective: 0.055
+penalty: 0.000
+loss_avg: 0.084
+acc_avg: 0.974
+  hospital = 0  [n =    544]:	weight: 0.381	loss: 0.070	acc: 0.980	
+  hospital = 3  [n =    496]:	weight: 0.395	loss: 0.093	acc: 0.970	
+  hospital = 4  [n =    560]:	weight: 0.224	loss: 0.089	acc: 0.973	
+objective: 0.060
+penalty: 0.000
+loss_avg: 0.089
+acc_avg: 0.974
+  hospital = 0  [n =    448]:	weight: 0.378	loss: 0.088	acc: 0.980	
+  hospital = 3  [n =    576]:	weight: 0.398	loss: 0.097	acc: 0.969	
+  hospital = 4  [n =    576]:	weight: 0.224	loss: 0.082	acc: 0.976	
+objective: 0.070
+penalty: 0.000
+loss_avg: 0.105
+acc_avg: 0.965
+  hospital = 0  [n =    560]:	weight: 0.376	loss: 0.083	acc: 0.980	
+  hospital = 3  [n =    480]:	weight: 0.398	loss: 0.130	acc: 0.952	
+  hospital = 4  [n =    560]:	weight: 0.226	loss: 0.106	acc: 0.961	
+objective: 0.051
+penalty: 0.000
+loss_avg: 0.074
+acc_avg: 0.981
+  hospital = 0  [n =    496]:	weight: 0.375	loss: 0.074	acc: 0.984	
+  hospital = 3  [n =    672]:	weight: 0.400	loss: 0.070	acc: 0.982	
+  hospital = 4  [n =    432]:	weight: 0.225	loss: 0.081	acc: 0.977	
+objective: 0.059
+penalty: 0.000
+loss_avg: 0.088
+acc_avg: 0.973
+  hospital = 0  [n =    544]:	weight: 0.374	loss: 0.084	acc: 0.974	
+  hospital = 3  [n =    544]:	weight: 0.402	loss: 0.094	acc: 0.967	
+  hospital = 4  [n =    512]:	weight: 0.224	loss: 0.085	acc: 0.979	
+objective: 0.046
+penalty: 0.000
+loss_avg: 0.069
+acc_avg: 0.983
+  hospital = 0  [n =    608]:	weight: 0.375	loss: 0.078	acc: 0.980	
+  hospital = 3  [n =    560]:	weight: 0.401	loss: 0.052	acc: 0.988	
+  hospital = 4  [n =    432]:	weight: 0.224	loss: 0.077	acc: 0.979	
+objective: 0.059
+penalty: 0.000
+loss_avg: 0.084
+acc_avg: 0.978
+  hospital = 0  [n =    608]:	weight: 0.378	loss: 0.087	acc: 0.974	
+  hospital = 3  [n =    544]:	weight: 0.400	loss: 0.089	acc: 0.974	
+  hospital = 4  [n =    448]:	weight: 0.222	loss: 0.075	acc: 0.987	
+objective: 0.065
+penalty: 0.000
+loss_avg: 0.100
+acc_avg: 0.969
+  hospital = 0  [n =    512]:	weight: 0.378	loss: 0.113	acc: 0.965	
+  hospital = 3  [n =    576]:	weight: 0.401	loss: 0.071	acc: 0.983	
+  hospital = 4  [n =    512]:	weight: 0.222	loss: 0.120	acc: 0.957	
+objective: 0.081
+penalty: 0.000
+loss_avg: 0.125
+acc_avg: 0.961
+  hospital = 0  [n =    480]:	weight: 0.379	loss: 0.132	acc: 0.962	
+  hospital = 3  [n =    592]:	weight: 0.396	loss: 0.098	acc: 0.970	
+  hospital = 4  [n =    528]:	weight: 0.225	loss: 0.149	acc: 0.949	
+objective: 0.056
+penalty: 0.000
+loss_avg: 0.088
+acc_avg: 0.973
+  hospital = 0  [n =    496]:	weight: 0.378	loss: 0.079	acc: 0.976	
+  hospital = 3  [n =    528]:	weight: 0.396	loss: 0.075	acc: 0.975	
+  hospital = 4  [n =    576]:	weight: 0.227	loss: 0.107	acc: 0.967	
+objective: 0.053
+penalty: 0.000
+loss_avg: 0.081
+acc_avg: 0.976
+  hospital = 0  [n =    528]:	weight: 0.378	loss: 0.079	acc: 0.979	
+  hospital = 3  [n =    480]:	weight: 0.395	loss: 0.080	acc: 0.973	
+  hospital = 4  [n =    592]:	weight: 0.228	loss: 0.083	acc: 0.976	
+objective: 0.069
+penalty: 0.000
+loss_avg: 0.103
+acc_avg: 0.968
+  hospital = 0  [n =    608]:	weight: 0.378	loss: 0.086	acc: 0.974	
+  hospital = 3  [n =    576]:	weight: 0.394	loss: 0.099	acc: 0.970	
+  hospital = 4  [n =    416]:	weight: 0.228	loss: 0.135	acc: 0.954	
+objective: 0.068
+penalty: 0.000
+loss_avg: 0.103
+acc_avg: 0.966
+  hospital = 0  [n =    384]:	weight: 0.376	loss: 0.105	acc: 0.964	
+  hospital = 3  [n =    640]:	weight: 0.395	loss: 0.102	acc: 0.961	
+  hospital = 4  [n =    576]:	weight: 0.229	loss: 0.103	acc: 0.974	
+objective: 0.041
+penalty: 0.000
+loss_avg: 0.075
+acc_avg: 0.969
+  hospital = 3  [n =     16]:	weight: 0.397	loss: 0.042	acc: 1.000	
+  hospital = 4  [n =     16]:	weight: 0.229	loss: 0.109	acc: 0.938	
+Epoch eval:
+Average acc: 0.973
+  slide = 0  [n =   7338]:	acc = 0.983
+  slide = 1  [n =   7824]:	acc = 0.977
+  slide = 2  [n =   6821]:	acc = 0.937
+  slide = 3  [n =  22991]:	acc = 0.988
+  slide = 4  [n =  12319]:	acc = 0.985
+  slide = 5  [n =   5451]:	acc = 0.935
+  slide = 6  [n =   5822]:	acc = 0.980
+  slide = 7  [n =   2705]:	acc = 0.977
+  slide = 8  [n =  23045]:	acc = 0.980
+  slide = 9  [n =   6516]:	acc = 0.925
+  slide = 30  [n =   8475]:	acc = 0.985
+  slide = 31  [n =   2798]:	acc = 0.983
+  slide = 32  [n =   7086]:	acc = 0.973
+  slide = 33  [n =   3207]:	acc = 0.986
+  slide = 34  [n =   3139]:	acc = 0.956
+  slide = 35  [n =   4736]:	acc = 0.960
+  slide = 36  [n =   8422]:	acc = 0.993
+  slide = 37  [n =   4225]:	acc = 0.979
+  slide = 38  [n =  44694]:	acc = 0.966
+  slide = 39  [n =  15138]:	acc = 0.971
+  slide = 40  [n =   5005]:	acc = 0.978
+  slide = 41  [n =   7841]:	acc = 0.989
+  slide = 42  [n =   5228]:	acc = 0.976
+  slide = 43  [n =   5367]:	acc = 0.978
+  slide = 44  [n =   5346]:	acc = 0.982
+  slide = 45  [n =   4763]:	acc = 0.963
+  slide = 46  [n =   3379]:	acc = 0.971
+  slide = 47  [n =  10022]:	acc = 0.978
+  slide = 48  [n =  41898]:	acc = 0.969
+  slide = 49  [n =  10831]:	acc = 0.956
+Worst-group acc: 0.925
+
+Validation (OOD):
+objective: 0.000
+penalty: 0.000
+loss_avg: 0.411
+acc_avg: 0.856
+  hospital = 1  [n =  34904]:	weight: 0.000	loss: 0.411	acc: 0.856	
+Epoch eval:
+Average acc: 0.856
+  slide = 10  [n =   2078]:	acc = 0.531
+  slide = 11  [n =   5371]:	acc = 0.715
+  slide = 12  [n =   1705]:	acc = 0.917
+  slide = 13  [n =  10404]:	acc = 0.960
+  slide = 14  [n =    888]:	acc = 0.940
+  slide = 15  [n =   2966]:	acc = 0.940
+  slide = 16  [n =   4971]:	acc = 0.941
+  slide = 17  [n =   2659]:	acc = 0.735
+  slide = 18  [n =   1275]:	acc = 0.911
+  slide = 19  [n =   2587]:	acc = 0.753
+Worst-group acc: 0.531
+Validation acc_avg: 0.856
+
+
+Epoch [3]:
+
+Train:
+objective: 0.057
+penalty: 0.000
+loss_avg: 0.085
+acc_avg: 0.975
+  hospital = 0  [n =    544]:	weight: 0.375	loss: 0.089	acc: 0.974	
+  hospital = 3  [n =    464]:	weight: 0.396	loss: 0.090	acc: 0.970	
+  hospital = 4  [n =    592]:	weight: 0.229	loss: 0.077	acc: 0.980	
+objective: 0.059
+penalty: 0.000
+loss_avg: 0.085
+acc_avg: 0.979
+  hospital = 0  [n =    512]:	weight: 0.374	loss: 0.080	acc: 0.982	
+  hospital = 3  [n =    576]:	weight: 0.398	loss: 0.105	acc: 0.970	
+  hospital = 4  [n =    512]:	weight: 0.228	loss: 0.067	acc: 0.984	
+objective: 0.042
+penalty: 0.000
+loss_avg: 0.062
+acc_avg: 0.983
+  hospital = 0  [n =    624]:	weight: 0.372	loss: 0.047	acc: 0.990	
+  hospital = 3  [n =    544]:	weight: 0.400	loss: 0.067	acc: 0.980	
+  hospital = 4  [n =    432]:	weight: 0.228	loss: 0.078	acc: 0.977	
+objective: 0.049
+penalty: 0.000
+loss_avg: 0.072
+acc_avg: 0.980
+  hospital = 0  [n =    528]:	weight: 0.372	loss: 0.066	acc: 0.985	
+  hospital = 3  [n =    560]:	weight: 0.401	loss: 0.079	acc: 0.980	
+  hospital = 4  [n =    512]:	weight: 0.227	loss: 0.071	acc: 0.975	
+objective: 0.058
+penalty: 0.000
+loss_avg: 0.092
+acc_avg: 0.968
+  hospital = 0  [n =    592]:	weight: 0.372	loss: 0.087	acc: 0.973	
+  hospital = 3  [n =    480]:	weight: 0.400	loss: 0.069	acc: 0.973	
+  hospital = 4  [n =    528]:	weight: 0.228	loss: 0.119	acc: 0.958	
+objective: 0.063
+penalty: 0.000
+loss_avg: 0.091
+acc_avg: 0.974
+  hospital = 0  [n =    656]:	weight: 0.373	loss: 0.093	acc: 0.976	
+  hospital = 3  [n =    432]:	weight: 0.399	loss: 0.115	acc: 0.963	
+  hospital = 4  [n =    512]:	weight: 0.228	loss: 0.069	acc: 0.982	
+objective: 0.055
+penalty: 0.000
+loss_avg: 0.080
+acc_avg: 0.976
+  hospital = 0  [n =    592]:	weight: 0.376	loss: 0.095	acc: 0.965	
+  hospital = 3  [n =    464]:	weight: 0.398	loss: 0.085	acc: 0.970	
+  hospital = 4  [n =    544]:	weight: 0.227	loss: 0.060	acc: 0.993	
+objective: 0.060
+penalty: 0.000
+loss_avg: 0.088
+acc_avg: 0.974
+  hospital = 0  [n =    496]:	weight: 0.377	loss: 0.086	acc: 0.974	
+  hospital = 3  [n =    576]:	weight: 0.398	loss: 0.097	acc: 0.974	
+  hospital = 4  [n =    528]:	weight: 0.225	loss: 0.081	acc: 0.975	
+objective: 0.059
+penalty: 0.000
+loss_avg: 0.085
+acc_avg: 0.974
+  hospital = 0  [n =    560]:	weight: 0.375	loss: 0.080	acc: 0.977	
+  hospital = 3  [n =    544]:	weight: 0.401	loss: 0.104	acc: 0.969	
+  hospital = 4  [n =    496]:	weight: 0.224	loss: 0.070	acc: 0.976	
+objective: 0.057
+penalty: 0.000
+loss_avg: 0.082
+acc_avg: 0.976
+  hospital = 0  [n =    544]:	weight: 0.377	loss: 0.097	acc: 0.967	
+  hospital = 3  [n =    544]:	weight: 0.401	loss: 0.086	acc: 0.974	
+  hospital = 4  [n =    512]:	weight: 0.222	loss: 0.063	acc: 0.988	
+objective: 0.077
+penalty: 0.000
+loss_avg: 0.117
+acc_avg: 0.962
+  hospital = 0  [n =    560]:	weight: 0.379	loss: 0.133	acc: 0.955	
+  hospital = 3  [n =    528]:	weight: 0.399	loss: 0.088	acc: 0.973	
+  hospital = 4  [n =    512]:	weight: 0.221	loss: 0.128	acc: 0.957	
+objective: 0.057
+penalty: 0.000
+loss_avg: 0.086
+acc_avg: 0.971
+  hospital = 0  [n =    544]:	weight: 0.380	loss: 0.080	acc: 0.980	
+  hospital = 3  [n =    512]:	weight: 0.398	loss: 0.089	acc: 0.963	
+  hospital = 4  [n =    544]:	weight: 0.222	loss: 0.090	acc: 0.971	
+objective: 0.059
+penalty: 0.000
+loss_avg: 0.087
+acc_avg: 0.973
+  hospital = 0  [n =    560]:	weight: 0.380	loss: 0.084	acc: 0.973	
+  hospital = 3  [n =    448]:	weight: 0.399	loss: 0.109	acc: 0.962	
+  hospital = 4  [n =    592]:	weight: 0.222	loss: 0.074	acc: 0.980	
+objective: 0.051
+penalty: 0.000
+loss_avg: 0.077
+acc_avg: 0.978
+  hospital = 0  [n =    512]:	weight: 0.380	loss: 0.071	acc: 0.979	
+  hospital = 3  [n =    496]:	weight: 0.398	loss: 0.091	acc: 0.972	
+  hospital = 4  [n =    592]:	weight: 0.222	loss: 0.070	acc: 0.983	
+objective: 0.054
+penalty: 0.000
+loss_avg: 0.078
+acc_avg: 0.978
+  hospital = 0  [n =    608]:	weight: 0.379	loss: 0.069	acc: 0.982	
+  hospital = 3  [n =    416]:	weight: 0.400	loss: 0.116	acc: 0.964	
+  hospital = 4  [n =    576]:	weight: 0.222	loss: 0.059	acc: 0.983	
+objective: 0.057
+penalty: 0.000
+loss_avg: 0.087
+acc_avg: 0.974
+  hospital = 0  [n =    528]:	weight: 0.378	loss: 0.070	acc: 0.981	
+  hospital = 3  [n =    560]:	weight: 0.401	loss: 0.089	acc: 0.975	
+  hospital = 4  [n =    512]:	weight: 0.221	loss: 0.102	acc: 0.965	
+objective: 0.062
+penalty: 0.000
+loss_avg: 0.092
+acc_avg: 0.975
+  hospital = 0  [n =    480]:	weight: 0.376	loss: 0.102	acc: 0.967	
+  hospital = 3  [n =    496]:	weight: 0.403	loss: 0.101	acc: 0.972	
+  hospital = 4  [n =    624]:	weight: 0.221	loss: 0.078	acc: 0.984	
+objective: 0.051
+penalty: 0.000
+loss_avg: 0.078
+acc_avg: 0.979
+  hospital = 0  [n =    512]:	weight: 0.377	loss: 0.082	acc: 0.979	
+  hospital = 3  [n =    544]:	weight: 0.401	loss: 0.068	acc: 0.983	
+  hospital = 4  [n =    544]:	weight: 0.222	loss: 0.084	acc: 0.974	
+objective: 0.074
+penalty: 0.000
+loss_avg: 0.106
+acc_avg: 0.966
+  hospital = 0  [n =    576]:	weight: 0.376	loss: 0.087	acc: 0.972	
+  hospital = 3  [n =    592]:	weight: 0.404	loss: 0.128	acc: 0.958	
+  hospital = 4  [n =    432]:	weight: 0.220	loss: 0.101	acc: 0.970	
+objective: 0.065
+penalty: 0.000
+loss_avg: 0.094
+acc_avg: 0.968
+  hospital = 0  [n =    592]:	weight: 0.375	loss: 0.094	acc: 0.963	
+  hospital = 3  [n =    480]:	weight: 0.406	loss: 0.117	acc: 0.958	
+  hospital = 4  [n =    528]:	weight: 0.219	loss: 0.072	acc: 0.983	
+objective: 0.059
+penalty: 0.000
+loss_avg: 0.089
+acc_avg: 0.973
+  hospital = 0  [n =    512]:	weight: 0.376	loss: 0.090	acc: 0.971	
+  hospital = 3  [n =    528]:	weight: 0.406	loss: 0.086	acc: 0.973	
+  hospital = 4  [n =    560]:	weight: 0.218	loss: 0.091	acc: 0.975	
+objective: 0.060
+penalty: 0.000
+loss_avg: 0.091
+acc_avg: 0.970
+  hospital = 0  [n =    560]:	weight: 0.376	loss: 0.086	acc: 0.973	
+  hospital = 3  [n =    496]:	weight: 0.405	loss: 0.090	acc: 0.972	
+  hospital = 4  [n =    544]:	weight: 0.219	loss: 0.096	acc: 0.965	
+objective: 0.063
+penalty: 0.000
+loss_avg: 0.092
+acc_avg: 0.969
+  hospital = 0  [n =    480]:	weight: 0.375	loss: 0.090	acc: 0.977	
+  hospital = 3  [n =    656]:	weight: 0.406	loss: 0.093	acc: 0.966	
+  hospital = 4  [n =    464]:	weight: 0.218	loss: 0.092	acc: 0.963	
+objective: 0.076
+penalty: 0.000
+loss_avg: 0.114
+acc_avg: 0.964
+  hospital = 0  [n =    512]:	weight: 0.373	loss: 0.108	acc: 0.967	
+  hospital = 3  [n =    624]:	weight: 0.410	loss: 0.104	acc: 0.965	
+  hospital = 4  [n =    464]:	weight: 0.218	loss: 0.134	acc: 0.961	
+objective: 0.055
+penalty: 0.000
+loss_avg: 0.083
+acc_avg: 0.978
+  hospital = 0  [n =    464]:	weight: 0.372	loss: 0.087	acc: 0.976	
+  hospital = 3  [n =    624]:	weight: 0.409	loss: 0.073	acc: 0.981	
+  hospital = 4  [n =    512]:	weight: 0.219	loss: 0.093	acc: 0.977	
+objective: 0.061
+penalty: 0.000
+loss_avg: 0.088
+acc_avg: 0.973
+  hospital = 0  [n =    624]:	weight: 0.374	loss: 0.097	acc: 0.968	
+  hospital = 3  [n =    544]:	weight: 0.408	loss: 0.082	acc: 0.974	
+  hospital = 4  [n =    432]:	weight: 0.218	loss: 0.081	acc: 0.977	
+objective: 0.055
+penalty: 0.000
+loss_avg: 0.092
+acc_avg: 0.972
+  hospital = 0  [n =    496]:	weight: 0.373	loss: 0.074	acc: 0.980	
+  hospital = 3  [n =    496]:	weight: 0.406	loss: 0.064	acc: 0.982	
+  hospital = 4  [n =    608]:	weight: 0.220	loss: 0.129	acc: 0.959	
+objective: 0.051
+penalty: 0.000
+loss_avg: 0.077
+acc_avg: 0.977
+  hospital = 0  [n =    576]:	weight: 0.375	loss: 0.102	acc: 0.960	
+  hospital = 3  [n =    464]:	weight: 0.403	loss: 0.055	acc: 0.987	
+  hospital = 4  [n =    560]:	weight: 0.222	loss: 0.070	acc: 0.987	
+objective: 0.055
+penalty: 0.000
+loss_avg: 0.080
+acc_avg: 0.981
+  hospital = 0  [n =    560]:	weight: 0.378	loss: 0.080	acc: 0.979	
+  hospital = 3  [n =    560]:	weight: 0.401	loss: 0.083	acc: 0.982	
+  hospital = 4  [n =    480]:	weight: 0.221	loss: 0.075	acc: 0.983	
+objective: 0.053
+penalty: 0.000
+loss_avg: 0.080
+acc_avg: 0.979
+  hospital = 0  [n =    480]:	weight: 0.376	loss: 0.069	acc: 0.983	
+  hospital = 3  [n =    592]:	weight: 0.403	loss: 0.082	acc: 0.976	
+  hospital = 4  [n =    528]:	weight: 0.221	loss: 0.087	acc: 0.979	
+objective: 0.047
+penalty: 0.000
+loss_avg: 0.076
+acc_avg: 0.978
+  hospital = 0  [n =    576]:	weight: 0.374	loss: 0.053	acc: 0.988	
+  hospital = 3  [n =    432]:	weight: 0.403	loss: 0.075	acc: 0.979	
+  hospital = 4  [n =    592]:	weight: 0.223	loss: 0.099	acc: 0.968	
+objective: 0.052
+penalty: 0.000
+loss_avg: 0.083
+acc_avg: 0.975
+  hospital = 0  [n =    512]:	weight: 0.373	loss: 0.081	acc: 0.977	
+  hospital = 3  [n =    480]:	weight: 0.401	loss: 0.065	acc: 0.981	
+  hospital = 4  [n =    608]:	weight: 0.226	loss: 0.099	acc: 0.969	
+objective: 0.055
+penalty: 0.000
+loss_avg: 0.084
+acc_avg: 0.975
+  hospital = 0  [n =    592]:	weight: 0.374	loss: 0.089	acc: 0.976	
+  hospital = 3  [n =    464]:	weight: 0.399	loss: 0.075	acc: 0.972	
+  hospital = 4  [n =    544]:	weight: 0.226	loss: 0.085	acc: 0.976	
+objective: 0.062
+penalty: 0.000
+loss_avg: 0.093
+acc_avg: 0.971
+  hospital = 0  [n =    608]:	weight: 0.378	loss: 0.103	acc: 0.969	
+  hospital = 3  [n =    448]:	weight: 0.395	loss: 0.087	acc: 0.980	
+  hospital = 4  [n =    544]:	weight: 0.226	loss: 0.087	acc: 0.967	
+objective: 0.048
+penalty: 0.000
+loss_avg: 0.076
+acc_avg: 0.979
+  hospital = 0  [n =    576]:	weight: 0.379	loss: 0.071	acc: 0.977	
+  hospital = 3  [n =    400]:	weight: 0.394	loss: 0.072	acc: 0.980	
+  hospital = 4  [n =    624]:	weight: 0.228	loss: 0.082	acc: 0.979	
+objective: 0.053
+penalty: 0.000
+loss_avg: 0.081
+acc_avg: 0.979
+  hospital = 0  [n =    528]:	weight: 0.379	loss: 0.076	acc: 0.975	
+  hospital = 3  [n =    512]:	weight: 0.392	loss: 0.080	acc: 0.980	
+  hospital = 4  [n =    560]:	weight: 0.229	loss: 0.087	acc: 0.980	
+objective: 0.054
+penalty: 0.000
+loss_avg: 0.080
+acc_avg: 0.977
+  hospital = 0  [n =    528]:	weight: 0.378	loss: 0.086	acc: 0.973	
+  hospital = 3  [n =    512]:	weight: 0.393	loss: 0.080	acc: 0.973	
+  hospital = 4  [n =    560]:	weight: 0.229	loss: 0.073	acc: 0.984	
+objective: 0.053
+penalty: 0.000
+loss_avg: 0.079
+acc_avg: 0.979
+  hospital = 0  [n =    480]:	weight: 0.378	loss: 0.075	acc: 0.979	
+  hospital = 3  [n =    528]:	weight: 0.393	loss: 0.091	acc: 0.975	
+  hospital = 4  [n =    592]:	weight: 0.229	loss: 0.070	acc: 0.981	
+objective: 0.065
+penalty: 0.000
+loss_avg: 0.098
+acc_avg: 0.970
+  hospital = 0  [n =    480]:	weight: 0.378	loss: 0.112	acc: 0.958	
+  hospital = 3  [n =    592]:	weight: 0.393	loss: 0.081	acc: 0.980	
+  hospital = 4  [n =    528]:	weight: 0.230	loss: 0.103	acc: 0.970	
+objective: 0.056
+penalty: 0.000
+loss_avg: 0.080
+acc_avg: 0.978
+  hospital = 0  [n =    496]:	weight: 0.378	loss: 0.079	acc: 0.976	
+  hospital = 3  [n =    544]:	weight: 0.394	loss: 0.106	acc: 0.969	
+  hospital = 4  [n =    560]:	weight: 0.228	loss: 0.056	acc: 0.989	
+objective: 0.049
+penalty: 0.000
+loss_avg: 0.076
+acc_avg: 0.979
+  hospital = 0  [n =    608]:	weight: 0.378	loss: 0.084	acc: 0.974	
+  hospital = 3  [n =    448]:	weight: 0.394	loss: 0.057	acc: 0.987	
+  hospital = 4  [n =    544]:	weight: 0.228	loss: 0.082	acc: 0.978	
+objective: 0.060
+penalty: 0.000
+loss_avg: 0.090
+acc_avg: 0.973
+  hospital = 0  [n =    560]:	weight: 0.378	loss: 0.069	acc: 0.980	
+  hospital = 3  [n =    544]:	weight: 0.393	loss: 0.101	acc: 0.965	
+  hospital = 4  [n =    496]:	weight: 0.229	loss: 0.103	acc: 0.974	
+objective: 0.054
+penalty: 0.000
+loss_avg: 0.087
+acc_avg: 0.973
+  hospital = 0  [n =    560]:	weight: 0.377	loss: 0.061	acc: 0.982	
+  hospital = 3  [n =    416]:	weight: 0.393	loss: 0.095	acc: 0.971	
+  hospital = 4  [n =    624]:	weight: 0.231	loss: 0.105	acc: 0.966	
+objective: 0.053
+penalty: 0.000
+loss_avg: 0.079
+acc_avg: 0.978
+  hospital = 0  [n =    544]:	weight: 0.375	loss: 0.074	acc: 0.978	
+  hospital = 3  [n =    656]:	weight: 0.393	loss: 0.065	acc: 0.988	
+  hospital = 4  [n =    400]:	weight: 0.232	loss: 0.109	acc: 0.962	
+objective: 0.057
+penalty: 0.000
+loss_avg: 0.087
+acc_avg: 0.976
+  hospital = 0  [n =    464]:	weight: 0.375	loss: 0.098	acc: 0.972	
+  hospital = 3  [n =    544]:	weight: 0.393	loss: 0.076	acc: 0.974	
+  hospital = 4  [n =    592]:	weight: 0.233	loss: 0.088	acc: 0.980	
+objective: 0.060
+penalty: 0.000
+loss_avg: 0.088
+acc_avg: 0.976
+  hospital = 0  [n =    528]:	weight: 0.373	loss: 0.082	acc: 0.977	
+  hospital = 3  [n =    512]:	weight: 0.394	loss: 0.106	acc: 0.973	
+  hospital = 4  [n =    560]:	weight: 0.233	loss: 0.078	acc: 0.977	
+objective: 0.068
+penalty: 0.000
+loss_avg: 0.101
+acc_avg: 0.967
+  hospital = 0  [n =    576]:	weight: 0.375	loss: 0.116	acc: 0.967	
+  hospital = 3  [n =    560]:	weight: 0.393	loss: 0.080	acc: 0.964	
+  hospital = 4  [n =    464]:	weight: 0.232	loss: 0.106	acc: 0.970	
+objective: 0.065
+penalty: 0.000
+loss_avg: 0.100
+acc_avg: 0.967
+  hospital = 0  [n =    512]:	weight: 0.376	loss: 0.086	acc: 0.971	
+  hospital = 3  [n =    528]:	weight: 0.391	loss: 0.102	acc: 0.964	
+  hospital = 4  [n =    560]:	weight: 0.233	loss: 0.112	acc: 0.966	
+objective: 0.055
+penalty: 0.000
+loss_avg: 0.084
+acc_avg: 0.976
+  hospital = 0  [n =    624]:	weight: 0.377	loss: 0.090	acc: 0.973	
+  hospital = 3  [n =    464]:	weight: 0.390	loss: 0.068	acc: 0.981	
+  hospital = 4  [n =    512]:	weight: 0.233	loss: 0.090	acc: 0.977	
+objective: 0.073
+penalty: 0.000
+loss_avg: 0.115
+acc_avg: 0.959
+  hospital = 0  [n =    496]:	weight: 0.377	loss: 0.108	acc: 0.962	
+  hospital = 3  [n =    448]:	weight: 0.387	loss: 0.113	acc: 0.964	
+  hospital = 4  [n =    656]:	weight: 0.235	loss: 0.121	acc: 0.954	
+objective: 0.063
+penalty: 0.000
+loss_avg: 0.095
+acc_avg: 0.972
+  hospital = 0  [n =    432]:	weight: 0.376	loss: 0.099	acc: 0.975	
+  hospital = 3  [n =    560]:	weight: 0.387	loss: 0.101	acc: 0.966	
+  hospital = 4  [n =    608]:	weight: 0.237	loss: 0.085	acc: 0.975	
+objective: 0.070
+penalty: 0.000
+loss_avg: 0.107
+acc_avg: 0.966
+  hospital = 0  [n =    528]:	weight: 0.373	loss: 0.082	acc: 0.977	
+  hospital = 3  [n =    560]:	weight: 0.390	loss: 0.108	acc: 0.964	
+  hospital = 4  [n =    512]:	weight: 0.237	loss: 0.133	acc: 0.957	
+objective: 0.062
+penalty: 0.000
+loss_avg: 0.095
+acc_avg: 0.969
+  hospital = 0  [n =    576]:	weight: 0.374	loss: 0.100	acc: 0.964	
+  hospital = 3  [n =    448]:	weight: 0.387	loss: 0.080	acc: 0.975	
+  hospital = 4  [n =    576]:	weight: 0.239	loss: 0.102	acc: 0.970	
+objective: 0.059
+penalty: 0.000
+loss_avg: 0.087
+acc_avg: 0.972
+  hospital = 0  [n =    528]:	weight: 0.374	loss: 0.089	acc: 0.964	
+  hospital = 3  [n =    576]:	weight: 0.386	loss: 0.090	acc: 0.974	
+  hospital = 4  [n =    496]:	weight: 0.240	loss: 0.080	acc: 0.980	
+objective: 0.061
+penalty: 0.000
+loss_avg: 0.092
+acc_avg: 0.971
+  hospital = 0  [n =    528]:	weight: 0.373	loss: 0.091	acc: 0.966	
+  hospital = 3  [n =    496]:	weight: 0.388	loss: 0.095	acc: 0.968	
+  hospital = 4  [n =    576]:	weight: 0.239	loss: 0.092	acc: 0.979	
+objective: 0.054
+penalty: 0.000
+loss_avg: 0.083
+acc_avg: 0.974
+  hospital = 0  [n =    496]:	weight: 0.375	loss: 0.086	acc: 0.976	
+  hospital = 3  [n =    528]:	weight: 0.385	loss: 0.070	acc: 0.979	
+  hospital = 4  [n =    576]:	weight: 0.240	loss: 0.093	acc: 0.967	
+objective: 0.063
+penalty: 0.000
+loss_avg: 0.095
+acc_avg: 0.971
+  hospital = 0  [n =    512]:	weight: 0.374	loss: 0.111	acc: 0.967	
+  hospital = 3  [n =    528]:	weight: 0.385	loss: 0.083	acc: 0.979	
+  hospital = 4  [n =    560]:	weight: 0.241	loss: 0.092	acc: 0.968	
+objective: 0.057
+penalty: 0.000
+loss_avg: 0.084
+acc_avg: 0.973
+  hospital = 0  [n =    416]:	weight: 0.375	loss: 0.106	acc: 0.957	
+  hospital = 3  [n =    592]:	weight: 0.384	loss: 0.082	acc: 0.976	
+  hospital = 4  [n =    592]:	weight: 0.241	loss: 0.070	acc: 0.980	
+objective: 0.059
+penalty: 0.000
+loss_avg: 0.088
+acc_avg: 0.976
+  hospital = 0  [n =    480]:	weight: 0.374	loss: 0.080	acc: 0.979	
+  hospital = 3  [n =    528]:	weight: 0.386	loss: 0.105	acc: 0.970	
+  hospital = 4  [n =    592]:	weight: 0.241	loss: 0.079	acc: 0.980	
+objective: 0.061
+penalty: 0.000
+loss_avg: 0.089
+acc_avg: 0.970
+  hospital = 0  [n =    512]:	weight: 0.372	loss: 0.088	acc: 0.969	
+  hospital = 3  [n =    608]:	weight: 0.388	loss: 0.095	acc: 0.967	
+  hospital = 4  [n =    480]:	weight: 0.240	loss: 0.084	acc: 0.975	
+objective: 0.062
+penalty: 0.000
+loss_avg: 0.093
+acc_avg: 0.976
+  hospital = 0  [n =    496]:	weight: 0.372	loss: 0.102	acc: 0.970	
+  hospital = 3  [n =    512]:	weight: 0.389	loss: 0.098	acc: 0.973	
+  hospital = 4  [n =    592]:	weight: 0.239	loss: 0.081	acc: 0.983	
+objective: 0.058
+penalty: 0.000
+loss_avg: 0.092
+acc_avg: 0.971
+  hospital = 0  [n =    496]:	weight: 0.372	loss: 0.093	acc: 0.968	
+  hospital = 3  [n =    448]:	weight: 0.388	loss: 0.074	acc: 0.980	
+  hospital = 4  [n =    656]:	weight: 0.241	loss: 0.103	acc: 0.966	
+objective: 0.053
+penalty: 0.000
+loss_avg: 0.083
+acc_avg: 0.976
+  hospital = 0  [n =    496]:	weight: 0.372	loss: 0.075	acc: 0.978	
+  hospital = 3  [n =    448]:	weight: 0.385	loss: 0.084	acc: 0.978	
+  hospital = 4  [n =    656]:	weight: 0.244	loss: 0.089	acc: 0.973	
+objective: 0.056
+penalty: 0.000
+loss_avg: 0.085
+acc_avg: 0.980
+  hospital = 0  [n =    528]:	weight: 0.370	loss: 0.077	acc: 0.983	
+  hospital = 3  [n =    544]:	weight: 0.384	loss: 0.083	acc: 0.978	
+  hospital = 4  [n =    528]:	weight: 0.246	loss: 0.096	acc: 0.979	
+objective: 0.053
+penalty: 0.000
+loss_avg: 0.077
+acc_avg: 0.980
+  hospital = 0  [n =    576]:	weight: 0.370	loss: 0.075	acc: 0.979	
+  hospital = 3  [n =    496]:	weight: 0.385	loss: 0.094	acc: 0.972	
+  hospital = 4  [n =    528]:	weight: 0.245	loss: 0.064	acc: 0.989	
+objective: 0.065
+penalty: 0.000
+loss_avg: 0.098
+acc_avg: 0.971
+  hospital = 0  [n =    528]:	weight: 0.370	loss: 0.094	acc: 0.968	
+  hospital = 3  [n =    592]:	weight: 0.385	loss: 0.087	acc: 0.980	
+  hospital = 4  [n =    480]:	weight: 0.245	loss: 0.116	acc: 0.963	
+objective: 0.056
+penalty: 0.000
+loss_avg: 0.087
+acc_avg: 0.973
+  hospital = 0  [n =    560]:	weight: 0.369	loss: 0.069	acc: 0.982	
+  hospital = 3  [n =    480]:	weight: 0.386	loss: 0.088	acc: 0.971	
+  hospital = 4  [n =    560]:	weight: 0.245	loss: 0.105	acc: 0.966	
+objective: 0.051
+penalty: 0.000
+loss_avg: 0.075
+acc_avg: 0.980
+  hospital = 0  [n =    512]:	weight: 0.369	loss: 0.091	acc: 0.969	
+  hospital = 3  [n =    576]:	weight: 0.384	loss: 0.071	acc: 0.984	
+  hospital = 4  [n =    512]:	weight: 0.247	loss: 0.064	acc: 0.986	
+objective: 0.048
+penalty: 0.000
+loss_avg: 0.074
+acc_avg: 0.981
+  hospital = 0  [n =    544]:	weight: 0.369	loss: 0.065	acc: 0.983	
+  hospital = 3  [n =    528]:	weight: 0.385	loss: 0.064	acc: 0.985	
+  hospital = 4  [n =    528]:	weight: 0.246	loss: 0.095	acc: 0.973	
+objective: 0.058
+penalty: 0.000
+loss_avg: 0.091
+acc_avg: 0.973
+  hospital = 0  [n =    544]:	weight: 0.367	loss: 0.075	acc: 0.980	
+  hospital = 3  [n =    448]:	weight: 0.384	loss: 0.083	acc: 0.975	
+  hospital = 4  [n =    608]:	weight: 0.249	loss: 0.110	acc: 0.965	
+objective: 0.049
+penalty: 0.000
+loss_avg: 0.073
+acc_avg: 0.977
+  hospital = 0  [n =    416]:	weight: 0.368	loss: 0.096	acc: 0.969	
+  hospital = 3  [n =    608]:	weight: 0.382	loss: 0.067	acc: 0.979	
+  hospital = 4  [n =    576]:	weight: 0.250	loss: 0.061	acc: 0.981	
+objective: 0.055
+penalty: 0.000
+loss_avg: 0.083
+acc_avg: 0.977
+  hospital = 0  [n =    512]:	weight: 0.368	loss: 0.085	acc: 0.971	
+  hospital = 3  [n =    544]:	weight: 0.382	loss: 0.084	acc: 0.980	
+  hospital = 4  [n =    544]:	weight: 0.251	loss: 0.079	acc: 0.980	
+objective: 0.058
+penalty: 0.000
+loss_avg: 0.088
+acc_avg: 0.971
+  hospital = 0  [n =    608]:	weight: 0.368	loss: 0.088	acc: 0.972	
+  hospital = 3  [n =    528]:	weight: 0.381	loss: 0.066	acc: 0.981	
+  hospital = 4  [n =    464]:	weight: 0.251	loss: 0.114	acc: 0.959	
+objective: 0.049
+penalty: 0.000
+loss_avg: 0.073
+acc_avg: 0.984
+  hospital = 0  [n =    448]:	weight: 0.370	loss: 0.087	acc: 0.978	
+  hospital = 3  [n =    608]:	weight: 0.380	loss: 0.069	acc: 0.982	
+  hospital = 4  [n =    544]:	weight: 0.250	loss: 0.065	acc: 0.991	
+objective: 0.050
+penalty: 0.000
+loss_avg: 0.076
+acc_avg: 0.977
+  hospital = 0  [n =    480]:	weight: 0.369	loss: 0.062	acc: 0.985	
+  hospital = 3  [n =    528]:	weight: 0.381	loss: 0.085	acc: 0.968	
+  hospital = 4  [n =    592]:	weight: 0.251	loss: 0.079	acc: 0.978	
+objective: 0.050
+penalty: 0.000
+loss_avg: 0.074
+acc_avg: 0.982
+  hospital = 0  [n =    576]:	weight: 0.366	loss: 0.068	acc: 0.983	
+  hospital = 3  [n =    528]:	weight: 0.382	loss: 0.078	acc: 0.979	
+  hospital = 4  [n =    496]:	weight: 0.252	loss: 0.076	acc: 0.984	
+objective: 0.056
+penalty: 0.000
+loss_avg: 0.083
+acc_avg: 0.979
+  hospital = 0  [n =    512]:	weight: 0.367	loss: 0.097	acc: 0.975	
+  hospital = 3  [n =    544]:	weight: 0.382	loss: 0.082	acc: 0.978	
+  hospital = 4  [n =    544]:	weight: 0.251	loss: 0.071	acc: 0.983	
+objective: 0.064
+penalty: 0.000
+loss_avg: 0.094
+acc_avg: 0.972
+  hospital = 0  [n =    608]:	weight: 0.368	loss: 0.092	acc: 0.970	
+  hospital = 3  [n =    432]:	weight: 0.382	loss: 0.117	acc: 0.972	
+  hospital = 4  [n =    560]:	weight: 0.250	loss: 0.078	acc: 0.973	
+objective: 0.061
+penalty: 0.000
+loss_avg: 0.088
+acc_avg: 0.975
+  hospital = 0  [n =    544]:	weight: 0.368	loss: 0.080	acc: 0.974	
+  hospital = 3  [n =    624]:	weight: 0.384	loss: 0.099	acc: 0.973	
+  hospital = 4  [n =    432]:	weight: 0.248	loss: 0.082	acc: 0.979	
+objective: 0.062
+penalty: 0.000
+loss_avg: 0.092
+acc_avg: 0.972
+  hospital = 0  [n =    560]:	weight: 0.367	loss: 0.075	acc: 0.980	
+  hospital = 3  [n =    560]:	weight: 0.386	loss: 0.105	acc: 0.964	
+  hospital = 4  [n =    480]:	weight: 0.247	loss: 0.098	acc: 0.973	
+objective: 0.069
+penalty: 0.000
+loss_avg: 0.106
+acc_avg: 0.967
+  hospital = 0  [n =    432]:	weight: 0.365	loss: 0.100	acc: 0.963	
+  hospital = 3  [n =    608]:	weight: 0.387	loss: 0.093	acc: 0.975	
+  hospital = 4  [n =    560]:	weight: 0.248	loss: 0.125	acc: 0.961	
+objective: 0.056
+penalty: 0.000
+loss_avg: 0.084
+acc_avg: 0.974
+  hospital = 0  [n =    432]:	weight: 0.361	loss: 0.081	acc: 0.979	
+  hospital = 3  [n =    592]:	weight: 0.389	loss: 0.086	acc: 0.968	
+  hospital = 4  [n =    576]:	weight: 0.250	loss: 0.085	acc: 0.977	
+objective: 0.051
+penalty: 0.000
+loss_avg: 0.072
+acc_avg: 0.980
+  hospital = 0  [n =    640]:	weight: 0.362	loss: 0.066	acc: 0.983	
+  hospital = 3  [n =    512]:	weight: 0.390	loss: 0.096	acc: 0.969	
+  hospital = 4  [n =    448]:	weight: 0.248	loss: 0.052	acc: 0.989	
+objective: 0.061
+penalty: 0.000
+loss_avg: 0.089
+acc_avg: 0.971
+  hospital = 0  [n =    448]:	weight: 0.362	loss: 0.096	acc: 0.964	
+  hospital = 3  [n =    592]:	weight: 0.392	loss: 0.096	acc: 0.970	
+  hospital = 4  [n =    560]:	weight: 0.247	loss: 0.077	acc: 0.979	
+objective: 0.073
+penalty: 0.000
+loss_avg: 0.106
+acc_avg: 0.967
+  hospital = 0  [n =    672]:	weight: 0.361	loss: 0.086	acc: 0.969	
+  hospital = 3  [n =    496]:	weight: 0.394	loss: 0.136	acc: 0.960	
+  hospital = 4  [n =    432]:	weight: 0.246	loss: 0.103	acc: 0.972	
+objective: 0.067
+penalty: 0.000
+loss_avg: 0.101
+acc_avg: 0.968
+  hospital = 0  [n =    576]:	weight: 0.359	loss: 0.094	acc: 0.972	
+  hospital = 3  [n =    528]:	weight: 0.396	loss: 0.103	acc: 0.966	
+  hospital = 4  [n =    496]:	weight: 0.245	loss: 0.106	acc: 0.966	
+objective: 0.062
+penalty: 0.000
+loss_avg: 0.092
+acc_avg: 0.975
+  hospital = 0  [n =    560]:	weight: 0.360	loss: 0.089	acc: 0.975	
+  hospital = 3  [n =    512]:	weight: 0.396	loss: 0.105	acc: 0.973	
+  hospital = 4  [n =    528]:	weight: 0.244	loss: 0.082	acc: 0.977	
+objective: 0.051
+penalty: 0.000
+loss_avg: 0.077
+acc_avg: 0.979
+  hospital = 0  [n =    512]:	weight: 0.361	loss: 0.074	acc: 0.984	
+  hospital = 3  [n =    560]:	weight: 0.396	loss: 0.080	acc: 0.973	
+  hospital = 4  [n =    528]:	weight: 0.243	loss: 0.075	acc: 0.979	
+objective: 0.069
+penalty: 0.000
+loss_avg: 0.103
+acc_avg: 0.971
+  hospital = 0  [n =    480]:	weight: 0.361	loss: 0.123	acc: 0.965	
+  hospital = 3  [n =    592]:	weight: 0.397	loss: 0.092	acc: 0.973	
+  hospital = 4  [n =    528]:	weight: 0.242	loss: 0.096	acc: 0.975	
+objective: 0.057
+penalty: 0.000
+loss_avg: 0.084
+acc_avg: 0.974
+  hospital = 0  [n =    560]:	weight: 0.361	loss: 0.089	acc: 0.971	
+  hospital = 3  [n =    528]:	weight: 0.398	loss: 0.091	acc: 0.972	
+  hospital = 4  [n =    512]:	weight: 0.241	loss: 0.070	acc: 0.980	
+objective: 0.079
+penalty: 0.000
+loss_avg: 0.119
+acc_avg: 0.964
+  hospital = 0  [n =    544]:	weight: 0.362	loss: 0.120	acc: 0.965	
+  hospital = 3  [n =    480]:	weight: 0.397	loss: 0.125	acc: 0.962	
+  hospital = 4  [n =    576]:	weight: 0.241	loss: 0.114	acc: 0.964	
+objective: 0.073
+penalty: 0.000
+loss_avg: 0.106
+acc_avg: 0.967
+  hospital = 0  [n =    512]:	weight: 0.363	loss: 0.122	acc: 0.959	
+  hospital = 3  [n =    640]:	weight: 0.398	loss: 0.094	acc: 0.975	
+  hospital = 4  [n =    448]:	weight: 0.240	loss: 0.107	acc: 0.964	
+objective: 0.077
+penalty: 0.000
+loss_avg: 0.113
+acc_avg: 0.959
+  hospital = 0  [n =    528]:	weight: 0.364	loss: 0.129	acc: 0.955	
+  hospital = 3  [n =    528]:	weight: 0.398	loss: 0.115	acc: 0.953	
+  hospital = 4  [n =    544]:	weight: 0.239	loss: 0.095	acc: 0.971	
+objective: 0.058
+penalty: 0.000
+loss_avg: 0.088
+acc_avg: 0.971
+  hospital = 0  [n =    560]:	weight: 0.366	loss: 0.093	acc: 0.971	
+  hospital = 3  [n =    480]:	weight: 0.396	loss: 0.078	acc: 0.977	
+  hospital = 4  [n =    560]:	weight: 0.239	loss: 0.091	acc: 0.964	
+objective: 0.060
+penalty: 0.000
+loss_avg: 0.091
+acc_avg: 0.973
+  hospital = 0  [n =    480]:	weight: 0.365	loss: 0.073	acc: 0.985	
+  hospital = 3  [n =    512]:	weight: 0.396	loss: 0.109	acc: 0.959	
+  hospital = 4  [n =    608]:	weight: 0.239	loss: 0.089	acc: 0.975	
+objective: 0.062
+penalty: 0.000
+loss_avg: 0.093
+acc_avg: 0.968
+  hospital = 0  [n =    592]:	weight: 0.364	loss: 0.095	acc: 0.968	
+  hospital = 3  [n =    448]:	weight: 0.397	loss: 0.099	acc: 0.962	
+  hospital = 4  [n =    560]:	weight: 0.239	loss: 0.087	acc: 0.971	
+objective: 0.066
+penalty: 0.000
+loss_avg: 0.102
+acc_avg: 0.968
+  hospital = 0  [n =    560]:	weight: 0.366	loss: 0.098	acc: 0.970	
+  hospital = 3  [n =    528]:	weight: 0.396	loss: 0.086	acc: 0.979	
+  hospital = 4  [n =    512]:	weight: 0.239	loss: 0.121	acc: 0.955	
+objective: 0.068
+penalty: 0.000
+loss_avg: 0.098
+acc_avg: 0.968
+  hospital = 0  [n =    544]:	weight: 0.366	loss: 0.117	acc: 0.961	
+  hospital = 3  [n =    560]:	weight: 0.394	loss: 0.096	acc: 0.973	
+  hospital = 4  [n =    496]:	weight: 0.240	loss: 0.079	acc: 0.970	
+objective: 0.063
+penalty: 0.000
+loss_avg: 0.097
+acc_avg: 0.974
+  hospital = 0  [n =    416]:	weight: 0.368	loss: 0.110	acc: 0.971	
+  hospital = 3  [n =    608]:	weight: 0.393	loss: 0.084	acc: 0.977	
+  hospital = 4  [n =    576]:	weight: 0.239	loss: 0.100	acc: 0.972	
+objective: 0.050
+penalty: 0.000
+loss_avg: 0.076
+acc_avg: 0.979
+  hospital = 0  [n =    560]:	weight: 0.366	loss: 0.072	acc: 0.980	
+  hospital = 3  [n =    496]:	weight: 0.394	loss: 0.080	acc: 0.980	
+  hospital = 4  [n =    544]:	weight: 0.240	loss: 0.076	acc: 0.978	
+objective: 0.089
+penalty: 0.000
+loss_avg: 0.133
+acc_avg: 0.952
+  hospital = 0  [n =    432]:	weight: 0.366	loss: 0.161	acc: 0.947	
+  hospital = 3  [n =    560]:	weight: 0.395	loss: 0.126	acc: 0.954	
+  hospital = 4  [n =    608]:	weight: 0.240	loss: 0.121	acc: 0.954	
+objective: 0.060
+penalty: 0.000
+loss_avg: 0.090
+acc_avg: 0.975
+  hospital = 0  [n =    496]:	weight: 0.368	loss: 0.111	acc: 0.968	
+  hospital = 3  [n =    576]:	weight: 0.393	loss: 0.075	acc: 0.981	
+  hospital = 4  [n =    528]:	weight: 0.240	loss: 0.086	acc: 0.975	
+objective: 0.065
+penalty: 0.000
+loss_avg: 0.099
+acc_avg: 0.969
+  hospital = 0  [n =    480]:	weight: 0.367	loss: 0.104	acc: 0.962	
+  hospital = 3  [n =    608]:	weight: 0.393	loss: 0.088	acc: 0.975	
+  hospital = 4  [n =    512]:	weight: 0.240	loss: 0.106	acc: 0.967	
+objective: 0.071
+penalty: 0.000
+loss_avg: 0.103
+acc_avg: 0.970
+  hospital = 0  [n =    560]:	weight: 0.367	loss: 0.105	acc: 0.966	
+  hospital = 3  [n =    576]:	weight: 0.393	loss: 0.111	acc: 0.967	
+  hospital = 4  [n =    464]:	weight: 0.240	loss: 0.092	acc: 0.978	
+objective: 0.064
+penalty: 0.000
+loss_avg: 0.094
+acc_avg: 0.972
+  hospital = 0  [n =    624]:	weight: 0.369	loss: 0.100	acc: 0.973	
+  hospital = 3  [n =    448]:	weight: 0.394	loss: 0.109	acc: 0.960	
+  hospital = 4  [n =    528]:	weight: 0.237	loss: 0.074	acc: 0.983	
+objective: 0.046
+penalty: 0.000
+loss_avg: 0.067
+acc_avg: 0.984
+  hospital = 0  [n =    592]:	weight: 0.370	loss: 0.071	acc: 0.981	
+  hospital = 3  [n =    432]:	weight: 0.394	loss: 0.084	acc: 0.977	
+  hospital = 4  [n =    576]:	weight: 0.236	loss: 0.051	acc: 0.991	
+objective: 0.050
+penalty: 0.000
+loss_avg: 0.074
+acc_avg: 0.981
+  hospital = 0  [n =    560]:	weight: 0.371	loss: 0.057	acc: 0.988	
+  hospital = 3  [n =    560]:	weight: 0.395	loss: 0.085	acc: 0.977	
+  hospital = 4  [n =    480]:	weight: 0.235	loss: 0.082	acc: 0.977	
+objective: 0.072
+penalty: 0.000
+loss_avg: 0.103
+acc_avg: 0.970
+  hospital = 0  [n =    576]:	weight: 0.370	loss: 0.093	acc: 0.974	
+  hospital = 3  [n =    512]:	weight: 0.396	loss: 0.139	acc: 0.957	
+  hospital = 4  [n =    512]:	weight: 0.235	loss: 0.080	acc: 0.979	
+objective: 0.063
+penalty: 0.000
+loss_avg: 0.095
+acc_avg: 0.975
+  hospital = 0  [n =    544]:	weight: 0.368	loss: 0.079	acc: 0.982	
+  hospital = 3  [n =    560]:	weight: 0.399	loss: 0.094	acc: 0.975	
+  hospital = 4  [n =    496]:	weight: 0.233	loss: 0.113	acc: 0.968	
+objective: 0.056
+penalty: 0.000
+loss_avg: 0.085
+acc_avg: 0.975
+  hospital = 0  [n =    432]:	weight: 0.366	loss: 0.090	acc: 0.975	
+  hospital = 3  [n =    544]:	weight: 0.400	loss: 0.086	acc: 0.969	
+  hospital = 4  [n =    624]:	weight: 0.234	loss: 0.081	acc: 0.981	
+objective: 0.055
+penalty: 0.000
+loss_avg: 0.083
+acc_avg: 0.976
+  hospital = 0  [n =    496]:	weight: 0.365	loss: 0.084	acc: 0.976	
+  hospital = 3  [n =    464]:	weight: 0.400	loss: 0.092	acc: 0.970	
+  hospital = 4  [n =    640]:	weight: 0.235	loss: 0.077	acc: 0.981	
+objective: 0.058
+penalty: 0.000
+loss_avg: 0.084
+acc_avg: 0.975
+  hospital = 0  [n =    576]:	weight: 0.365	loss: 0.091	acc: 0.972	
+  hospital = 3  [n =    576]:	weight: 0.401	loss: 0.084	acc: 0.972	
+  hospital = 4  [n =    448]:	weight: 0.235	loss: 0.073	acc: 0.982	
+objective: 0.046
+penalty: 0.000
+loss_avg: 0.068
+acc_avg: 0.981
+  hospital = 0  [n =    512]:	weight: 0.367	loss: 0.079	acc: 0.979	
+  hospital = 3  [n =    512]:	weight: 0.400	loss: 0.070	acc: 0.979	
+  hospital = 4  [n =    576]:	weight: 0.233	loss: 0.055	acc: 0.984	
+objective: 0.068
+penalty: 0.000
+loss_avg: 0.104
+acc_avg: 0.969
+  hospital = 0  [n =    528]:	weight: 0.368	loss: 0.115	acc: 0.964	
+  hospital = 3  [n =    464]:	weight: 0.400	loss: 0.100	acc: 0.970	
+  hospital = 4  [n =    608]:	weight: 0.232	loss: 0.096	acc: 0.972	
+objective: 0.062
+penalty: 0.000
+loss_avg: 0.091
+acc_avg: 0.973
+  hospital = 0  [n =    528]:	weight: 0.369	loss: 0.098	acc: 0.968	
+  hospital = 3  [n =    528]:	weight: 0.398	loss: 0.092	acc: 0.970	
+  hospital = 4  [n =    544]:	weight: 0.233	loss: 0.084	acc: 0.982	
+objective: 0.056
+penalty: 0.000
+loss_avg: 0.087
+acc_avg: 0.978
+  hospital = 0  [n =    560]:	weight: 0.368	loss: 0.058	acc: 0.991	
+  hospital = 3  [n =    528]:	weight: 0.399	loss: 0.096	acc: 0.968	
+  hospital = 4  [n =    512]:	weight: 0.233	loss: 0.109	acc: 0.975	
+objective: 0.054
+penalty: 0.000
+loss_avg: 0.082
+acc_avg: 0.980
+  hospital = 0  [n =    576]:	weight: 0.369	loss: 0.098	acc: 0.976	
+  hospital = 3  [n =    464]:	weight: 0.396	loss: 0.062	acc: 0.989	
+  hospital = 4  [n =    560]:	weight: 0.234	loss: 0.082	acc: 0.977	
+objective: 0.075
+penalty: 0.000
+loss_avg: 0.114
+acc_avg: 0.964
+  hospital = 0  [n =    448]:	weight: 0.371	loss: 0.160	acc: 0.944	
+  hospital = 3  [n =    496]:	weight: 0.394	loss: 0.088	acc: 0.974	
+  hospital = 4  [n =    656]:	weight: 0.235	loss: 0.103	acc: 0.971	
+objective: 0.064
+penalty: 0.000
+loss_avg: 0.100
+acc_avg: 0.965
+  hospital = 0  [n =    576]:	weight: 0.373	loss: 0.095	acc: 0.970	
+  hospital = 3  [n =    448]:	weight: 0.390	loss: 0.083	acc: 0.971	
+  hospital = 4  [n =    576]:	weight: 0.237	loss: 0.119	acc: 0.955	
+objective: 0.057
+penalty: 0.000
+loss_avg: 0.085
+acc_avg: 0.974
+  hospital = 0  [n =    496]:	weight: 0.374	loss: 0.087	acc: 0.972	
+  hospital = 3  [n =    544]:	weight: 0.388	loss: 0.090	acc: 0.972	
+  hospital = 4  [n =    560]:	weight: 0.238	loss: 0.079	acc: 0.979	
+objective: 0.068
+penalty: 0.000
+loss_avg: 0.105
+acc_avg: 0.964
+  hospital = 0  [n =    528]:	weight: 0.372	loss: 0.093	acc: 0.972	
+  hospital = 3  [n =    496]:	weight: 0.389	loss: 0.098	acc: 0.968	
+  hospital = 4  [n =    576]:	weight: 0.239	loss: 0.123	acc: 0.955	
+objective: 0.060
+penalty: 0.000
+loss_avg: 0.095
+acc_avg: 0.969
+  hospital = 0  [n =    432]:	weight: 0.371	loss: 0.105	acc: 0.970	
+  hospital = 3  [n =    528]:	weight: 0.387	loss: 0.068	acc: 0.979	
+  hospital = 4  [n =    640]:	weight: 0.242	loss: 0.111	acc: 0.959	
+objective: 0.052
+penalty: 0.000
+loss_avg: 0.080
+acc_avg: 0.976
+  hospital = 0  [n =    496]:	weight: 0.371	loss: 0.064	acc: 0.984	
+  hospital = 3  [n =    544]:	weight: 0.385	loss: 0.082	acc: 0.978	
+  hospital = 4  [n =    560]:	weight: 0.244	loss: 0.092	acc: 0.966	
+objective: 0.072
+penalty: 0.000
+loss_avg: 0.109
+acc_avg: 0.964
+  hospital = 0  [n =    528]:	weight: 0.369	loss: 0.100	acc: 0.962	
+  hospital = 3  [n =    560]:	weight: 0.386	loss: 0.105	acc: 0.971	
+  hospital = 4  [n =    512]:	weight: 0.246	loss: 0.124	acc: 0.959	
+objective: 0.067
+penalty: 0.000
+loss_avg: 0.099
+acc_avg: 0.967
+  hospital = 0  [n =    464]:	weight: 0.366	loss: 0.093	acc: 0.972	
+  hospital = 3  [n =    624]:	weight: 0.387	loss: 0.109	acc: 0.963	
+  hospital = 4  [n =    512]:	weight: 0.247	loss: 0.091	acc: 0.969	
+objective: 0.046
+penalty: 0.000
+loss_avg: 0.070
+acc_avg: 0.982
+  hospital = 0  [n =    544]:	weight: 0.366	loss: 0.073	acc: 0.982	
+  hospital = 3  [n =    544]:	weight: 0.389	loss: 0.063	acc: 0.985	
+  hospital = 4  [n =    512]:	weight: 0.245	loss: 0.073	acc: 0.980	
+objective: 0.061
+penalty: 0.000
+loss_avg: 0.093
+acc_avg: 0.971
+  hospital = 0  [n =    544]:	weight: 0.366	loss: 0.095	acc: 0.971	
+  hospital = 3  [n =    560]:	weight: 0.388	loss: 0.078	acc: 0.979	
+  hospital = 4  [n =    496]:	weight: 0.246	loss: 0.106	acc: 0.962	
+objective: 0.058
+penalty: 0.000
+loss_avg: 0.091
+acc_avg: 0.974
+  hospital = 0  [n =    464]:	weight: 0.366	loss: 0.079	acc: 0.981	
+  hospital = 3  [n =    592]:	weight: 0.387	loss: 0.077	acc: 0.980	
+  hospital = 4  [n =    544]:	weight: 0.247	loss: 0.117	acc: 0.963	
+objective: 0.069
+penalty: 0.000
+loss_avg: 0.102
+acc_avg: 0.969
+  hospital = 0  [n =    592]:	weight: 0.365	loss: 0.106	acc: 0.973	
+  hospital = 3  [n =    480]:	weight: 0.386	loss: 0.109	acc: 0.960	
+  hospital = 4  [n =    528]:	weight: 0.249	loss: 0.092	acc: 0.973	
+objective: 0.052
+penalty: 0.000
+loss_avg: 0.079
+acc_avg: 0.979
+  hospital = 0  [n =    560]:	weight: 0.367	loss: 0.095	acc: 0.968	
+  hospital = 3  [n =    464]:	weight: 0.385	loss: 0.067	acc: 0.985	
+  hospital = 4  [n =    576]:	weight: 0.248	loss: 0.071	acc: 0.986	
+objective: 0.075
+penalty: 0.000
+loss_avg: 0.110
+acc_avg: 0.961
+  hospital = 0  [n =    560]:	weight: 0.368	loss: 0.105	acc: 0.961	
+  hospital = 3  [n =    576]:	weight: 0.385	loss: 0.123	acc: 0.955	
+  hospital = 4  [n =    464]:	weight: 0.247	loss: 0.099	acc: 0.970	
+objective: 0.058
+penalty: 0.000
+loss_avg: 0.086
+acc_avg: 0.971
+  hospital = 0  [n =    528]:	weight: 0.369	loss: 0.095	acc: 0.968	
+  hospital = 3  [n =    560]:	weight: 0.386	loss: 0.079	acc: 0.973	
+  hospital = 4  [n =    512]:	weight: 0.245	loss: 0.085	acc: 0.971	
+objective: 0.057
+penalty: 0.000
+loss_avg: 0.083
+acc_avg: 0.977
+  hospital = 0  [n =    448]:	weight: 0.368	loss: 0.090	acc: 0.971	
+  hospital = 3  [n =    640]:	weight: 0.388	loss: 0.089	acc: 0.975	
+  hospital = 4  [n =    512]:	weight: 0.244	loss: 0.069	acc: 0.986	
+objective: 0.064
+penalty: 0.000
+loss_avg: 0.099
+acc_avg: 0.969
+  hospital = 0  [n =    400]:	weight: 0.364	loss: 0.088	acc: 0.978	
+  hospital = 3  [n =    608]:	weight: 0.391	loss: 0.090	acc: 0.972	
+  hospital = 4  [n =    592]:	weight: 0.245	loss: 0.114	acc: 0.959	
+objective: 0.067
+penalty: 0.000
+loss_avg: 0.101
+acc_avg: 0.969
+  hospital = 0  [n =    592]:	weight: 0.364	loss: 0.077	acc: 0.976	
+  hospital = 3  [n =    432]:	weight: 0.390	loss: 0.136	acc: 0.958	
+  hospital = 4  [n =    576]:	weight: 0.246	loss: 0.100	acc: 0.970	
+objective: 0.072
+penalty: 0.000
+loss_avg: 0.107
+acc_avg: 0.967
+  hospital = 0  [n =    544]:	weight: 0.364	loss: 0.132	acc: 0.960	
+  hospital = 3  [n =    496]:	weight: 0.390	loss: 0.094	acc: 0.968	
+  hospital = 4  [n =    560]:	weight: 0.246	loss: 0.095	acc: 0.973	
+objective: 0.059
+penalty: 0.000
+loss_avg: 0.089
+acc_avg: 0.976
+  hospital = 0  [n =    528]:	weight: 0.367	loss: 0.096	acc: 0.977	
+  hospital = 3  [n =    496]:	weight: 0.388	loss: 0.088	acc: 0.976	
+  hospital = 4  [n =    576]:	weight: 0.245	loss: 0.083	acc: 0.976	
+objective: 0.055
+penalty: 0.000
+loss_avg: 0.082
+acc_avg: 0.978
+  hospital = 0  [n =    496]:	weight: 0.366	loss: 0.089	acc: 0.980	
+  hospital = 3  [n =    464]:	weight: 0.388	loss: 0.094	acc: 0.972	
+  hospital = 4  [n =    640]:	weight: 0.246	loss: 0.067	acc: 0.981	
+objective: 0.063
+penalty: 0.000
+loss_avg: 0.094
+acc_avg: 0.971
+  hospital = 0  [n =    480]:	weight: 0.366	loss: 0.090	acc: 0.973	
+  hospital = 3  [n =    576]:	weight: 0.388	loss: 0.104	acc: 0.964	
+  hospital = 4  [n =    544]:	weight: 0.246	loss: 0.086	acc: 0.976	
+objective: 0.055
+penalty: 0.000
+loss_avg: 0.082
+acc_avg: 0.974
+  hospital = 0  [n =    544]:	weight: 0.365	loss: 0.083	acc: 0.969	
+  hospital = 3  [n =    512]:	weight: 0.390	loss: 0.086	acc: 0.975	
+  hospital = 4  [n =    544]:	weight: 0.245	loss: 0.079	acc: 0.978	
+objective: 0.067
+penalty: 0.000
+loss_avg: 0.101
+acc_avg: 0.968
+  hospital = 0  [n =    560]:	weight: 0.365	loss: 0.102	acc: 0.964	
+  hospital = 3  [n =    560]:	weight: 0.390	loss: 0.086	acc: 0.975	
+  hospital = 4  [n =    480]:	weight: 0.245	loss: 0.116	acc: 0.963	
+objective: 0.063
+penalty: 0.000
+loss_avg: 0.093
+acc_avg: 0.969
+  hospital = 0  [n =    560]:	weight: 0.366	loss: 0.089	acc: 0.971	
+  hospital = 3  [n =    544]:	weight: 0.389	loss: 0.098	acc: 0.967	
+  hospital = 4  [n =    496]:	weight: 0.245	loss: 0.093	acc: 0.970	
+objective: 0.068
+penalty: 0.000
+loss_avg: 0.102
+acc_avg: 0.970
+  hospital = 0  [n =    560]:	weight: 0.367	loss: 0.122	acc: 0.962	
+  hospital = 3  [n =    496]:	weight: 0.388	loss: 0.082	acc: 0.972	
+  hospital = 4  [n =    544]:	weight: 0.245	loss: 0.099	acc: 0.976	
+objective: 0.059
+penalty: 0.000
+loss_avg: 0.090
+acc_avg: 0.968
+  hospital = 0  [n =    544]:	weight: 0.368	loss: 0.068	acc: 0.980	
+  hospital = 3  [n =    480]:	weight: 0.386	loss: 0.103	acc: 0.954	
+  hospital = 4  [n =    576]:	weight: 0.246	loss: 0.101	acc: 0.967	
+objective: 0.050
+penalty: 0.000
+loss_avg: 0.075
+acc_avg: 0.981
+  hospital = 0  [n =    496]:	weight: 0.368	loss: 0.085	acc: 0.982	
+  hospital = 3  [n =    544]:	weight: 0.386	loss: 0.067	acc: 0.982	
+  hospital = 4  [n =    560]:	weight: 0.246	loss: 0.075	acc: 0.979	
+objective: 0.052
+penalty: 0.000
+loss_avg: 0.077
+acc_avg: 0.984
+  hospital = 0  [n =    480]:	weight: 0.366	loss: 0.069	acc: 0.990	
+  hospital = 3  [n =    576]:	weight: 0.388	loss: 0.083	acc: 0.983	
+  hospital = 4  [n =    544]:	weight: 0.246	loss: 0.078	acc: 0.982	
+objective: 0.067
+penalty: 0.000
+loss_avg: 0.102
+acc_avg: 0.969
+  hospital = 0  [n =    480]:	weight: 0.364	loss: 0.089	acc: 0.971	
+  hospital = 3  [n =    544]:	weight: 0.390	loss: 0.105	acc: 0.976	
+  hospital = 4  [n =    576]:	weight: 0.247	loss: 0.110	acc: 0.960	
+objective: 0.066
+penalty: 0.000
+loss_avg: 0.098
+acc_avg: 0.969
+  hospital = 0  [n =    544]:	weight: 0.363	loss: 0.099	acc: 0.969	
+  hospital = 3  [n =    528]:	weight: 0.388	loss: 0.101	acc: 0.968	
+  hospital = 4  [n =    528]:	weight: 0.249	loss: 0.095	acc: 0.970	
+objective: 0.059
+penalty: 0.000
+loss_avg: 0.090
+acc_avg: 0.974
+  hospital = 0  [n =    480]:	weight: 0.363	loss: 0.090	acc: 0.975	
+  hospital = 3  [n =    480]:	weight: 0.389	loss: 0.099	acc: 0.969	
+  hospital = 4  [n =    640]:	weight: 0.248	loss: 0.082	acc: 0.977	
+objective: 0.069
+penalty: 0.000
+loss_avg: 0.102
+acc_avg: 0.965
+  hospital = 0  [n =    496]:	weight: 0.361	loss: 0.122	acc: 0.958	
+  hospital = 3  [n =    560]:	weight: 0.391	loss: 0.102	acc: 0.964	
+  hospital = 4  [n =    544]:	weight: 0.248	loss: 0.083	acc: 0.972	
+objective: 0.067
+penalty: 0.000
+loss_avg: 0.099
+acc_avg: 0.971
+  hospital = 0  [n =    544]:	weight: 0.365	loss: 0.122	acc: 0.961	
+  hospital = 3  [n =    544]:	weight: 0.388	loss: 0.083	acc: 0.976	
+  hospital = 4  [n =    512]:	weight: 0.248	loss: 0.092	acc: 0.977	
+objective: 0.063
+penalty: 0.000
+loss_avg: 0.095
+acc_avg: 0.973
+  hospital = 0  [n =    480]:	weight: 0.365	loss: 0.091	acc: 0.973	
+  hospital = 3  [n =    480]:	weight: 0.387	loss: 0.107	acc: 0.969	
+  hospital = 4  [n =    640]:	weight: 0.247	loss: 0.089	acc: 0.977	
+objective: 0.065
+penalty: 0.000
+loss_avg: 0.096
+acc_avg: 0.968
+  hospital = 0  [n =    512]:	weight: 0.365	loss: 0.111	acc: 0.961	
+  hospital = 3  [n =    544]:	weight: 0.388	loss: 0.100	acc: 0.967	
+  hospital = 4  [n =    544]:	weight: 0.247	loss: 0.077	acc: 0.976	
+objective: 0.064
+penalty: 0.000
+loss_avg: 0.098
+acc_avg: 0.970
+  hospital = 0  [n =    576]:	weight: 0.367	loss: 0.095	acc: 0.970	
+  hospital = 3  [n =    560]:	weight: 0.387	loss: 0.076	acc: 0.980	
+  hospital = 4  [n =    464]:	weight: 0.246	loss: 0.130	acc: 0.957	
+objective: 0.057
+penalty: 0.000
+loss_avg: 0.085
+acc_avg: 0.972
+  hospital = 0  [n =    560]:	weight: 0.368	loss: 0.099	acc: 0.964	
+  hospital = 3  [n =    496]:	weight: 0.385	loss: 0.080	acc: 0.980	
+  hospital = 4  [n =    544]:	weight: 0.247	loss: 0.075	acc: 0.974	
+objective: 0.071
+penalty: 0.000
+loss_avg: 0.105
+acc_avg: 0.969
+  hospital = 0  [n =    512]:	weight: 0.369	loss: 0.097	acc: 0.975	
+  hospital = 3  [n =    544]:	weight: 0.385	loss: 0.123	acc: 0.963	
+  hospital = 4  [n =    544]:	weight: 0.246	loss: 0.095	acc: 0.971	
+objective: 0.059
+penalty: 0.000
+loss_avg: 0.089
+acc_avg: 0.976
+  hospital = 0  [n =    448]:	weight: 0.366	loss: 0.083	acc: 0.975	
+  hospital = 3  [n =    544]:	weight: 0.388	loss: 0.101	acc: 0.969	
+  hospital = 4  [n =    608]:	weight: 0.246	loss: 0.081	acc: 0.984	
+objective: 0.057
+penalty: 0.000
+loss_avg: 0.087
+acc_avg: 0.975
+  hospital = 0  [n =    560]:	weight: 0.365	loss: 0.081	acc: 0.975	
+  hospital = 3  [n =    496]:	weight: 0.389	loss: 0.084	acc: 0.974	
+  hospital = 4  [n =    544]:	weight: 0.247	loss: 0.095	acc: 0.976	
+objective: 0.063
+penalty: 0.000
+loss_avg: 0.094
+acc_avg: 0.974
+  hospital = 0  [n =    496]:	weight: 0.364	loss: 0.100	acc: 0.970	
+  hospital = 3  [n =    560]:	weight: 0.389	loss: 0.094	acc: 0.971	
+  hospital = 4  [n =    544]:	weight: 0.247	loss: 0.088	acc: 0.980	
+objective: 0.063
+penalty: 0.000
+loss_avg: 0.095
+acc_avg: 0.972
+  hospital = 0  [n =    544]:	weight: 0.365	loss: 0.089	acc: 0.978	
+  hospital = 3  [n =    560]:	weight: 0.389	loss: 0.094	acc: 0.968	
+  hospital = 4  [n =    496]:	weight: 0.247	loss: 0.103	acc: 0.970	
+objective: 0.059
+penalty: 0.000
+loss_avg: 0.089
+acc_avg: 0.978
+  hospital = 0  [n =    592]:	weight: 0.364	loss: 0.081	acc: 0.983	
+  hospital = 3  [n =    448]:	weight: 0.388	loss: 0.095	acc: 0.978	
+  hospital = 4  [n =    560]:	weight: 0.247	loss: 0.093	acc: 0.973	
+objective: 0.068
+penalty: 0.000
+loss_avg: 0.100
+acc_avg: 0.969
+  hospital = 0  [n =    528]:	weight: 0.364	loss: 0.091	acc: 0.970	
+  hospital = 3  [n =    496]:	weight: 0.388	loss: 0.126	acc: 0.962	
+  hospital = 4  [n =    576]:	weight: 0.248	loss: 0.086	acc: 0.974	
+objective: 0.068
+penalty: 0.000
+loss_avg: 0.103
+acc_avg: 0.968
+  hospital = 0  [n =    544]:	weight: 0.363	loss: 0.099	acc: 0.971	
+  hospital = 3  [n =    512]:	weight: 0.390	loss: 0.104	acc: 0.965	
+  hospital = 4  [n =    544]:	weight: 0.247	loss: 0.105	acc: 0.969	
+objective: 0.061
+penalty: 0.000
+loss_avg: 0.088
+acc_avg: 0.974
+  hospital = 0  [n =    480]:	weight: 0.363	loss: 0.101	acc: 0.967	
+  hospital = 3  [n =    624]:	weight: 0.391	loss: 0.093	acc: 0.971	
+  hospital = 4  [n =    496]:	weight: 0.246	loss: 0.068	acc: 0.984	
+objective: 0.069
+penalty: 0.000
+loss_avg: 0.105
+acc_avg: 0.969
+  hospital = 0  [n =    464]:	weight: 0.362	loss: 0.113	acc: 0.959	
+  hospital = 3  [n =    576]:	weight: 0.391	loss: 0.094	acc: 0.974	
+  hospital = 4  [n =    560]:	weight: 0.247	loss: 0.111	acc: 0.973	
+objective: 0.065
+penalty: 0.000
+loss_avg: 0.092
+acc_avg: 0.975
+  hospital = 0  [n =    464]:	weight: 0.360	loss: 0.075	acc: 0.987	
+  hospital = 3  [n =    624]:	weight: 0.395	loss: 0.122	acc: 0.960	
+  hospital = 4  [n =    512]:	weight: 0.245	loss: 0.073	acc: 0.982	
+objective: 0.064
+penalty: 0.000
+loss_avg: 0.094
+acc_avg: 0.971
+  hospital = 0  [n =    512]:	weight: 0.357	loss: 0.086	acc: 0.975	
+  hospital = 3  [n =    544]:	weight: 0.400	loss: 0.108	acc: 0.967	
+  hospital = 4  [n =    544]:	weight: 0.243	loss: 0.087	acc: 0.972	
+objective: 0.068
+penalty: 0.000
+loss_avg: 0.098
+acc_avg: 0.969
+  hospital = 0  [n =    480]:	weight: 0.357	loss: 0.113	acc: 0.967	
+  hospital = 3  [n =    608]:	weight: 0.400	loss: 0.104	acc: 0.964	
+  hospital = 4  [n =    512]:	weight: 0.243	loss: 0.077	acc: 0.977	
+objective: 0.067
+penalty: 0.000
+loss_avg: 0.105
+acc_avg: 0.968
+  hospital = 0  [n =    464]:	weight: 0.356	loss: 0.097	acc: 0.976	
+  hospital = 3  [n =    544]:	weight: 0.401	loss: 0.087	acc: 0.974	
+  hospital = 4  [n =    592]:	weight: 0.243	loss: 0.129	acc: 0.954	
+objective: 0.057
+penalty: 0.000
+loss_avg: 0.085
+acc_avg: 0.976
+  hospital = 0  [n =    464]:	weight: 0.355	loss: 0.094	acc: 0.974	
+  hospital = 3  [n =    608]:	weight: 0.401	loss: 0.080	acc: 0.982	
+  hospital = 4  [n =    528]:	weight: 0.244	loss: 0.084	acc: 0.972	
+objective: 0.049
+penalty: 0.000
+loss_avg: 0.073
+acc_avg: 0.982
+  hospital = 0  [n =    640]:	weight: 0.356	loss: 0.074	acc: 0.984	
+  hospital = 3  [n =    480]:	weight: 0.400	loss: 0.070	acc: 0.985	
+  hospital = 4  [n =    480]:	weight: 0.244	loss: 0.075	acc: 0.977	
+objective: 0.055
+penalty: 0.000
+loss_avg: 0.088
+acc_avg: 0.972
+  hospital = 0  [n =    496]:	weight: 0.356	loss: 0.075	acc: 0.976	
+  hospital = 3  [n =    496]:	weight: 0.398	loss: 0.070	acc: 0.978	
+  hospital = 4  [n =    608]:	weight: 0.246	loss: 0.114	acc: 0.964	
+objective: 0.065
+penalty: 0.000
+loss_avg: 0.101
+acc_avg: 0.968
+  hospital = 0  [n =    496]:	weight: 0.355	loss: 0.092	acc: 0.970	
+  hospital = 3  [n =    464]:	weight: 0.396	loss: 0.101	acc: 0.963	
+  hospital = 4  [n =    640]:	weight: 0.249	loss: 0.108	acc: 0.970	
+objective: 0.054
+penalty: 0.000
+loss_avg: 0.079
+acc_avg: 0.977
+  hospital = 0  [n =    496]:	weight: 0.354	loss: 0.078	acc: 0.982	
+  hospital = 3  [n =    576]:	weight: 0.398	loss: 0.087	acc: 0.972	
+  hospital = 4  [n =    528]:	weight: 0.249	loss: 0.072	acc: 0.977	
+objective: 0.065
+penalty: 0.000
+loss_avg: 0.094
+acc_avg: 0.975
+  hospital = 0  [n =    528]:	weight: 0.352	loss: 0.092	acc: 0.979	
+  hospital = 3  [n =    576]:	weight: 0.400	loss: 0.105	acc: 0.970	
+  hospital = 4  [n =    496]:	weight: 0.248	loss: 0.084	acc: 0.976	
+objective: 0.076
+penalty: 0.000
+loss_avg: 0.112
+acc_avg: 0.962
+  hospital = 0  [n =    496]:	weight: 0.353	loss: 0.142	acc: 0.946	
+  hospital = 3  [n =    576]:	weight: 0.400	loss: 0.101	acc: 0.970	
+  hospital = 4  [n =    528]:	weight: 0.247	loss: 0.096	acc: 0.968	
+objective: 0.068
+penalty: 0.000
+loss_avg: 0.100
+acc_avg: 0.971
+  hospital = 0  [n =    512]:	weight: 0.356	loss: 0.133	acc: 0.955	
+  hospital = 3  [n =    640]:	weight: 0.399	loss: 0.075	acc: 0.983	
+  hospital = 4  [n =    448]:	weight: 0.245	loss: 0.098	acc: 0.973	
+objective: 0.065
+penalty: 0.000
+loss_avg: 0.097
+acc_avg: 0.968
+  hospital = 0  [n =    496]:	weight: 0.357	loss: 0.106	acc: 0.968	
+  hospital = 3  [n =    608]:	weight: 0.398	loss: 0.088	acc: 0.972	
+  hospital = 4  [n =    496]:	weight: 0.245	loss: 0.100	acc: 0.962	
+objective: 0.068
+penalty: 0.000
+loss_avg: 0.102
+acc_avg: 0.968
+  hospital = 0  [n =    560]:	weight: 0.358	loss: 0.103	acc: 0.961	
+  hospital = 3  [n =    464]:	weight: 0.398	loss: 0.117	acc: 0.963	
+  hospital = 4  [n =    576]:	weight: 0.244	loss: 0.088	acc: 0.979	
+objective: 0.061
+penalty: 0.000
+loss_avg: 0.090
+acc_avg: 0.973
+  hospital = 0  [n =    480]:	weight: 0.357	loss: 0.084	acc: 0.975	
+  hospital = 3  [n =    608]:	weight: 0.400	loss: 0.096	acc: 0.967	
+  hospital = 4  [n =    512]:	weight: 0.244	loss: 0.087	acc: 0.979	
+objective: 0.058
+penalty: 0.000
+loss_avg: 0.087
+acc_avg: 0.976
+  hospital = 0  [n =    464]:	weight: 0.356	loss: 0.103	acc: 0.974	
+  hospital = 3  [n =    480]:	weight: 0.401	loss: 0.089	acc: 0.969	
+  hospital = 4  [n =    656]:	weight: 0.243	loss: 0.074	acc: 0.983	
+objective: 0.066
+penalty: 0.000
+loss_avg: 0.096
+acc_avg: 0.971
+  hospital = 0  [n =    512]:	weight: 0.356	loss: 0.089	acc: 0.971	
+  hospital = 3  [n =    624]:	weight: 0.401	loss: 0.100	acc: 0.968	
+  hospital = 4  [n =    464]:	weight: 0.243	loss: 0.098	acc: 0.974	
+objective: 0.059
+penalty: 0.000
+loss_avg: 0.087
+acc_avg: 0.976
+  hospital = 0  [n =    512]:	weight: 0.355	loss: 0.080	acc: 0.982	
+  hospital = 3  [n =    576]:	weight: 0.403	loss: 0.092	acc: 0.972	
+  hospital = 4  [n =    512]:	weight: 0.242	loss: 0.090	acc: 0.975	
+objective: 0.058
+penalty: 0.000
+loss_avg: 0.090
+acc_avg: 0.975
+  hospital = 0  [n =    480]:	weight: 0.353	loss: 0.093	acc: 0.973	
+  hospital = 3  [n =    544]:	weight: 0.404	loss: 0.070	acc: 0.987	
+  hospital = 4  [n =    576]:	weight: 0.244	loss: 0.108	acc: 0.965	
+objective: 0.051
+penalty: 0.000
+loss_avg: 0.076
+acc_avg: 0.979
+  hospital = 0  [n =    464]:	weight: 0.353	loss: 0.077	acc: 0.985	
+  hospital = 3  [n =    624]:	weight: 0.402	loss: 0.072	acc: 0.979	
+  hospital = 4  [n =    512]:	weight: 0.245	loss: 0.081	acc: 0.973	
+objective: 0.064
+penalty: 0.000
+loss_avg: 0.095
+acc_avg: 0.974
+  hospital = 0  [n =    544]:	weight: 0.352	loss: 0.103	acc: 0.969	
+  hospital = 3  [n =    432]:	weight: 0.404	loss: 0.122	acc: 0.968	
+  hospital = 4  [n =    624]:	weight: 0.244	loss: 0.069	acc: 0.984	
+objective: 0.065
+penalty: 0.000
+loss_avg: 0.095
+acc_avg: 0.972
+  hospital = 0  [n =    560]:	weight: 0.355	loss: 0.122	acc: 0.959	
+  hospital = 3  [n =    656]:	weight: 0.402	loss: 0.074	acc: 0.979	
+  hospital = 4  [n =    384]:	weight: 0.243	loss: 0.091	acc: 0.979	
+objective: 0.060
+penalty: 0.000
+loss_avg: 0.093
+acc_avg: 0.969
+  hospital = 0  [n =    544]:	weight: 0.357	loss: 0.090	acc: 0.974	
+  hospital = 3  [n =    496]:	weight: 0.401	loss: 0.083	acc: 0.976	
+  hospital = 4  [n =    560]:	weight: 0.242	loss: 0.105	acc: 0.959	
+objective: 0.067
+penalty: 0.000
+loss_avg: 0.103
+acc_avg: 0.969
+  hospital = 0  [n =    560]:	weight: 0.359	loss: 0.111	acc: 0.973	
+  hospital = 3  [n =    528]:	weight: 0.398	loss: 0.075	acc: 0.977	
+  hospital = 4  [n =    512]:	weight: 0.243	loss: 0.122	acc: 0.955	
+objective: 0.040
+penalty: 0.000
+loss_avg: 0.072
+acc_avg: 0.969
+  hospital = 3  [n =     16]:	weight: 0.397	loss: 0.029	acc: 1.000	
+  hospital = 4  [n =     16]:	weight: 0.244	loss: 0.116	acc: 0.938	
+Epoch eval:
+Average acc: 0.973
+  slide = 0  [n =   7277]:	acc = 0.982
+  slide = 1  [n =   7641]:	acc = 0.979
+  slide = 2  [n =   6572]:	acc = 0.933
+  slide = 3  [n =  22795]:	acc = 0.987
+  slide = 4  [n =  12499]:	acc = 0.984
+  slide = 5  [n =   5429]:	acc = 0.934
+  slide = 6  [n =   5769]:	acc = 0.981
+  slide = 7  [n =   2679]:	acc = 0.972
+  slide = 8  [n =  22602]:	acc = 0.980
+  slide = 9  [n =   6257]:	acc = 0.923
+  slide = 30  [n =   8067]:	acc = 0.986
+  slide = 31  [n =   2677]:	acc = 0.981
+  slide = 32  [n =   6993]:	acc = 0.976
+  slide = 33  [n =   3201]:	acc = 0.984
+  slide = 34  [n =   2986]:	acc = 0.957
+  slide = 35  [n =   4705]:	acc = 0.963
+  slide = 36  [n =   8337]:	acc = 0.992
+  slide = 37  [n =   4163]:	acc = 0.981
+  slide = 38  [n =  44242]:	acc = 0.966
+  slide = 39  [n =  15141]:	acc = 0.973
+  slide = 40  [n =   5054]:	acc = 0.983
+  slide = 41  [n =   7996]:	acc = 0.989
+  slide = 42  [n =   5565]:	acc = 0.982
+  slide = 43  [n =   5573]:	acc = 0.982
+  slide = 44  [n =   5571]:	acc = 0.985
+  slide = 45  [n =   4872]:	acc = 0.967
+  slide = 46  [n =   3384]:	acc = 0.974
+  slide = 47  [n =  10395]:	acc = 0.980
+  slide = 48  [n =  42560]:	acc = 0.968
+  slide = 49  [n =  11430]:	acc = 0.961
+Worst-group acc: 0.923
+
+Validation (OOD):
+objective: 0.000
+penalty: 0.000
+loss_avg: 0.394
+acc_avg: 0.839
+  hospital = 1  [n =  34904]:	weight: 0.000	loss: 0.394	acc: 0.839	
+Epoch eval:
+Average acc: 0.839
+  slide = 10  [n =   2078]:	acc = 0.587
+  slide = 11  [n =   5371]:	acc = 0.718
+  slide = 12  [n =   1705]:	acc = 0.865
+  slide = 13  [n =  10404]:	acc = 0.938
+  slide = 14  [n =    888]:	acc = 0.910
+  slide = 15  [n =   2966]:	acc = 0.908
+  slide = 16  [n =   4971]:	acc = 0.918
+  slide = 17  [n =   2659]:	acc = 0.706
+  slide = 18  [n =   1275]:	acc = 0.875
+  slide = 19  [n =   2587]:	acc = 0.744
+Worst-group acc: 0.587
+Validation acc_avg: 0.839
+
+
+Epoch [4]:
+
+Train:
+objective: 0.066
+penalty: 0.000
+loss_avg: 0.100
+acc_avg: 0.971
+  hospital = 0  [n =    528]:	weight: 0.358	loss: 0.112	acc: 0.964	
+  hospital = 3  [n =    528]:	weight: 0.397	loss: 0.087	acc: 0.981	
+  hospital = 4  [n =    544]:	weight: 0.245	loss: 0.100	acc: 0.967	
+objective: 0.056
+penalty: 0.000
+loss_avg: 0.083
+acc_avg: 0.973
+  hospital = 0  [n =    608]:	weight: 0.362	loss: 0.089	acc: 0.972	
+  hospital = 3  [n =    496]:	weight: 0.394	loss: 0.079	acc: 0.970	
+  hospital = 4  [n =    496]:	weight: 0.244	loss: 0.078	acc: 0.978	
+objective: 0.053
+penalty: 0.000
+loss_avg: 0.079
+acc_avg: 0.978
+  hospital = 0  [n =    544]:	weight: 0.361	loss: 0.055	acc: 0.991	
+  hospital = 3  [n =    544]:	weight: 0.395	loss: 0.092	acc: 0.971	
+  hospital = 4  [n =    512]:	weight: 0.244	loss: 0.091	acc: 0.973	
+objective: 0.061
+penalty: 0.000
+loss_avg: 0.089
+acc_avg: 0.974
+  hospital = 0  [n =    624]:	weight: 0.360	loss: 0.086	acc: 0.974	
+  hospital = 3  [n =    496]:	weight: 0.396	loss: 0.099	acc: 0.972	
+  hospital = 4  [n =    480]:	weight: 0.244	loss: 0.082	acc: 0.975	
+objective: 0.054
+penalty: 0.000
+loss_avg: 0.078
+acc_avg: 0.979
+  hospital = 0  [n =    592]:	weight: 0.361	loss: 0.077	acc: 0.978	
+  hospital = 3  [n =    592]:	weight: 0.396	loss: 0.079	acc: 0.980	
+  hospital = 4  [n =    416]:	weight: 0.243	loss: 0.078	acc: 0.978	
+objective: 0.071
+penalty: 0.000
+loss_avg: 0.105
+acc_avg: 0.969
+  hospital = 0  [n =    448]:	weight: 0.360	loss: 0.123	acc: 0.960	
+  hospital = 3  [n =    560]:	weight: 0.399	loss: 0.107	acc: 0.970	
+  hospital = 4  [n =    592]:	weight: 0.241	loss: 0.091	acc: 0.976	
+objective: 0.055
+penalty: 0.000
+loss_avg: 0.081
+acc_avg: 0.977
+  hospital = 0  [n =    560]:	weight: 0.361	loss: 0.075	acc: 0.979	
+  hospital = 3  [n =    480]:	weight: 0.399	loss: 0.098	acc: 0.969	
+  hospital = 4  [n =    560]:	weight: 0.241	loss: 0.073	acc: 0.984	
+objective: 0.069
+penalty: 0.000
+loss_avg: 0.105
+acc_avg: 0.968
+  hospital = 0  [n =    592]:	weight: 0.362	loss: 0.127	acc: 0.959	
+  hospital = 3  [n =    512]:	weight: 0.397	loss: 0.073	acc: 0.982	
+  hospital = 4  [n =    496]:	weight: 0.241	loss: 0.112	acc: 0.964	
+objective: 0.065
+penalty: 0.000
+loss_avg: 0.098
+acc_avg: 0.966
+  hospital = 0  [n =    512]:	weight: 0.364	loss: 0.096	acc: 0.969	
+  hospital = 3  [n =    608]:	weight: 0.395	loss: 0.090	acc: 0.967	
+  hospital = 4  [n =    480]:	weight: 0.241	loss: 0.110	acc: 0.963	
+objective: 0.060
+penalty: 0.000
+loss_avg: 0.089
+acc_avg: 0.976
+  hospital = 0  [n =    576]:	weight: 0.366	loss: 0.100	acc: 0.972	
+  hospital = 3  [n =    544]:	weight: 0.394	loss: 0.082	acc: 0.974	
+  hospital = 4  [n =    480]:	weight: 0.240	loss: 0.082	acc: 0.981	
+objective: 0.061
+penalty: 0.000
+loss_avg: 0.091
+acc_avg: 0.972
+  hospital = 0  [n =    496]:	weight: 0.366	loss: 0.076	acc: 0.980	
+  hospital = 3  [n =    608]:	weight: 0.395	loss: 0.097	acc: 0.972	
+  hospital = 4  [n =    496]:	weight: 0.240	loss: 0.099	acc: 0.966	
+objective: 0.062
+penalty: 0.000
+loss_avg: 0.093
+acc_avg: 0.969
+  hospital = 0  [n =    416]:	weight: 0.363	loss: 0.098	acc: 0.966	
+  hospital = 3  [n =    576]:	weight: 0.397	loss: 0.097	acc: 0.964	
+  hospital = 4  [n =    608]:	weight: 0.240	loss: 0.086	acc: 0.975	
+objective: 0.059
+penalty: 0.000
+loss_avg: 0.089
+acc_avg: 0.973
+  hospital = 0  [n =    512]:	weight: 0.361	loss: 0.088	acc: 0.975	
+  hospital = 3  [n =    464]:	weight: 0.398	loss: 0.096	acc: 0.968	
+  hospital = 4  [n =    624]:	weight: 0.241	loss: 0.086	acc: 0.974	
+objective: 0.065
+penalty: 0.000
+loss_avg: 0.091
+acc_avg: 0.974
+  hospital = 0  [n =    544]:	weight: 0.363	loss: 0.106	acc: 0.972	
+  hospital = 3  [n =    608]:	weight: 0.399	loss: 0.099	acc: 0.965	
+  hospital = 4  [n =    448]:	weight: 0.239	loss: 0.063	acc: 0.989	
+objective: 0.065
+penalty: 0.000
+loss_avg: 0.101
+acc_avg: 0.969
+  hospital = 0  [n =    528]:	weight: 0.363	loss: 0.101	acc: 0.968	
+  hospital = 3  [n =    528]:	weight: 0.399	loss: 0.081	acc: 0.979	
+  hospital = 4  [n =    544]:	weight: 0.238	loss: 0.121	acc: 0.960	
+objective: 0.085
+penalty: 0.000
+loss_avg: 0.121
+acc_avg: 0.960
+  hospital = 0  [n =    592]:	weight: 0.366	loss: 0.146	acc: 0.953	
+  hospital = 3  [n =    560]:	weight: 0.398	loss: 0.121	acc: 0.959	
+  hospital = 4  [n =    448]:	weight: 0.237	loss: 0.089	acc: 0.971	
+objective: 0.064
+penalty: 0.000
+loss_avg: 0.098
+acc_avg: 0.970
+  hospital = 0  [n =    544]:	weight: 0.367	loss: 0.099	acc: 0.965	
+  hospital = 3  [n =    464]:	weight: 0.397	loss: 0.094	acc: 0.974	
+  hospital = 4  [n =    592]:	weight: 0.236	loss: 0.100	acc: 0.971	
+objective: 0.060
+penalty: 0.000
+loss_avg: 0.090
+acc_avg: 0.974
+  hospital = 0  [n =    512]:	weight: 0.368	loss: 0.087	acc: 0.971	
+  hospital = 3  [n =    480]:	weight: 0.395	loss: 0.105	acc: 0.971	
+  hospital = 4  [n =    608]:	weight: 0.237	loss: 0.080	acc: 0.980	
+objective: 0.067
+penalty: 0.000
+loss_avg: 0.100
+acc_avg: 0.971
+  hospital = 0  [n =    480]:	weight: 0.366	loss: 0.089	acc: 0.973	
+  hospital = 3  [n =    528]:	weight: 0.397	loss: 0.118	acc: 0.962	
+  hospital = 4  [n =    592]:	weight: 0.237	loss: 0.093	acc: 0.976	
+objective: 0.072
+penalty: 0.000
+loss_avg: 0.109
+acc_avg: 0.962
+  hospital = 0  [n =    448]:	weight: 0.363	loss: 0.111	acc: 0.964	
+  hospital = 3  [n =    560]:	weight: 0.400	loss: 0.112	acc: 0.955	
+  hospital = 4  [n =    592]:	weight: 0.237	loss: 0.105	acc: 0.966	
+objective: 0.049
+penalty: 0.000
+loss_avg: 0.074
+acc_avg: 0.984
+  hospital = 0  [n =    560]:	weight: 0.364	loss: 0.086	acc: 0.977	
+  hospital = 3  [n =    512]:	weight: 0.399	loss: 0.063	acc: 0.992	
+  hospital = 4  [n =    528]:	weight: 0.238	loss: 0.070	acc: 0.985	
+objective: 0.064
+penalty: 0.000
+loss_avg: 0.096
+acc_avg: 0.968
+  hospital = 0  [n =    496]:	weight: 0.365	loss: 0.110	acc: 0.966	
+  hospital = 3  [n =    496]:	weight: 0.397	loss: 0.093	acc: 0.964	
+  hospital = 4  [n =    608]:	weight: 0.238	loss: 0.087	acc: 0.972	
+objective: 0.064
+penalty: 0.000
+loss_avg: 0.096
+acc_avg: 0.971
+  hospital = 0  [n =    528]:	weight: 0.366	loss: 0.113	acc: 0.968	
+  hospital = 3  [n =    560]:	weight: 0.397	loss: 0.079	acc: 0.979	
+  hospital = 4  [n =    512]:	weight: 0.237	loss: 0.097	acc: 0.967	
+objective: 0.051
+penalty: 0.000
+loss_avg: 0.077
+acc_avg: 0.978
+  hospital = 0  [n =    528]:	weight: 0.369	loss: 0.091	acc: 0.970	
+  hospital = 3  [n =    544]:	weight: 0.395	loss: 0.067	acc: 0.983	
+  hospital = 4  [n =    528]:	weight: 0.237	loss: 0.072	acc: 0.981	
+objective: 0.068
+penalty: 0.000
+loss_avg: 0.107
+acc_avg: 0.971
+  hospital = 0  [n =    496]:	weight: 0.369	loss: 0.097	acc: 0.974	
+  hospital = 3  [n =    528]:	weight: 0.393	loss: 0.090	acc: 0.973	
+  hospital = 4  [n =    576]:	weight: 0.238	loss: 0.133	acc: 0.965	
+objective: 0.071
+penalty: 0.000
+loss_avg: 0.112
+acc_avg: 0.961
+  hospital = 0  [n =    576]:	weight: 0.367	loss: 0.102	acc: 0.964	
+  hospital = 3  [n =    480]:	weight: 0.390	loss: 0.092	acc: 0.973	
+  hospital = 4  [n =    544]:	weight: 0.242	loss: 0.139	acc: 0.947	
+objective: 0.072
+penalty: 0.000
+loss_avg: 0.105
+acc_avg: 0.969
+  hospital = 0  [n =    400]:	weight: 0.366	loss: 0.084	acc: 0.983	
+  hospital = 3  [n =    624]:	weight: 0.392	loss: 0.134	acc: 0.957	
+  hospital = 4  [n =    576]:	weight: 0.242	loss: 0.089	acc: 0.972	
+objective: 0.067
+penalty: 0.000
+loss_avg: 0.097
+acc_avg: 0.971
+  hospital = 0  [n =    560]:	weight: 0.363	loss: 0.105	acc: 0.964	
+  hospital = 3  [n =    544]:	weight: 0.396	loss: 0.111	acc: 0.965	
+  hospital = 4  [n =    496]:	weight: 0.240	loss: 0.073	acc: 0.986	
+objective: 0.063
+penalty: 0.000
+loss_avg: 0.094
+acc_avg: 0.971
+  hospital = 0  [n =    544]:	weight: 0.366	loss: 0.114	acc: 0.960	
+  hospital = 3  [n =    480]:	weight: 0.396	loss: 0.091	acc: 0.971	
+  hospital = 4  [n =    576]:	weight: 0.238	loss: 0.077	acc: 0.983	
+objective: 0.058
+penalty: 0.000
+loss_avg: 0.084
+acc_avg: 0.975
+  hospital = 0  [n =    560]:	weight: 0.367	loss: 0.083	acc: 0.980	
+  hospital = 3  [n =    512]:	weight: 0.396	loss: 0.100	acc: 0.969	
+  hospital = 4  [n =    528]:	weight: 0.238	loss: 0.069	acc: 0.975	
+objective: 0.063
+penalty: 0.000
+loss_avg: 0.092
+acc_avg: 0.971
+  hospital = 0  [n =    544]:	weight: 0.367	loss: 0.109	acc: 0.963	
+  hospital = 3  [n =    544]:	weight: 0.397	loss: 0.090	acc: 0.969	
+  hospital = 4  [n =    512]:	weight: 0.236	loss: 0.076	acc: 0.980	
+objective: 0.057
+penalty: 0.000
+loss_avg: 0.086
+acc_avg: 0.977
+  hospital = 0  [n =    496]:	weight: 0.366	loss: 0.058	acc: 0.986	
+  hospital = 3  [n =    528]:	weight: 0.398	loss: 0.109	acc: 0.970	
+  hospital = 4  [n =    576]:	weight: 0.236	loss: 0.088	acc: 0.977	
+objective: 0.069
+penalty: 0.000
+loss_avg: 0.100
+acc_avg: 0.970
+  hospital = 0  [n =    544]:	weight: 0.365	loss: 0.096	acc: 0.974	
+  hospital = 3  [n =    592]:	weight: 0.400	loss: 0.105	acc: 0.968	
+  hospital = 4  [n =    464]:	weight: 0.235	loss: 0.099	acc: 0.968	
+objective: 0.072
+penalty: 0.000
+loss_avg: 0.107
+acc_avg: 0.964
+  hospital = 0  [n =    464]:	weight: 0.364	loss: 0.132	acc: 0.950	
+  hospital = 3  [n =    608]:	weight: 0.401	loss: 0.091	acc: 0.972	
+  hospital = 4  [n =    528]:	weight: 0.235	loss: 0.102	acc: 0.968	
+objective: 0.076
+penalty: 0.000
+loss_avg: 0.112
+acc_avg: 0.966
+  hospital = 0  [n =    464]:	weight: 0.364	loss: 0.114	acc: 0.968	
+  hospital = 3  [n =    592]:	weight: 0.402	loss: 0.119	acc: 0.961	
+  hospital = 4  [n =    544]:	weight: 0.234	loss: 0.104	acc: 0.969	
+objective: 0.069
+penalty: 0.000
+loss_avg: 0.103
+acc_avg: 0.969
+  hospital = 0  [n =    432]:	weight: 0.361	loss: 0.113	acc: 0.961	
+  hospital = 3  [n =    592]:	weight: 0.405	loss: 0.104	acc: 0.971	
+  hospital = 4  [n =    576]:	weight: 0.234	loss: 0.095	acc: 0.972	
+objective: 0.066
+penalty: 0.000
+loss_avg: 0.101
+acc_avg: 0.971
+  hospital = 0  [n =    496]:	weight: 0.362	loss: 0.102	acc: 0.970	
+  hospital = 3  [n =    544]:	weight: 0.404	loss: 0.089	acc: 0.974	
+  hospital = 4  [n =    560]:	weight: 0.234	loss: 0.113	acc: 0.968	
+objective: 0.058
+penalty: 0.000
+loss_avg: 0.089
+acc_avg: 0.974
+  hospital = 0  [n =    480]:	weight: 0.360	loss: 0.087	acc: 0.975	
+  hospital = 3  [n =    496]:	weight: 0.405	loss: 0.092	acc: 0.970	
+  hospital = 4  [n =    624]:	weight: 0.236	loss: 0.087	acc: 0.976	
+objective: 0.052
+penalty: 0.000
+loss_avg: 0.080
+acc_avg: 0.978
+  hospital = 0  [n =    592]:	weight: 0.360	loss: 0.075	acc: 0.975	
+  hospital = 3  [n =    464]:	weight: 0.404	loss: 0.080	acc: 0.983	
+  hospital = 4  [n =    544]:	weight: 0.236	loss: 0.085	acc: 0.976	
+objective: 0.060
+penalty: 0.000
+loss_avg: 0.091
+acc_avg: 0.973
+  hospital = 0  [n =    560]:	weight: 0.363	loss: 0.119	acc: 0.955	
+  hospital = 3  [n =    480]:	weight: 0.401	loss: 0.072	acc: 0.981	
+  hospital = 4  [n =    560]:	weight: 0.236	loss: 0.079	acc: 0.984	
+objective: 0.060
+penalty: 0.000
+loss_avg: 0.092
+acc_avg: 0.973
+  hospital = 0  [n =    464]:	weight: 0.365	loss: 0.094	acc: 0.968	
+  hospital = 3  [n =    576]:	weight: 0.399	loss: 0.084	acc: 0.979	
+  hospital = 4  [n =    560]:	weight: 0.237	loss: 0.098	acc: 0.971	
+objective: 0.056
+penalty: 0.000
+loss_avg: 0.087
+acc_avg: 0.972
+  hospital = 0  [n =    496]:	weight: 0.363	loss: 0.078	acc: 0.972	
+  hospital = 3  [n =    640]:	weight: 0.399	loss: 0.067	acc: 0.986	
+  hospital = 4  [n =    464]:	weight: 0.238	loss: 0.124	acc: 0.955	
+objective: 0.059
+penalty: 0.000
+loss_avg: 0.088
+acc_avg: 0.973
+  hospital = 0  [n =    576]:	weight: 0.364	loss: 0.087	acc: 0.972	
+  hospital = 3  [n =    528]:	weight: 0.397	loss: 0.086	acc: 0.973	
+  hospital = 4  [n =    496]:	weight: 0.239	loss: 0.092	acc: 0.974	
+objective: 0.067
+penalty: 0.000
+loss_avg: 0.104
+acc_avg: 0.965
+  hospital = 0  [n =    576]:	weight: 0.364	loss: 0.102	acc: 0.964	
+  hospital = 3  [n =    464]:	weight: 0.396	loss: 0.084	acc: 0.976	
+  hospital = 4  [n =    560]:	weight: 0.240	loss: 0.124	acc: 0.957	
+objective: 0.061
+penalty: 0.000
+loss_avg: 0.090
+acc_avg: 0.976
+  hospital = 0  [n =    608]:	weight: 0.365	loss: 0.092	acc: 0.979	
+  hospital = 3  [n =    512]:	weight: 0.394	loss: 0.089	acc: 0.973	
+  hospital = 4  [n =    480]:	weight: 0.241	loss: 0.088	acc: 0.975	
+objective: 0.058
+penalty: 0.000
+loss_avg: 0.086
+acc_avg: 0.976
+  hospital = 0  [n =    496]:	weight: 0.365	loss: 0.076	acc: 0.978	
+  hospital = 3  [n =    544]:	weight: 0.395	loss: 0.103	acc: 0.969	
+  hospital = 4  [n =    560]:	weight: 0.240	loss: 0.078	acc: 0.982	
+objective: 0.068
+penalty: 0.000
+loss_avg: 0.102
+acc_avg: 0.971
+  hospital = 0  [n =    496]:	weight: 0.364	loss: 0.108	acc: 0.964	
+  hospital = 3  [n =    576]:	weight: 0.396	loss: 0.096	acc: 0.977	
+  hospital = 4  [n =    528]:	weight: 0.240	loss: 0.104	acc: 0.970	
+objective: 0.057
+penalty: 0.000
+loss_avg: 0.088
+acc_avg: 0.976
+  hospital = 0  [n =    512]:	weight: 0.364	loss: 0.092	acc: 0.971	
+  hospital = 3  [n =    544]:	weight: 0.395	loss: 0.064	acc: 0.983	
+  hospital = 4  [n =    544]:	weight: 0.241	loss: 0.110	acc: 0.974	
+objective: 0.058
+penalty: 0.000
+loss_avg: 0.086
+acc_avg: 0.979
+  hospital = 0  [n =    528]:	weight: 0.365	loss: 0.090	acc: 0.975	
+  hospital = 3  [n =    512]:	weight: 0.394	loss: 0.097	acc: 0.977	
+  hospital = 4  [n =    560]:	weight: 0.242	loss: 0.072	acc: 0.986	
+objective: 0.060
+penalty: 0.000
+loss_avg: 0.086
+acc_avg: 0.975
+  hospital = 0  [n =    480]:	weight: 0.365	loss: 0.092	acc: 0.973	
+  hospital = 3  [n =    640]:	weight: 0.395	loss: 0.093	acc: 0.973	
+  hospital = 4  [n =    480]:	weight: 0.239	loss: 0.069	acc: 0.979	
+objective: 0.060
+penalty: 0.000
+loss_avg: 0.088
+acc_avg: 0.976
+  hospital = 0  [n =    576]:	weight: 0.364	loss: 0.083	acc: 0.974	
+  hospital = 3  [n =    544]:	weight: 0.397	loss: 0.102	acc: 0.972	
+  hospital = 4  [n =    480]:	weight: 0.239	loss: 0.078	acc: 0.981	
+objective: 0.062
+penalty: 0.000
+loss_avg: 0.093
+acc_avg: 0.974
+  hospital = 0  [n =    624]:	weight: 0.366	loss: 0.109	acc: 0.966	
+  hospital = 3  [n =    528]:	weight: 0.397	loss: 0.067	acc: 0.985	
+  hospital = 4  [n =    448]:	weight: 0.238	loss: 0.102	acc: 0.971	
+objective: 0.065
+penalty: 0.000
+loss_avg: 0.096
+acc_avg: 0.972
+  hospital = 0  [n =    544]:	weight: 0.368	loss: 0.101	acc: 0.974	
+  hospital = 3  [n =    528]:	weight: 0.396	loss: 0.098	acc: 0.968	
+  hospital = 4  [n =    528]:	weight: 0.236	loss: 0.089	acc: 0.975	
+objective: 0.062
+penalty: 0.000
+loss_avg: 0.090
+acc_avg: 0.976
+  hospital = 0  [n =    448]:	weight: 0.369	loss: 0.112	acc: 0.962	
+  hospital = 3  [n =    624]:	weight: 0.397	loss: 0.087	acc: 0.978	
+  hospital = 4  [n =    528]:	weight: 0.235	loss: 0.074	acc: 0.987	
+objective: 0.058
+penalty: 0.000
+loss_avg: 0.086
+acc_avg: 0.976
+  hospital = 0  [n =    576]:	weight: 0.369	loss: 0.089	acc: 0.977	
+  hospital = 3  [n =    560]:	weight: 0.397	loss: 0.083	acc: 0.979	
+  hospital = 4  [n =    464]:	weight: 0.234	loss: 0.087	acc: 0.972	
+objective: 0.059
+penalty: 0.000
+loss_avg: 0.087
+acc_avg: 0.974
+  hospital = 0  [n =    512]:	weight: 0.370	loss: 0.087	acc: 0.977	
+  hospital = 3  [n =    512]:	weight: 0.397	loss: 0.104	acc: 0.963	
+  hospital = 4  [n =    576]:	weight: 0.233	loss: 0.074	acc: 0.981	
+objective: 0.100
+penalty: 0.000
+loss_avg: 0.155
+acc_avg: 0.944
+  hospital = 0  [n =    544]:	weight: 0.372	loss: 0.181	acc: 0.936	
+  hospital = 3  [n =    496]:	weight: 0.395	loss: 0.108	acc: 0.970	
+  hospital = 4  [n =    560]:	weight: 0.234	loss: 0.173	acc: 0.930	
+objective: 0.067
+penalty: 0.000
+loss_avg: 0.098
+acc_avg: 0.970
+  hospital = 0  [n =    608]:	weight: 0.374	loss: 0.102	acc: 0.965	
+  hospital = 3  [n =    528]:	weight: 0.391	loss: 0.094	acc: 0.972	
+  hospital = 4  [n =    464]:	weight: 0.235	loss: 0.099	acc: 0.974	
+objective: 0.061
+penalty: 0.000
+loss_avg: 0.091
+acc_avg: 0.974
+  hospital = 0  [n =    512]:	weight: 0.376	loss: 0.105	acc: 0.971	
+  hospital = 3  [n =    544]:	weight: 0.390	loss: 0.085	acc: 0.974	
+  hospital = 4  [n =    544]:	weight: 0.234	loss: 0.084	acc: 0.978	
+objective: 0.079
+penalty: 0.000
+loss_avg: 0.111
+acc_avg: 0.966
+  hospital = 0  [n =    576]:	weight: 0.377	loss: 0.112	acc: 0.967	
+  hospital = 3  [n =    528]:	weight: 0.392	loss: 0.146	acc: 0.951	
+  hospital = 4  [n =    496]:	weight: 0.232	loss: 0.073	acc: 0.982	
+objective: 0.067
+penalty: 0.000
+loss_avg: 0.094
+acc_avg: 0.973
+  hospital = 0  [n =    624]:	weight: 0.377	loss: 0.089	acc: 0.976	
+  hospital = 3  [n =    608]:	weight: 0.395	loss: 0.105	acc: 0.964	
+  hospital = 4  [n =    368]:	weight: 0.228	loss: 0.083	acc: 0.984	
+objective: 0.056
+penalty: 0.000
+loss_avg: 0.083
+acc_avg: 0.980
+  hospital = 0  [n =    512]:	weight: 0.377	loss: 0.074	acc: 0.984	
+  hospital = 3  [n =    544]:	weight: 0.397	loss: 0.096	acc: 0.976	
+  hospital = 4  [n =    544]:	weight: 0.227	loss: 0.079	acc: 0.980	
+objective: 0.066
+penalty: 0.000
+loss_avg: 0.102
+acc_avg: 0.966
+  hospital = 0  [n =    496]:	weight: 0.376	loss: 0.107	acc: 0.962	
+  hospital = 3  [n =    432]:	weight: 0.397	loss: 0.107	acc: 0.961	
+  hospital = 4  [n =    672]:	weight: 0.227	loss: 0.095	acc: 0.972	
+objective: 0.081
+penalty: 0.000
+loss_avg: 0.127
+acc_avg: 0.963
+  hospital = 0  [n =    496]:	weight: 0.375	loss: 0.110	acc: 0.970	
+  hospital = 3  [n =    544]:	weight: 0.395	loss: 0.113	acc: 0.971	
+  hospital = 4  [n =    560]:	weight: 0.230	loss: 0.156	acc: 0.950	
+objective: 0.060
+penalty: 0.000
+loss_avg: 0.090
+acc_avg: 0.973
+  hospital = 0  [n =    448]:	weight: 0.373	loss: 0.089	acc: 0.973	
+  hospital = 3  [n =    656]:	weight: 0.396	loss: 0.084	acc: 0.979	
+  hospital = 4  [n =    496]:	weight: 0.231	loss: 0.100	acc: 0.966	
+objective: 0.062
+penalty: 0.000
+loss_avg: 0.094
+acc_avg: 0.975
+  hospital = 0  [n =    608]:	weight: 0.372	loss: 0.094	acc: 0.975	
+  hospital = 3  [n =    464]:	weight: 0.396	loss: 0.091	acc: 0.972	
+  hospital = 4  [n =    528]:	weight: 0.232	loss: 0.098	acc: 0.977	
+objective: 0.068
+penalty: 0.000
+loss_avg: 0.104
+acc_avg: 0.970
+  hospital = 0  [n =    528]:	weight: 0.372	loss: 0.087	acc: 0.973	
+  hospital = 3  [n =    560]:	weight: 0.394	loss: 0.100	acc: 0.973	
+  hospital = 4  [n =    512]:	weight: 0.233	loss: 0.125	acc: 0.963	
+objective: 0.075
+penalty: 0.000
+loss_avg: 0.114
+acc_avg: 0.964
+  hospital = 0  [n =    464]:	weight: 0.372	loss: 0.130	acc: 0.959	
+  hospital = 3  [n =    544]:	weight: 0.394	loss: 0.106	acc: 0.963	
+  hospital = 4  [n =    592]:	weight: 0.233	loss: 0.109	acc: 0.968	
+objective: 0.052
+penalty: 0.000
+loss_avg: 0.077
+acc_avg: 0.980
+  hospital = 0  [n =    528]:	weight: 0.371	loss: 0.071	acc: 0.987	
+  hospital = 3  [n =    576]:	weight: 0.396	loss: 0.084	acc: 0.974	
+  hospital = 4  [n =    496]:	weight: 0.234	loss: 0.075	acc: 0.980	
+objective: 0.059
+penalty: 0.000
+loss_avg: 0.087
+acc_avg: 0.973
+  hospital = 0  [n =    608]:	weight: 0.371	loss: 0.084	acc: 0.974	
+  hospital = 3  [n =    512]:	weight: 0.397	loss: 0.094	acc: 0.975	
+  hospital = 4  [n =    480]:	weight: 0.232	loss: 0.082	acc: 0.971	
+objective: 0.056
+penalty: 0.000
+loss_avg: 0.085
+acc_avg: 0.972
+  hospital = 0  [n =    592]:	weight: 0.372	loss: 0.089	acc: 0.970	
+  hospital = 3  [n =    480]:	weight: 0.396	loss: 0.077	acc: 0.981	
+  hospital = 4  [n =    528]:	weight: 0.232	loss: 0.088	acc: 0.968	
+objective: 0.067
+penalty: 0.000
+loss_avg: 0.100
+acc_avg: 0.966
+  hospital = 0  [n =    496]:	weight: 0.371	loss: 0.084	acc: 0.974	
+  hospital = 3  [n =    528]:	weight: 0.396	loss: 0.118	acc: 0.956	
+  hospital = 4  [n =    576]:	weight: 0.232	loss: 0.096	acc: 0.969	
+objective: 0.045
+penalty: 0.000
+loss_avg: 0.068
+acc_avg: 0.981
+  hospital = 0  [n =    528]:	weight: 0.371	loss: 0.066	acc: 0.983	
+  hospital = 3  [n =    544]:	weight: 0.396	loss: 0.063	acc: 0.983	
+  hospital = 4  [n =    528]:	weight: 0.233	loss: 0.077	acc: 0.977	
+objective: 0.073
+penalty: 0.000
+loss_avg: 0.108
+acc_avg: 0.966
+  hospital = 0  [n =    448]:	weight: 0.370	loss: 0.132	acc: 0.958	
+  hospital = 3  [n =    576]:	weight: 0.397	loss: 0.107	acc: 0.965	
+  hospital = 4  [n =    576]:	weight: 0.233	loss: 0.090	acc: 0.974	
+objective: 0.084
+penalty: 0.000
+loss_avg: 0.122
+acc_avg: 0.960
+  hospital = 0  [n =    512]:	weight: 0.371	loss: 0.148	acc: 0.951	
+  hospital = 3  [n =    624]:	weight: 0.398	loss: 0.108	acc: 0.966	
+  hospital = 4  [n =    464]:	weight: 0.231	loss: 0.113	acc: 0.961	
+objective: 0.070
+penalty: 0.000
+loss_avg: 0.100
+acc_avg: 0.971
+  hospital = 0  [n =    544]:	weight: 0.371	loss: 0.071	acc: 0.976	
+  hospital = 3  [n =    624]:	weight: 0.401	loss: 0.131	acc: 0.962	
+  hospital = 4  [n =    432]:	weight: 0.229	loss: 0.092	acc: 0.977	
+objective: 0.063
+penalty: 0.000
+loss_avg: 0.093
+acc_avg: 0.968
+  hospital = 0  [n =    496]:	weight: 0.369	loss: 0.100	acc: 0.962	
+  hospital = 3  [n =    576]:	weight: 0.404	loss: 0.095	acc: 0.967	
+  hospital = 4  [n =    528]:	weight: 0.227	loss: 0.085	acc: 0.975	
+objective: 0.055
+penalty: 0.000
+loss_avg: 0.082
+acc_avg: 0.976
+  hospital = 0  [n =    640]:	weight: 0.370	loss: 0.090	acc: 0.975	
+  hospital = 3  [n =    464]:	weight: 0.404	loss: 0.071	acc: 0.978	
+  hospital = 4  [n =    496]:	weight: 0.226	loss: 0.082	acc: 0.976	
+objective: 0.066
+penalty: 0.000
+loss_avg: 0.099
+acc_avg: 0.966
+  hospital = 0  [n =    544]:	weight: 0.371	loss: 0.099	acc: 0.963	
+  hospital = 3  [n =    496]:	weight: 0.402	loss: 0.107	acc: 0.962	
+  hospital = 4  [n =    560]:	weight: 0.227	loss: 0.093	acc: 0.971	
+objective: 0.065
+penalty: 0.000
+loss_avg: 0.098
+acc_avg: 0.968
+  hospital = 0  [n =    592]:	weight: 0.373	loss: 0.104	acc: 0.968	
+  hospital = 3  [n =    496]:	weight: 0.401	loss: 0.085	acc: 0.972	
+  hospital = 4  [n =    512]:	weight: 0.227	loss: 0.104	acc: 0.965	
+objective: 0.056
+penalty: 0.000
+loss_avg: 0.086
+acc_avg: 0.974
+  hospital = 0  [n =    576]:	weight: 0.375	loss: 0.096	acc: 0.970	
+  hospital = 3  [n =    448]:	weight: 0.398	loss: 0.064	acc: 0.982	
+  hospital = 4  [n =    576]:	weight: 0.228	loss: 0.093	acc: 0.972	
+objective: 0.065
+penalty: 0.000
+loss_avg: 0.099
+acc_avg: 0.969
+  hospital = 0  [n =    528]:	weight: 0.376	loss: 0.085	acc: 0.973	
+  hospital = 3  [n =    560]:	weight: 0.396	loss: 0.103	acc: 0.964	
+  hospital = 4  [n =    512]:	weight: 0.228	loss: 0.108	acc: 0.971	
+objective: 0.064
+penalty: 0.000
+loss_avg: 0.099
+acc_avg: 0.970
+  hospital = 0  [n =    448]:	weight: 0.374	loss: 0.098	acc: 0.971	
+  hospital = 3  [n =    608]:	weight: 0.397	loss: 0.087	acc: 0.979	
+  hospital = 4  [n =    544]:	weight: 0.229	loss: 0.112	acc: 0.960	
+objective: 0.067
+penalty: 0.000
+loss_avg: 0.101
+acc_avg: 0.973
+  hospital = 0  [n =    528]:	weight: 0.375	loss: 0.133	acc: 0.955	
+  hospital = 3  [n =    464]:	weight: 0.397	loss: 0.086	acc: 0.983	
+  hospital = 4  [n =    608]:	weight: 0.229	loss: 0.084	acc: 0.982	
+objective: 0.058
+penalty: 0.000
+loss_avg: 0.088
+acc_avg: 0.971
+  hospital = 0  [n =    544]:	weight: 0.378	loss: 0.106	acc: 0.965	
+  hospital = 3  [n =    496]:	weight: 0.393	loss: 0.071	acc: 0.978	
+  hospital = 4  [n =    560]:	weight: 0.230	loss: 0.086	acc: 0.971	
+objective: 0.062
+penalty: 0.000
+loss_avg: 0.093
+acc_avg: 0.971
+  hospital = 0  [n =    592]:	weight: 0.379	loss: 0.080	acc: 0.976	
+  hospital = 3  [n =    496]:	weight: 0.392	loss: 0.099	acc: 0.972	
+  hospital = 4  [n =    512]:	weight: 0.229	loss: 0.103	acc: 0.965	
+objective: 0.061
+penalty: 0.000
+loss_avg: 0.091
+acc_avg: 0.973
+  hospital = 0  [n =    528]:	weight: 0.379	loss: 0.097	acc: 0.970	
+  hospital = 3  [n =    448]:	weight: 0.391	loss: 0.106	acc: 0.969	
+  hospital = 4  [n =    624]:	weight: 0.230	loss: 0.075	acc: 0.979	
+objective: 0.058
+penalty: 0.000
+loss_avg: 0.087
+acc_avg: 0.974
+  hospital = 0  [n =    640]:	weight: 0.380	loss: 0.073	acc: 0.981	
+  hospital = 3  [n =    432]:	weight: 0.390	loss: 0.108	acc: 0.961	
+  hospital = 4  [n =    528]:	weight: 0.230	loss: 0.088	acc: 0.975	
+objective: 0.056
+penalty: 0.000
+loss_avg: 0.086
+acc_avg: 0.975
+  hospital = 0  [n =    544]:	weight: 0.379	loss: 0.087	acc: 0.972	
+  hospital = 3  [n =    480]:	weight: 0.390	loss: 0.076	acc: 0.977	
+  hospital = 4  [n =    576]:	weight: 0.231	loss: 0.093	acc: 0.976	
+objective: 0.052
+penalty: 0.000
+loss_avg: 0.079
+acc_avg: 0.979
+  hospital = 0  [n =    416]:	weight: 0.378	loss: 0.084	acc: 0.978	
+  hospital = 3  [n =    592]:	weight: 0.390	loss: 0.080	acc: 0.980	
+  hospital = 4  [n =    592]:	weight: 0.232	loss: 0.074	acc: 0.978	
+objective: 0.061
+penalty: 0.000
+loss_avg: 0.090
+acc_avg: 0.975
+  hospital = 0  [n =    480]:	weight: 0.380	loss: 0.116	acc: 0.969	
+  hospital = 3  [n =    496]:	weight: 0.389	loss: 0.092	acc: 0.974	
+  hospital = 4  [n =    624]:	weight: 0.231	loss: 0.069	acc: 0.981	
+objective: 0.064
+penalty: 0.000
+loss_avg: 0.093
+acc_avg: 0.971
+  hospital = 0  [n =    560]:	weight: 0.381	loss: 0.095	acc: 0.970	
+  hospital = 3  [n =    560]:	weight: 0.389	loss: 0.094	acc: 0.971	
+  hospital = 4  [n =    480]:	weight: 0.230	loss: 0.091	acc: 0.973	
+objective: 0.054
+penalty: 0.000
+loss_avg: 0.082
+acc_avg: 0.974
+  hospital = 0  [n =    416]:	weight: 0.379	loss: 0.087	acc: 0.969	
+  hospital = 3  [n =    592]:	weight: 0.392	loss: 0.085	acc: 0.975	
+  hospital = 4  [n =    592]:	weight: 0.230	loss: 0.074	acc: 0.978	
+objective: 0.069
+penalty: 0.000
+loss_avg: 0.099
+acc_avg: 0.971
+  hospital = 0  [n =    512]:	weight: 0.378	loss: 0.112	acc: 0.969	
+  hospital = 3  [n =    624]:	weight: 0.394	loss: 0.103	acc: 0.968	
+  hospital = 4  [n =    464]:	weight: 0.228	loss: 0.079	acc: 0.976	
+objective: 0.055
+penalty: 0.000
+loss_avg: 0.087
+acc_avg: 0.974
+  hospital = 0  [n =    576]:	weight: 0.380	loss: 0.086	acc: 0.970	
+  hospital = 3  [n =    480]:	weight: 0.392	loss: 0.062	acc: 0.985	
+  hospital = 4  [n =    544]:	weight: 0.228	loss: 0.109	acc: 0.969	
+objective: 0.064
+penalty: 0.000
+loss_avg: 0.092
+acc_avg: 0.975
+  hospital = 0  [n =    640]:	weight: 0.380	loss: 0.093	acc: 0.973	
+  hospital = 3  [n =    512]:	weight: 0.391	loss: 0.100	acc: 0.977	
+  hospital = 4  [n =    448]:	weight: 0.229	loss: 0.082	acc: 0.975	
+objective: 0.053
+penalty: 0.000
+loss_avg: 0.081
+acc_avg: 0.975
+  hospital = 0  [n =    560]:	weight: 0.384	loss: 0.089	acc: 0.971	
+  hospital = 3  [n =    464]:	weight: 0.389	loss: 0.064	acc: 0.985	
+  hospital = 4  [n =    576]:	weight: 0.227	loss: 0.087	acc: 0.970	
+objective: 0.057
+penalty: 0.000
+loss_avg: 0.090
+acc_avg: 0.974
+  hospital = 0  [n =    480]:	weight: 0.384	loss: 0.096	acc: 0.977	
+  hospital = 3  [n =    496]:	weight: 0.386	loss: 0.070	acc: 0.980	
+  hospital = 4  [n =    624]:	weight: 0.230	loss: 0.102	acc: 0.968	
+objective: 0.059
+penalty: 0.000
+loss_avg: 0.086
+acc_avg: 0.971
+  hospital = 0  [n =    560]:	weight: 0.384	loss: 0.079	acc: 0.982	
+  hospital = 3  [n =    544]:	weight: 0.386	loss: 0.100	acc: 0.958	
+  hospital = 4  [n =    496]:	weight: 0.231	loss: 0.079	acc: 0.974	
+objective: 0.059
+penalty: 0.000
+loss_avg: 0.092
+acc_avg: 0.970
+  hospital = 0  [n =    528]:	weight: 0.384	loss: 0.092	acc: 0.968	
+  hospital = 3  [n =    496]:	weight: 0.385	loss: 0.075	acc: 0.978	
+  hospital = 4  [n =    576]:	weight: 0.231	loss: 0.106	acc: 0.965	
+objective: 0.064
+penalty: 0.000
+loss_avg: 0.093
+acc_avg: 0.974
+  hospital = 0  [n =    528]:	weight: 0.386	loss: 0.111	acc: 0.964	
+  hospital = 3  [n =    528]:	weight: 0.384	loss: 0.094	acc: 0.973	
+  hospital = 4  [n =    544]:	weight: 0.231	loss: 0.075	acc: 0.983	
+objective: 0.074
+penalty: 0.000
+loss_avg: 0.112
+acc_avg: 0.964
+  hospital = 0  [n =    560]:	weight: 0.386	loss: 0.121	acc: 0.959	
+  hospital = 3  [n =    464]:	weight: 0.383	loss: 0.097	acc: 0.968	
+  hospital = 4  [n =    576]:	weight: 0.232	loss: 0.116	acc: 0.965	
+objective: 0.059
+penalty: 0.000
+loss_avg: 0.090
+acc_avg: 0.972
+  hospital = 0  [n =    496]:	weight: 0.387	loss: 0.082	acc: 0.980	
+  hospital = 3  [n =    544]:	weight: 0.381	loss: 0.086	acc: 0.972	
+  hospital = 4  [n =    560]:	weight: 0.232	loss: 0.101	acc: 0.964	
+objective: 0.058
+penalty: 0.000
+loss_avg: 0.084
+acc_avg: 0.980
+  hospital = 0  [n =    560]:	weight: 0.387	loss: 0.074	acc: 0.980	
+  hospital = 3  [n =    512]:	weight: 0.381	loss: 0.114	acc: 0.973	
+  hospital = 4  [n =    528]:	weight: 0.232	loss: 0.066	acc: 0.987	
+objective: 0.060
+penalty: 0.000
+loss_avg: 0.088
+acc_avg: 0.975
+  hospital = 0  [n =    544]:	weight: 0.385	loss: 0.085	acc: 0.978	
+  hospital = 3  [n =    544]:	weight: 0.384	loss: 0.101	acc: 0.971	
+  hospital = 4  [n =    512]:	weight: 0.230	loss: 0.078	acc: 0.977	
+objective: 0.055
+penalty: 0.000
+loss_avg: 0.077
+acc_avg: 0.979
+  hospital = 0  [n =    512]:	weight: 0.386	loss: 0.094	acc: 0.967	
+  hospital = 3  [n =    560]:	weight: 0.385	loss: 0.092	acc: 0.975	
+  hospital = 4  [n =    528]:	weight: 0.229	loss: 0.044	acc: 0.994	
+objective: 0.066
+penalty: 0.000
+loss_avg: 0.098
+acc_avg: 0.973
+  hospital = 0  [n =    576]:	weight: 0.386	loss: 0.090	acc: 0.974	
+  hospital = 3  [n =    480]:	weight: 0.388	loss: 0.113	acc: 0.969	
+  hospital = 4  [n =    544]:	weight: 0.226	loss: 0.092	acc: 0.976	
+objective: 0.071
+penalty: 0.000
+loss_avg: 0.105
+acc_avg: 0.974
+  hospital = 0  [n =    480]:	weight: 0.386	loss: 0.100	acc: 0.975	
+  hospital = 3  [n =    576]:	weight: 0.388	loss: 0.121	acc: 0.967	
+  hospital = 4  [n =    544]:	weight: 0.226	loss: 0.091	acc: 0.980	
+objective: 0.055
+penalty: 0.000
+loss_avg: 0.081
+acc_avg: 0.976
+  hospital = 0  [n =    464]:	weight: 0.384	loss: 0.090	acc: 0.974	
+  hospital = 3  [n =    576]:	weight: 0.391	loss: 0.082	acc: 0.976	
+  hospital = 4  [n =    560]:	weight: 0.225	loss: 0.073	acc: 0.979	
+objective: 0.071
+penalty: 0.000
+loss_avg: 0.110
+acc_avg: 0.964
+  hospital = 0  [n =    544]:	weight: 0.382	loss: 0.091	acc: 0.974	
+  hospital = 3  [n =    496]:	weight: 0.392	loss: 0.112	acc: 0.960	
+  hospital = 4  [n =    560]:	weight: 0.226	loss: 0.127	acc: 0.959	
+objective: 0.072
+penalty: 0.000
+loss_avg: 0.108
+acc_avg: 0.967
+  hospital = 0  [n =    576]:	weight: 0.383	loss: 0.108	acc: 0.969	
+  hospital = 3  [n =    528]:	weight: 0.390	loss: 0.099	acc: 0.966	
+  hospital = 4  [n =    496]:	weight: 0.227	loss: 0.118	acc: 0.966	
+objective: 0.072
+penalty: 0.000
+loss_avg: 0.113
+acc_avg: 0.966
+  hospital = 0  [n =    528]:	weight: 0.383	loss: 0.117	acc: 0.960	
+  hospital = 3  [n =    528]:	weight: 0.388	loss: 0.080	acc: 0.985	
+  hospital = 4  [n =    544]:	weight: 0.229	loss: 0.142	acc: 0.954	
+objective: 0.058
+penalty: 0.000
+loss_avg: 0.087
+acc_avg: 0.973
+  hospital = 0  [n =    496]:	weight: 0.383	loss: 0.083	acc: 0.974	
+  hospital = 3  [n =    480]:	weight: 0.387	loss: 0.108	acc: 0.960	
+  hospital = 4  [n =    624]:	weight: 0.230	loss: 0.075	acc: 0.982	
+objective: 0.057
+penalty: 0.000
+loss_avg: 0.090
+acc_avg: 0.976
+  hospital = 0  [n =    416]:	weight: 0.381	loss: 0.091	acc: 0.976	
+  hospital = 3  [n =    560]:	weight: 0.387	loss: 0.077	acc: 0.982	
+  hospital = 4  [n =    624]:	weight: 0.232	loss: 0.101	acc: 0.970	
+objective: 0.060
+penalty: 0.000
+loss_avg: 0.088
+acc_avg: 0.974
+  hospital = 0  [n =    512]:	weight: 0.381	loss: 0.107	acc: 0.965	
+  hospital = 3  [n =    576]:	weight: 0.386	loss: 0.081	acc: 0.976	
+  hospital = 4  [n =    512]:	weight: 0.232	loss: 0.076	acc: 0.982	
+objective: 0.069
+penalty: 0.000
+loss_avg: 0.103
+acc_avg: 0.971
+  hospital = 0  [n =    496]:	weight: 0.382	loss: 0.120	acc: 0.964	
+  hospital = 3  [n =    544]:	weight: 0.387	loss: 0.099	acc: 0.967	
+  hospital = 4  [n =    560]:	weight: 0.231	loss: 0.093	acc: 0.980	
+objective: 0.058
+penalty: 0.000
+loss_avg: 0.088
+acc_avg: 0.976
+  hospital = 0  [n =    560]:	weight: 0.384	loss: 0.087	acc: 0.977	
+  hospital = 3  [n =    480]:	weight: 0.385	loss: 0.088	acc: 0.975	
+  hospital = 4  [n =    560]:	weight: 0.231	loss: 0.087	acc: 0.975	
+objective: 0.067
+penalty: 0.000
+loss_avg: 0.100
+acc_avg: 0.971
+  hospital = 0  [n =    512]:	weight: 0.384	loss: 0.113	acc: 0.969	
+  hospital = 3  [n =    496]:	weight: 0.385	loss: 0.103	acc: 0.964	
+  hospital = 4  [n =    592]:	weight: 0.231	loss: 0.087	acc: 0.980	
+objective: 0.053
+penalty: 0.000
+loss_avg: 0.081
+acc_avg: 0.976
+  hospital = 0  [n =    560]:	weight: 0.385	loss: 0.063	acc: 0.984	
+  hospital = 3  [n =    544]:	weight: 0.384	loss: 0.083	acc: 0.974	
+  hospital = 4  [n =    496]:	weight: 0.231	loss: 0.101	acc: 0.970	
+objective: 0.067
+penalty: 0.000
+loss_avg: 0.098
+acc_avg: 0.971
+  hospital = 0  [n =    608]:	weight: 0.385	loss: 0.104	acc: 0.967	
+  hospital = 3  [n =    512]:	weight: 0.384	loss: 0.097	acc: 0.969	
+  hospital = 4  [n =    480]:	weight: 0.231	loss: 0.092	acc: 0.977	
+objective: 0.071
+penalty: 0.000
+loss_avg: 0.106
+acc_avg: 0.967
+  hospital = 0  [n =    592]:	weight: 0.384	loss: 0.092	acc: 0.973	
+  hospital = 3  [n =    496]:	weight: 0.386	loss: 0.118	acc: 0.964	
+  hospital = 4  [n =    512]:	weight: 0.231	loss: 0.112	acc: 0.963	
+objective: 0.054
+penalty: 0.000
+loss_avg: 0.081
+acc_avg: 0.979
+  hospital = 0  [n =    544]:	weight: 0.383	loss: 0.070	acc: 0.982	
+  hospital = 3  [n =    528]:	weight: 0.386	loss: 0.091	acc: 0.979	
+  hospital = 4  [n =    528]:	weight: 0.231	loss: 0.083	acc: 0.977	
+objective: 0.051
+penalty: 0.000
+loss_avg: 0.078
+acc_avg: 0.979
+  hospital = 0  [n =    512]:	weight: 0.383	loss: 0.090	acc: 0.977	
+  hospital = 3  [n =    528]:	weight: 0.385	loss: 0.059	acc: 0.979	
+  hospital = 4  [n =    560]:	weight: 0.231	loss: 0.085	acc: 0.980	
+objective: 0.062
+penalty: 0.000
+loss_avg: 0.094
+acc_avg: 0.972
+  hospital = 0  [n =    592]:	weight: 0.385	loss: 0.090	acc: 0.970	
+  hospital = 3  [n =    480]:	weight: 0.383	loss: 0.096	acc: 0.973	
+  hospital = 4  [n =    528]:	weight: 0.232	loss: 0.096	acc: 0.975	
+objective: 0.087
+penalty: 0.000
+loss_avg: 0.123
+acc_avg: 0.959
+  hospital = 0  [n =    544]:	weight: 0.384	loss: 0.129	acc: 0.960	
+  hospital = 3  [n =    592]:	weight: 0.385	loss: 0.144	acc: 0.948	
+  hospital = 4  [n =    464]:	weight: 0.230	loss: 0.089	acc: 0.974	
+objective: 0.072
+penalty: 0.000
+loss_avg: 0.104
+acc_avg: 0.968
+  hospital = 0  [n =    592]:	weight: 0.385	loss: 0.097	acc: 0.976	
+  hospital = 3  [n =    512]:	weight: 0.388	loss: 0.128	acc: 0.955	
+  hospital = 4  [n =    496]:	weight: 0.227	loss: 0.089	acc: 0.972	
+objective: 0.050
+penalty: 0.000
+loss_avg: 0.072
+acc_avg: 0.983
+  hospital = 0  [n =    592]:	weight: 0.385	loss: 0.065	acc: 0.986	
+  hospital = 3  [n =    592]:	weight: 0.390	loss: 0.082	acc: 0.976	
+  hospital = 4  [n =    416]:	weight: 0.226	loss: 0.069	acc: 0.988	
+objective: 0.069
+penalty: 0.000
+loss_avg: 0.107
+acc_avg: 0.961
+  hospital = 0  [n =    528]:	weight: 0.385	loss: 0.100	acc: 0.962	
+  hospital = 3  [n =    528]:	weight: 0.389	loss: 0.091	acc: 0.970	
+  hospital = 4  [n =    544]:	weight: 0.226	loss: 0.128	acc: 0.952	
+objective: 0.055
+penalty: 0.000
+loss_avg: 0.078
+acc_avg: 0.977
+  hospital = 0  [n =    640]:	weight: 0.385	loss: 0.083	acc: 0.973	
+  hospital = 3  [n =    544]:	weight: 0.390	loss: 0.083	acc: 0.976	
+  hospital = 4  [n =    416]:	weight: 0.226	loss: 0.063	acc: 0.983	
+objective: 0.055
+penalty: 0.000
+loss_avg: 0.080
+acc_avg: 0.974
+  hospital = 0  [n =    544]:	weight: 0.387	loss: 0.090	acc: 0.972	
+  hospital = 3  [n =    528]:	weight: 0.389	loss: 0.083	acc: 0.970	
+  hospital = 4  [n =    528]:	weight: 0.224	loss: 0.065	acc: 0.981	
+objective: 0.065
+penalty: 0.000
+loss_avg: 0.091
+acc_avg: 0.976
+  hospital = 0  [n =    544]:	weight: 0.388	loss: 0.090	acc: 0.982	
+  hospital = 3  [n =    608]:	weight: 0.390	loss: 0.107	acc: 0.964	
+  hospital = 4  [n =    448]:	weight: 0.221	loss: 0.072	acc: 0.984	
+objective: 0.071
+penalty: 0.000
+loss_avg: 0.102
+acc_avg: 0.970
+  hospital = 0  [n =    464]:	weight: 0.388	loss: 0.127	acc: 0.961	
+  hospital = 3  [n =    608]:	weight: 0.393	loss: 0.106	acc: 0.969	
+  hospital = 4  [n =    528]:	weight: 0.219	loss: 0.076	acc: 0.979	
+objective: 0.057
+penalty: 0.000
+loss_avg: 0.085
+acc_avg: 0.974
+  hospital = 0  [n =    480]:	weight: 0.386	loss: 0.080	acc: 0.975	
+  hospital = 3  [n =    576]:	weight: 0.396	loss: 0.093	acc: 0.972	
+  hospital = 4  [n =    544]:	weight: 0.218	loss: 0.080	acc: 0.976	
+objective: 0.074
+penalty: 0.000
+loss_avg: 0.106
+acc_avg: 0.964
+  hospital = 0  [n =    560]:	weight: 0.387	loss: 0.123	acc: 0.954	
+  hospital = 3  [n =    528]:	weight: 0.395	loss: 0.106	acc: 0.962	
+  hospital = 4  [n =    512]:	weight: 0.218	loss: 0.088	acc: 0.977	
+objective: 0.061
+penalty: 0.000
+loss_avg: 0.090
+acc_avg: 0.974
+  hospital = 0  [n =    512]:	weight: 0.390	loss: 0.094	acc: 0.979	
+  hospital = 3  [n =    560]:	weight: 0.395	loss: 0.096	acc: 0.970	
+  hospital = 4  [n =    528]:	weight: 0.215	loss: 0.079	acc: 0.975	
+objective: 0.066
+penalty: 0.000
+loss_avg: 0.093
+acc_avg: 0.972
+  hospital = 0  [n =    544]:	weight: 0.388	loss: 0.092	acc: 0.976	
+  hospital = 3  [n =    560]:	weight: 0.399	loss: 0.119	acc: 0.959	
+  hospital = 4  [n =    496]:	weight: 0.213	loss: 0.064	acc: 0.982	
+objective: 0.055
+penalty: 0.000
+loss_avg: 0.086
+acc_avg: 0.977
+  hospital = 0  [n =    528]:	weight: 0.388	loss: 0.077	acc: 0.983	
+  hospital = 3  [n =    576]:	weight: 0.399	loss: 0.067	acc: 0.986	
+  hospital = 4  [n =    496]:	weight: 0.213	loss: 0.118	acc: 0.960	
+objective: 0.062
+penalty: 0.000
+loss_avg: 0.093
+acc_avg: 0.972
+  hospital = 0  [n =    560]:	weight: 0.388	loss: 0.100	acc: 0.971	
+  hospital = 3  [n =    512]:	weight: 0.399	loss: 0.089	acc: 0.971	
+  hospital = 4  [n =    528]:	weight: 0.214	loss: 0.088	acc: 0.973	
+objective: 0.068
+penalty: 0.000
+loss_avg: 0.096
+acc_avg: 0.972
+  hospital = 0  [n =    544]:	weight: 0.389	loss: 0.093	acc: 0.976	
+  hospital = 3  [n =    544]:	weight: 0.399	loss: 0.126	acc: 0.954	
+  hospital = 4  [n =    512]:	weight: 0.213	loss: 0.067	acc: 0.986	
+objective: 0.071
+penalty: 0.000
+loss_avg: 0.107
+acc_avg: 0.969
+  hospital = 0  [n =    560]:	weight: 0.388	loss: 0.107	acc: 0.966	
+  hospital = 3  [n =    496]:	weight: 0.401	loss: 0.107	acc: 0.972	
+  hospital = 4  [n =    544]:	weight: 0.211	loss: 0.108	acc: 0.971	
+objective: 0.062
+penalty: 0.000
+loss_avg: 0.094
+acc_avg: 0.974
+  hospital = 0  [n =    464]:	weight: 0.387	loss: 0.076	acc: 0.983	
+  hospital = 3  [n =    528]:	weight: 0.402	loss: 0.114	acc: 0.968	
+  hospital = 4  [n =    608]:	weight: 0.211	loss: 0.090	acc: 0.972	
+objective: 0.058
+penalty: 0.000
+loss_avg: 0.086
+acc_avg: 0.976
+  hospital = 0  [n =    544]:	weight: 0.385	loss: 0.082	acc: 0.978	
+  hospital = 3  [n =    464]:	weight: 0.404	loss: 0.105	acc: 0.968	
+  hospital = 4  [n =    592]:	weight: 0.211	loss: 0.074	acc: 0.981	
+objective: 0.065
+penalty: 0.000
+loss_avg: 0.093
+acc_avg: 0.973
+  hospital = 0  [n =    496]:	weight: 0.383	loss: 0.082	acc: 0.982	
+  hospital = 3  [n =    608]:	weight: 0.407	loss: 0.111	acc: 0.967	
+  hospital = 4  [n =    496]:	weight: 0.211	loss: 0.083	acc: 0.972	
+objective: 0.057
+penalty: 0.000
+loss_avg: 0.085
+acc_avg: 0.976
+  hospital = 0  [n =    480]:	weight: 0.382	loss: 0.083	acc: 0.975	
+  hospital = 3  [n =    592]:	weight: 0.409	loss: 0.091	acc: 0.973	
+  hospital = 4  [n =    528]:	weight: 0.210	loss: 0.079	acc: 0.979	
+objective: 0.066
+penalty: 0.000
+loss_avg: 0.099
+acc_avg: 0.964
+  hospital = 0  [n =    592]:	weight: 0.383	loss: 0.118	acc: 0.958	
+  hospital = 3  [n =    464]:	weight: 0.408	loss: 0.085	acc: 0.968	
+  hospital = 4  [n =    544]:	weight: 0.209	loss: 0.090	acc: 0.969	
+objective: 0.060
+penalty: 0.000
+loss_avg: 0.093
+acc_avg: 0.971
+  hospital = 0  [n =    576]:	weight: 0.385	loss: 0.085	acc: 0.977	
+  hospital = 3  [n =    512]:	weight: 0.406	loss: 0.085	acc: 0.971	
+  hospital = 4  [n =    512]:	weight: 0.209	loss: 0.109	acc: 0.963	
+objective: 0.055
+penalty: 0.000
+loss_avg: 0.085
+acc_avg: 0.973
+  hospital = 0  [n =    576]:	weight: 0.386	loss: 0.094	acc: 0.969	
+  hospital = 3  [n =    464]:	weight: 0.404	loss: 0.064	acc: 0.985	
+  hospital = 4  [n =    560]:	weight: 0.211	loss: 0.093	acc: 0.968	
+objective: 0.060
+penalty: 0.000
+loss_avg: 0.092
+acc_avg: 0.974
+  hospital = 0  [n =    528]:	weight: 0.388	loss: 0.092	acc: 0.972	
+  hospital = 3  [n =    512]:	weight: 0.400	loss: 0.085	acc: 0.979	
+  hospital = 4  [n =    560]:	weight: 0.212	loss: 0.097	acc: 0.971	
+objective: 0.073
+penalty: 0.000
+loss_avg: 0.112
+acc_avg: 0.961
+  hospital = 0  [n =    576]:	weight: 0.386	loss: 0.097	acc: 0.972	
+  hospital = 3  [n =    528]:	weight: 0.401	loss: 0.108	acc: 0.966	
+  hospital = 4  [n =    496]:	weight: 0.213	loss: 0.134	acc: 0.942	
+objective: 0.062
+penalty: 0.000
+loss_avg: 0.090
+acc_avg: 0.972
+  hospital = 0  [n =    528]:	weight: 0.386	loss: 0.088	acc: 0.977	
+  hospital = 3  [n =    576]:	weight: 0.401	loss: 0.098	acc: 0.967	
+  hospital = 4  [n =    496]:	weight: 0.213	loss: 0.081	acc: 0.974	
+objective: 0.063
+penalty: 0.000
+loss_avg: 0.095
+acc_avg: 0.971
+  hospital = 0  [n =    512]:	weight: 0.386	loss: 0.097	acc: 0.971	
+  hospital = 3  [n =    496]:	weight: 0.402	loss: 0.099	acc: 0.968	
+  hospital = 4  [n =    592]:	weight: 0.212	loss: 0.090	acc: 0.973	
+objective: 0.060
+penalty: 0.000
+loss_avg: 0.089
+acc_avg: 0.978
+  hospital = 0  [n =    528]:	weight: 0.385	loss: 0.077	acc: 0.985	
+  hospital = 3  [n =    560]:	weight: 0.403	loss: 0.102	acc: 0.970	
+  hospital = 4  [n =    512]:	weight: 0.212	loss: 0.087	acc: 0.980	
+objective: 0.040
+penalty: 0.000
+loss_avg: 0.060
+acc_avg: 0.989
+  hospital = 0  [n =    512]:	weight: 0.384	loss: 0.066	acc: 0.984	
+  hospital = 3  [n =    512]:	weight: 0.404	loss: 0.059	acc: 0.990	
+  hospital = 4  [n =    576]:	weight: 0.212	loss: 0.056	acc: 0.991	
+objective: 0.058
+penalty: 0.000
+loss_avg: 0.085
+acc_avg: 0.976
+  hospital = 0  [n =    560]:	weight: 0.383	loss: 0.071	acc: 0.979	
+  hospital = 3  [n =    528]:	weight: 0.405	loss: 0.102	acc: 0.972	
+  hospital = 4  [n =    512]:	weight: 0.211	loss: 0.084	acc: 0.977	
+objective: 0.065
+penalty: 0.000
+loss_avg: 0.094
+acc_avg: 0.973
+  hospital = 0  [n =    544]:	weight: 0.384	loss: 0.099	acc: 0.971	
+  hospital = 3  [n =    576]:	weight: 0.406	loss: 0.096	acc: 0.970	
+  hospital = 4  [n =    480]:	weight: 0.210	loss: 0.087	acc: 0.979	
+objective: 0.061
+penalty: 0.000
+loss_avg: 0.090
+acc_avg: 0.976
+  hospital = 0  [n =    480]:	weight: 0.383	loss: 0.094	acc: 0.973	
+  hospital = 3  [n =    544]:	weight: 0.408	loss: 0.098	acc: 0.972	
+  hospital = 4  [n =    576]:	weight: 0.210	loss: 0.080	acc: 0.981	
+objective: 0.057
+penalty: 0.000
+loss_avg: 0.084
+acc_avg: 0.979
+  hospital = 0  [n =    576]:	weight: 0.383	loss: 0.076	acc: 0.977	
+  hospital = 3  [n =    496]:	weight: 0.407	loss: 0.095	acc: 0.978	
+  hospital = 4  [n =    528]:	weight: 0.209	loss: 0.082	acc: 0.981	
+objective: 0.046
+penalty: 0.000
+loss_avg: 0.072
+acc_avg: 0.980
+  hospital = 0  [n =    544]:	weight: 0.383	loss: 0.064	acc: 0.982	
+  hospital = 3  [n =    528]:	weight: 0.408	loss: 0.065	acc: 0.981	
+  hospital = 4  [n =    528]:	weight: 0.209	loss: 0.086	acc: 0.977	
+objective: 0.069
+penalty: 0.000
+loss_avg: 0.105
+acc_avg: 0.969
+  hospital = 0  [n =    512]:	weight: 0.381	loss: 0.087	acc: 0.980	
+  hospital = 3  [n =    560]:	weight: 0.408	loss: 0.108	acc: 0.966	
+  hospital = 4  [n =    528]:	weight: 0.211	loss: 0.120	acc: 0.960	
+objective: 0.064
+penalty: 0.000
+loss_avg: 0.093
+acc_avg: 0.971
+  hospital = 0  [n =    512]:	weight: 0.379	loss: 0.096	acc: 0.971	
+  hospital = 3  [n =    592]:	weight: 0.410	loss: 0.095	acc: 0.971	
+  hospital = 4  [n =    496]:	weight: 0.211	loss: 0.088	acc: 0.970	
+objective: 0.086
+penalty: 0.000
+loss_avg: 0.132
+acc_avg: 0.954
+  hospital = 0  [n =    464]:	weight: 0.377	loss: 0.113	acc: 0.966	
+  hospital = 3  [n =    640]:	weight: 0.412	loss: 0.123	acc: 0.959	
+  hospital = 4  [n =    496]:	weight: 0.212	loss: 0.161	acc: 0.937	
+objective: 0.061
+penalty: 0.000
+loss_avg: 0.097
+acc_avg: 0.967
+  hospital = 0  [n =    480]:	weight: 0.374	loss: 0.085	acc: 0.977	
+  hospital = 3  [n =    544]:	weight: 0.413	loss: 0.080	acc: 0.980	
+  hospital = 4  [n =    576]:	weight: 0.213	loss: 0.124	acc: 0.946	
+objective: 0.070
+penalty: 0.000
+loss_avg: 0.106
+acc_avg: 0.964
+  hospital = 0  [n =    688]:	weight: 0.376	loss: 0.111	acc: 0.964	
+  hospital = 3  [n =    432]:	weight: 0.409	loss: 0.092	acc: 0.972	
+  hospital = 4  [n =    480]:	weight: 0.215	loss: 0.111	acc: 0.956	
+objective: 0.076
+penalty: 0.000
+loss_avg: 0.110
+acc_avg: 0.964
+  hospital = 0  [n =    416]:	weight: 0.380	loss: 0.151	acc: 0.947	
+  hospital = 3  [n =    624]:	weight: 0.407	loss: 0.106	acc: 0.965	
+  hospital = 4  [n =    560]:	weight: 0.214	loss: 0.084	acc: 0.977	
+objective: 0.078
+penalty: 0.000
+loss_avg: 0.115
+acc_avg: 0.958
+  hospital = 0  [n =    576]:	weight: 0.380	loss: 0.124	acc: 0.951	
+  hospital = 3  [n =    512]:	weight: 0.408	loss: 0.115	acc: 0.961	
+  hospital = 4  [n =    512]:	weight: 0.212	loss: 0.106	acc: 0.961	
+objective: 0.073
+penalty: 0.000
+loss_avg: 0.108
+acc_avg: 0.968
+  hospital = 0  [n =    576]:	weight: 0.380	loss: 0.098	acc: 0.970	
+  hospital = 3  [n =    496]:	weight: 0.408	loss: 0.123	acc: 0.960	
+  hospital = 4  [n =    528]:	weight: 0.212	loss: 0.104	acc: 0.973	
+objective: 0.070
+penalty: 0.000
+loss_avg: 0.103
+acc_avg: 0.968
+  hospital = 0  [n =    512]:	weight: 0.380	loss: 0.095	acc: 0.967	
+  hospital = 3  [n =    528]:	weight: 0.409	loss: 0.124	acc: 0.962	
+  hospital = 4  [n =    560]:	weight: 0.211	loss: 0.091	acc: 0.975	
+objective: 0.069
+penalty: 0.000
+loss_avg: 0.100
+acc_avg: 0.971
+  hospital = 0  [n =    496]:	weight: 0.378	loss: 0.101	acc: 0.968	
+  hospital = 3  [n =    560]:	weight: 0.412	loss: 0.117	acc: 0.964	
+  hospital = 4  [n =    544]:	weight: 0.210	loss: 0.082	acc: 0.982	
+objective: 0.056
+penalty: 0.000
+loss_avg: 0.084
+acc_avg: 0.975
+  hospital = 0  [n =    592]:	weight: 0.376	loss: 0.073	acc: 0.980	
+  hospital = 3  [n =    528]:	weight: 0.415	loss: 0.088	acc: 0.970	
+  hospital = 4  [n =    480]:	weight: 0.210	loss: 0.093	acc: 0.975	
+objective: 0.061
+penalty: 0.000
+loss_avg: 0.089
+acc_avg: 0.973
+  hospital = 0  [n =    496]:	weight: 0.378	loss: 0.108	acc: 0.968	
+  hospital = 3  [n =    592]:	weight: 0.414	loss: 0.082	acc: 0.973	
+  hospital = 4  [n =    512]:	weight: 0.208	loss: 0.079	acc: 0.979	
+objective: 0.055
+penalty: 0.000
+loss_avg: 0.084
+acc_avg: 0.977
+  hospital = 0  [n =    544]:	weight: 0.379	loss: 0.090	acc: 0.976	
+  hospital = 3  [n =    512]:	weight: 0.413	loss: 0.073	acc: 0.977	
+  hospital = 4  [n =    544]:	weight: 0.208	loss: 0.089	acc: 0.978	
+objective: 0.068
+penalty: 0.000
+loss_avg: 0.102
+acc_avg: 0.968
+  hospital = 0  [n =    480]:	weight: 0.380	loss: 0.127	acc: 0.958	
+  hospital = 3  [n =    592]:	weight: 0.412	loss: 0.083	acc: 0.975	
+  hospital = 4  [n =    528]:	weight: 0.209	loss: 0.100	acc: 0.968	
+objective: 0.051
+penalty: 0.000
+loss_avg: 0.079
+acc_avg: 0.976
+  hospital = 0  [n =    624]:	weight: 0.382	loss: 0.079	acc: 0.973	
+  hospital = 3  [n =    416]:	weight: 0.410	loss: 0.071	acc: 0.983	
+  hospital = 4  [n =    560]:	weight: 0.209	loss: 0.087	acc: 0.975	
+objective: 0.065
+penalty: 0.000
+loss_avg: 0.100
+acc_avg: 0.972
+  hospital = 0  [n =    512]:	weight: 0.382	loss: 0.095	acc: 0.979	
+  hospital = 3  [n =    544]:	weight: 0.407	loss: 0.093	acc: 0.974	
+  hospital = 4  [n =    544]:	weight: 0.210	loss: 0.111	acc: 0.965	
+objective: 0.071
+penalty: 0.000
+loss_avg: 0.107
+acc_avg: 0.967
+  hospital = 0  [n =    544]:	weight: 0.382	loss: 0.115	acc: 0.960	
+  hospital = 3  [n =    464]:	weight: 0.407	loss: 0.114	acc: 0.968	
+  hospital = 4  [n =    592]:	weight: 0.211	loss: 0.093	acc: 0.973	
+objective: 0.054
+penalty: 0.000
+loss_avg: 0.083
+acc_avg: 0.974
+  hospital = 0  [n =    560]:	weight: 0.385	loss: 0.096	acc: 0.966	
+  hospital = 3  [n =    560]:	weight: 0.404	loss: 0.058	acc: 0.986	
+  hospital = 4  [n =    480]:	weight: 0.211	loss: 0.095	acc: 0.971	
+objective: 0.050
+penalty: 0.000
+loss_avg: 0.077
+acc_avg: 0.984
+  hospital = 0  [n =    544]:	weight: 0.385	loss: 0.054	acc: 0.991	
+  hospital = 3  [n =    528]:	weight: 0.405	loss: 0.089	acc: 0.979	
+  hospital = 4  [n =    528]:	weight: 0.211	loss: 0.089	acc: 0.981	
+objective: 0.052
+penalty: 0.000
+loss_avg: 0.081
+acc_avg: 0.979
+  hospital = 0  [n =    544]:	weight: 0.383	loss: 0.074	acc: 0.982	
+  hospital = 3  [n =    544]:	weight: 0.405	loss: 0.071	acc: 0.983	
+  hospital = 4  [n =    512]:	weight: 0.212	loss: 0.101	acc: 0.971	
+objective: 0.050
+penalty: 0.000
+loss_avg: 0.074
+acc_avg: 0.980
+  hospital = 0  [n =    496]:	weight: 0.383	loss: 0.071	acc: 0.980	
+  hospital = 3  [n =    560]:	weight: 0.405	loss: 0.081	acc: 0.979	
+  hospital = 4  [n =    544]:	weight: 0.212	loss: 0.071	acc: 0.982	
+objective: 0.064
+penalty: 0.000
+loss_avg: 0.096
+acc_avg: 0.969
+  hospital = 0  [n =    592]:	weight: 0.382	loss: 0.092	acc: 0.973	
+  hospital = 3  [n =    480]:	weight: 0.406	loss: 0.104	acc: 0.958	
+  hospital = 4  [n =    528]:	weight: 0.212	loss: 0.092	acc: 0.973	
+objective: 0.066
+penalty: 0.000
+loss_avg: 0.100
+acc_avg: 0.972
+  hospital = 0  [n =    464]:	weight: 0.383	loss: 0.118	acc: 0.968	
+  hospital = 3  [n =    576]:	weight: 0.405	loss: 0.089	acc: 0.974	
+  hospital = 4  [n =    560]:	weight: 0.212	loss: 0.096	acc: 0.975	
+objective: 0.052
+penalty: 0.000
+loss_avg: 0.079
+acc_avg: 0.978
+  hospital = 0  [n =    464]:	weight: 0.382	loss: 0.072	acc: 0.974	
+  hospital = 3  [n =    576]:	weight: 0.406	loss: 0.086	acc: 0.974	
+  hospital = 4  [n =    560]:	weight: 0.212	loss: 0.077	acc: 0.986	
+objective: 0.069
+penalty: 0.000
+loss_avg: 0.105
+acc_avg: 0.963
+  hospital = 0  [n =    512]:	weight: 0.381	loss: 0.119	acc: 0.957	
+  hospital = 3  [n =    544]:	weight: 0.407	loss: 0.091	acc: 0.963	
+  hospital = 4  [n =    544]:	weight: 0.212	loss: 0.105	acc: 0.969	
+objective: 0.062
+penalty: 0.000
+loss_avg: 0.093
+acc_avg: 0.970
+  hospital = 0  [n =    560]:	weight: 0.382	loss: 0.089	acc: 0.970	
+  hospital = 3  [n =    480]:	weight: 0.406	loss: 0.107	acc: 0.965	
+  hospital = 4  [n =    560]:	weight: 0.212	loss: 0.084	acc: 0.975	
+objective: 0.059
+penalty: 0.000
+loss_avg: 0.085
+acc_avg: 0.978
+  hospital = 0  [n =    496]:	weight: 0.382	loss: 0.085	acc: 0.982	
+  hospital = 3  [n =    544]:	weight: 0.407	loss: 0.103	acc: 0.967	
+  hospital = 4  [n =    560]:	weight: 0.212	loss: 0.066	acc: 0.986	
+objective: 0.056
+penalty: 0.000
+loss_avg: 0.084
+acc_avg: 0.976
+  hospital = 0  [n =    560]:	weight: 0.381	loss: 0.089	acc: 0.970	
+  hospital = 3  [n =    496]:	weight: 0.408	loss: 0.082	acc: 0.978	
+  hospital = 4  [n =    544]:	weight: 0.211	loss: 0.080	acc: 0.982	
+objective: 0.068
+penalty: 0.000
+loss_avg: 0.104
+acc_avg: 0.965
+  hospital = 0  [n =    528]:	weight: 0.383	loss: 0.107	acc: 0.962	
+  hospital = 3  [n =    576]:	weight: 0.406	loss: 0.086	acc: 0.972	
+  hospital = 4  [n =    496]:	weight: 0.211	loss: 0.120	acc: 0.960	
+objective: 0.070
+penalty: 0.000
+loss_avg: 0.105
+acc_avg: 0.971
+  hospital = 0  [n =    528]:	weight: 0.383	loss: 0.109	acc: 0.968	
+  hospital = 3  [n =    560]:	weight: 0.406	loss: 0.100	acc: 0.973	
+  hospital = 4  [n =    512]:	weight: 0.211	loss: 0.106	acc: 0.971	
+objective: 0.060
+penalty: 0.000
+loss_avg: 0.091
+acc_avg: 0.974
+  hospital = 0  [n =    480]:	weight: 0.382	loss: 0.093	acc: 0.971	
+  hospital = 3  [n =    608]:	weight: 0.406	loss: 0.077	acc: 0.982	
+  hospital = 4  [n =    512]:	weight: 0.212	loss: 0.107	acc: 0.967	
+objective: 0.025
+penalty: 0.000
+loss_avg: 0.045
+acc_avg: 1.000
+  hospital = 3  [n =     16]:	weight: 0.406	loss: 0.030	acc: 1.000	
+  hospital = 4  [n =     16]:	weight: 0.212	loss: 0.061	acc: 1.000	
+Epoch eval:
+Average acc: 0.972
+  slide = 0  [n =   7201]:	acc = 0.981
+  slide = 1  [n =   7654]:	acc = 0.978
+  slide = 2  [n =   6633]:	acc = 0.932
+  slide = 3  [n =  23155]:	acc = 0.984
+  slide = 4  [n =  12585]:	acc = 0.982
+  slide = 5  [n =   5564]:	acc = 0.935
+  slide = 6  [n =   5671]:	acc = 0.978
+  slide = 7  [n =   2650]:	acc = 0.975
+  slide = 8  [n =  23128]:	acc = 0.978
+  slide = 9  [n =   6319]:	acc = 0.923
+  slide = 30  [n =   8069]:	acc = 0.987
+  slide = 31  [n =   2719]:	acc = 0.984
+  slide = 32  [n =   6814]:	acc = 0.971
+  slide = 33  [n =   3192]:	acc = 0.986
+  slide = 34  [n =   2986]:	acc = 0.958
+  slide = 35  [n =   4768]:	acc = 0.960
+  slide = 36  [n =   8300]:	acc = 0.990
+  slide = 37  [n =   4157]:	acc = 0.983
+  slide = 38  [n =  44815]:	acc = 0.966
+  slide = 39  [n =  15396]:	acc = 0.969
+  slide = 40  [n =   4954]:	acc = 0.982
+  slide = 41  [n =   7793]:	acc = 0.988
+  slide = 42  [n =   5317]:	acc = 0.978
+  slide = 43  [n =   5513]:	acc = 0.980
+  slide = 44  [n =   5497]:	acc = 0.984
+  slide = 45  [n =   4781]:	acc = 0.974
+  slide = 46  [n =   3347]:	acc = 0.977
+  slide = 47  [n =  10205]:	acc = 0.978
+  slide = 48  [n =  41968]:	acc = 0.970
+  slide = 49  [n =  11281]:	acc = 0.956
+Worst-group acc: 0.923
+
+Validation (OOD):
+objective: 0.000
+penalty: 0.000
+loss_avg: 0.325
+acc_avg: 0.871
+  hospital = 1  [n =  34904]:	weight: 0.000	loss: 0.325	acc: 0.871	
+Epoch eval:
+Average acc: 0.871
+  slide = 10  [n =   2078]:	acc = 0.656
+  slide = 11  [n =   5371]:	acc = 0.758
+  slide = 12  [n =   1705]:	acc = 0.937
+  slide = 13  [n =  10404]:	acc = 0.947
+  slide = 14  [n =    888]:	acc = 0.941
+  slide = 15  [n =   2966]:	acc = 0.950
+  slide = 16  [n =   4971]:	acc = 0.935
+  slide = 17  [n =   2659]:	acc = 0.781
+  slide = 18  [n =   1275]:	acc = 0.900
+  slide = 19  [n =   2587]:	acc = 0.763
+Worst-group acc: 0.656
+Validation acc_avg: 0.871
+Epoch 4 has the best validation performance so far.
+

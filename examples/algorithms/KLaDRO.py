@@ -78,8 +78,10 @@ class KLaDRO(SingleModelAlgorithm):
         yy = torch.nn.functional.logsigmoid(y[y_index])
         mm = torch.log(0.5 * (torch.exp(xx) + torch.exp(yy)))
 
+        # m = 0.5 (x[x_index] + y[y_index])
+        # mm = torch.nn.functional.logsigmoid(m)
         loss = torch.nn.KLDivLoss(reduction='batchmean', log_target=True)
-        
+
         return 0.5 * loss(xx, mm) + 0.5 * loss(yy, mm)
 
     def process_batch(self, batch):

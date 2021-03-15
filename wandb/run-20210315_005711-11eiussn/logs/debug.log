@@ -16,3 +16,45 @@ config: {}
 config: {}
 2021-03-15 00:57:11,423 INFO    MainThread:193663 [wandb_init.py:init():413] wandb.init() called when a run is still active
 2021-03-15 00:57:11,424 INFO    MainThread:193663 [wandb_run.py:_config_callback():733] config_cb None None {'dataset': 'civilcomments', 'algorithm': 'KLaDRO', 'root_dir': '/data/wilds/data', 'split_scheme': 'official', 'dataset_kwargs': {}, 'download': False, 'frac': 1.0, 'version': None, 'loader_kwargs': {'num_workers': 1, 'pin_memory': True}, 'train_loader': 'group', 'uniform_over_groups': True, 'distinct_groups': True, 'n_groups_per_batch': 4, 'batch_size': 16, 'eval_loader': 'standard', 'model': 'distilbert-base-uncased', 'model_kwargs': {}, 'train_transform': 'bert', 'eval_transform': 'bert', 'target_resolution': None, 'resize_scale': None, 'max_token_length': 300, 'loss_function': 'cross_entropy', 'groupby_fields': ['black', 'y'], 'group_dro_step_size': 0.01, 'coral_penalty_weight': 10.0, 'irm_lambda': 1.0, 'irm_penalty_anneal_iters': None, 'algo_log_metric': 'accuracy', 'val_metric': 'acc_wg', 'val_metric_decreasing': False, 'n_epochs': 5, 'optimizer': 'AdamW', 'lr': 1e-05, 'weight_decay': 0.01, 'max_grad_norm': 1.0, 'optimizer_kwargs': {}, 'scheduler': 'linear_schedule_with_warmup', 'scheduler_kwargs': {'num_warmup_steps': 0}, 'scheduler_metric_split': 'val', 'scheduler_metric_name': None, 'process_outputs_function': 'multiclass_logits_to_pred', 'evaluate_all_splits': True, 'eval_splits': [], 'eval_only': False, 'eval_epoch': None, 'device': 'cuda:0', 'seed': 0, 'log_dir': '/data/wilds/log/civilcomments_KLaDRO', 'log_every': 50, 'save_step': None, 'save_best': True, 'save_last': True, 'save_pred': True, 'no_group_logging': False, 'use_wandb': True, 'progress_bar': False, 'resume': False}
+2021-03-15 07:03:21,614 INFO    MainThread:193663 [wandb_run.py:_atexit_cleanup():1450] got exitcode: 0
+2021-03-15 07:03:21,615 INFO    MainThread:193663 [wandb_run.py:_restore():1422] restore
+2021-03-15 07:03:21,615 INFO    MainThread:193663 [redirect.py:uninstall():232] uninstall start
+2021-03-15 07:03:21,616 INFO    MainThread:193663 [redirect.py:_stop():287] _stop: stdout
+2021-03-15 07:03:21,616 INFO    MainThread:193663 [redirect.py:_stop():293] _stop closed: stdout
+2021-03-15 07:03:21,616 INFO    stdout    :193663 [redirect.py:_pipe_relay():129] relay done saw last write: stdout
+2021-03-15 07:03:21,616 INFO    stdout    :193663 [redirect.py:_pipe_relay():145] relay done done: stdout
+2021-03-15 07:03:21,616 INFO    MainThread:193663 [redirect.py:_stop():299] _stop joined: stdout
+2021-03-15 07:03:21,617 INFO    MainThread:193663 [redirect.py:_stop():301] _stop rd closed: stdout
+2021-03-15 07:03:21,617 INFO    MainThread:193663 [redirect.py:uninstall():236] uninstall done
+2021-03-15 07:03:21,617 INFO    MainThread:193663 [redirect.py:uninstall():232] uninstall start
+2021-03-15 07:03:21,617 INFO    MainThread:193663 [redirect.py:_stop():287] _stop: stderr
+2021-03-15 07:03:21,617 INFO    MainThread:193663 [redirect.py:_stop():293] _stop closed: stderr
+2021-03-15 07:03:21,617 INFO    stderr    :193663 [redirect.py:_pipe_relay():129] relay done saw last write: stderr
+2021-03-15 07:03:21,617 INFO    stderr    :193663 [redirect.py:_pipe_relay():145] relay done done: stderr
+2021-03-15 07:03:21,618 INFO    MainThread:193663 [redirect.py:_stop():299] _stop joined: stderr
+2021-03-15 07:03:21,618 INFO    MainThread:193663 [redirect.py:_stop():301] _stop rd closed: stderr
+2021-03-15 07:03:21,618 INFO    MainThread:193663 [redirect.py:uninstall():236] uninstall done
+2021-03-15 07:03:21,759 INFO    MainThread:193663 [wandb_run.py:_wait_for_finish():1572] got exit ret: file_counts {
+  wandb_count: 2
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 16882
+  total_bytes: 16882
+}
+
+2021-03-15 07:03:23,766 INFO    MainThread:193663 [wandb_run.py:_wait_for_finish():1572] got exit ret: done: true
+exit_result {
+}
+file_counts {
+  wandb_count: 6
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 629582
+  total_bytes: 629582
+}
+
+2021-03-15 07:03:24,856 INFO    MainThread:193663 [wandb_run.py:_show_summary():1727] rendering summary
+2021-03-15 07:03:24,857 INFO    MainThread:193663 [wandb_run.py:_show_history():1765] rendering history
+2021-03-15 07:03:24,866 INFO    MainThread:193663 [wandb_run.py:_show_files():1794] logging synced files
