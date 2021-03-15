@@ -1,0 +1,36 @@
+{
+    "os": "Linux-5.4.0-66-generic-x86_64-with-glibc2.10",
+    "python": "3.8.5",
+    "heartbeatAt": "2021-03-15T06:55:39.971907",
+    "startedAt": "2021-03-15T06:55:38.914199",
+    "docker": null,
+    "gpu": "TITAN RTX",
+    "gpu_count": 2,
+    "cpu_count": 64,
+    "cuda": null,
+    "args": [
+        "--dataset",
+        "civilcomments",
+        "--algorithm",
+        "KLaDRO",
+        "--root_dir",
+        "/data/wilds/data",
+        "--log_dir",
+        "/data/wilds/log/civilcomments_KLaDRO",
+        "--use_wandb",
+        "--device",
+        "0"
+    ],
+    "state": "running",
+    "program": "examples/run_expt.py",
+    "codePath": "examples/run_expt.py",
+    "git": {
+        "remote": "git@github.com:joe32140/CORALaDRO.git",
+        "commit": "5ff3802d20035a07d0629438feda5d1c7d10a088"
+    },
+    "email": "joe32140@hotmail.com.tw",
+    "root": "/home/joe/CORALaDRO",
+    "host": "tango",
+    "username": "joe",
+    "executable": "/data/anaconda3/envs/unsupervised/bin/python"
+}

@@ -1,0 +1,75 @@
+Train data...
+    hospital = 0: n = 53425
+    hospital = 1: n = 0
+    hospital = 2: n = 0
+    hospital = 3: n = 116959
+    hospital = 4: n = 132052
+Validation (ID) data...
+    hospital = 0: n = 6011
+    hospital = 1: n = 0
+    hospital = 2: n = 0
+    hospital = 3: n = 12879
+    hospital = 4: n = 14670
+Test data...
+    hospital = 0: n = 0
+    hospital = 1: n = 0
+    hospital = 2: n = 85054
+    hospital = 3: n = 0
+    hospital = 4: n = 0
+Validation (OOD) data...
+    hospital = 0: n = 0
+    hospital = 1: n = 34904
+    hospital = 2: n = 0
+    hospital = 3: n = 0
+    hospital = 4: n = 0
+
+Epoch [0]:
+
+Train:
+objective: 0.687
+penalty: 3.654
+loss_avg: 0.481
+acc_avg: 0.790
+  hospital = 0  [n =    592]:	weight: 0.339	loss: 0.510	acc: 0.772	
+  hospital = 3  [n =    608]:	weight: 0.331	loss: 0.398	acc: 0.836	
+  hospital = 4  [n =    400]:	weight: 0.331	loss: 0.565	acc: 0.747	
+objective: 0.510
+penalty: 2.673
+loss_avg: 0.363
+acc_avg: 0.864
+  hospital = 0  [n =    480]:	weight: 0.340	loss: 0.362	acc: 0.881	
+  hospital = 3  [n =    576]:	weight: 0.329	loss: 0.287	acc: 0.894	
+  hospital = 4  [n =    544]:	weight: 0.332	loss: 0.445	acc: 0.816	
+objective: 0.456
+penalty: 2.310
+loss_avg: 0.336
+acc_avg: 0.864
+  hospital = 0  [n =    560]:	weight: 0.342	loss: 0.364	acc: 0.848	
+  hospital = 3  [n =    576]:	weight: 0.322	loss: 0.267	acc: 0.903	
+  hospital = 4  [n =    464]:	weight: 0.337	loss: 0.387	acc: 0.836	
+objective: 0.416
+penalty: 2.124
+loss_avg: 0.304
+acc_avg: 0.884
+  hospital = 0  [n =    608]:	weight: 0.348	loss: 0.327	acc: 0.875	
+  hospital = 3  [n =    512]:	weight: 0.316	loss: 0.264	acc: 0.893	
+  hospital = 4  [n =    480]:	weight: 0.337	loss: 0.317	acc: 0.887	
+Traceback (most recent call last):
+  File "examples/run_expt.py", line 285, in <module>
+    main()
+  File "examples/run_expt.py", line 255, in main
+    train(
+  File "/home/joe/CORALaDRO/examples/train.py", line 82, in train
+    run_epoch(algorithm, datasets['train'], general_logger, epoch, config, train=True)
+  File "/home/joe/CORALaDRO/examples/train.py", line 31, in run_epoch
+    batch_results = algorithm.update(batch)
+  File "/home/joe/CORALaDRO/examples/algorithms/single_model_algorithm.py", line 103, in update
+    self._update(results)
+  File "/home/joe/CORALaDRO/examples/algorithms/KLaDRO.py", line 178, in _update
+  File "/home/joe/CORALaDRO/examples/algorithms/single_model_algorithm.py", line 119, in _update
+    objective.backward()
+  File "/data/anaconda3/envs/unsupervised/lib/python3.8/site-packages/torch/tensor.py", line 221, in backward
+    torch.autograd.backward(self, gradient, retain_graph, create_graph)
+  File "/data/anaconda3/envs/unsupervised/lib/python3.8/site-packages/torch/autograd/__init__.py", line 130, in backward
+    Variable._execution_engine.run_backward(
+KeyboardInterrupt

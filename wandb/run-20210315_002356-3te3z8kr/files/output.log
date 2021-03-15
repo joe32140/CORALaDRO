@@ -1,0 +1,1225 @@
+Train data...
+    y = 0, black = 0: n = 231738
+    y = 0, black = 1: n = 6785
+    y = 1, black = 0: n = 27404
+    y = 1, black = 1: n = 3111
+Validation data...
+    y = 0, black = 0: n = 39006
+    y = 0, black = 1: n = 1119
+    y = 1, black = 0: n = 4522
+    y = 1, black = 1: n = 533
+Test data...
+    y = 0, black = 0: n = 115223
+    y = 0, black = 1: n = 3335
+    y = 1, black = 0: n = 13687
+    y = 1, black = 1: n = 1537
+
+Epoch [0]:
+
+Train:
+objective: 1.965
+penalty: 0.127
+loss_avg: 0.693
+acc_avg: 0.530
+  y = 0, black = 0  [n =    200]:	weight: 0.253	loss: 0.725	acc: 0.280	
+  y = 0, black = 1  [n =    200]:	weight: 0.252	loss: 0.719	acc: 0.295	
+  y = 1, black = 0  [n =    200]:	weight: 0.248	loss: 0.667	acc: 0.745	
+  y = 1, black = 1  [n =    200]:	weight: 0.247	loss: 0.658	acc: 0.800	
+objective: 0.830
+penalty: 0.014
+loss_avg: 0.693
+acc_avg: 0.522
+  y = 0, black = 0  [n =    200]:	weight: 0.255	loss: 0.697	acc: 0.505	
+  y = 0, black = 1  [n =    200]:	weight: 0.254	loss: 0.695	acc: 0.545	
+  y = 1, black = 0  [n =    200]:	weight: 0.246	loss: 0.690	acc: 0.510	
+  y = 1, black = 1  [n =    200]:	weight: 0.245	loss: 0.689	acc: 0.530	
+objective: 0.712
+penalty: 0.002
+loss_avg: 0.692
+acc_avg: 0.524
+  y = 0, black = 0  [n =    200]:	weight: 0.254	loss: 0.683	acc: 0.940	
+  y = 0, black = 1  [n =    200]:	weight: 0.253	loss: 0.681	acc: 0.985	
+  y = 1, black = 0  [n =    200]:	weight: 0.247	loss: 0.703	acc: 0.095	
+  y = 1, black = 1  [n =    200]:	weight: 0.246	loss: 0.703	acc: 0.075	
+objective: 0.704
+penalty: 0.001
+loss_avg: 0.692
+acc_avg: 0.531
+  y = 0, black = 0  [n =    200]:	weight: 0.253	loss: 0.684	acc: 0.950	
+  y = 0, black = 1  [n =    200]:	weight: 0.251	loss: 0.682	acc: 0.950	
+  y = 1, black = 0  [n =    200]:	weight: 0.248	loss: 0.700	acc: 0.150	
+  y = 1, black = 1  [n =    200]:	weight: 0.247	loss: 0.702	acc: 0.075	
+objective: 0.701
+penalty: 0.001
+loss_avg: 0.690
+acc_avg: 0.587
+  y = 0, black = 0  [n =    200]:	weight: 0.252	loss: 0.685	acc: 0.820	
+  y = 0, black = 1  [n =    200]:	weight: 0.250	loss: 0.683	acc: 0.890	
+  y = 1, black = 0  [n =    200]:	weight: 0.249	loss: 0.696	acc: 0.340	
+  y = 1, black = 1  [n =    200]:	weight: 0.248	loss: 0.697	acc: 0.300	
+objective: 0.698
+penalty: 0.001
+loss_avg: 0.689
+acc_avg: 0.586
+  y = 0, black = 0  [n =    200]:	weight: 0.252	loss: 0.687	acc: 0.630	
+  y = 0, black = 1  [n =    200]:	weight: 0.250	loss: 0.685	acc: 0.725	
+  y = 1, black = 0  [n =    200]:	weight: 0.250	loss: 0.693	acc: 0.495	
+  y = 1, black = 1  [n =    200]:	weight: 0.249	loss: 0.694	acc: 0.495	
+objective: 0.696
+penalty: 0.001
+loss_avg: 0.687
+acc_avg: 0.645
+  y = 0, black = 0  [n =    200]:	weight: 0.252	loss: 0.687	acc: 0.645	
+  y = 0, black = 1  [n =    200]:	weight: 0.249	loss: 0.684	acc: 0.720	
+  y = 1, black = 0  [n =    200]:	weight: 0.250	loss: 0.689	acc: 0.620	
+  y = 1, black = 1  [n =    200]:	weight: 0.249	loss: 0.689	acc: 0.595	
+objective: 0.689
+penalty: 0.001
+loss_avg: 0.677
+acc_avg: 0.692
+  y = 0, black = 0  [n =    200]:	weight: 0.251	loss: 0.674	acc: 0.715	
+  y = 0, black = 1  [n =    200]:	weight: 0.249	loss: 0.679	acc: 0.650	
+  y = 1, black = 0  [n =    200]:	weight: 0.250	loss: 0.677	acc: 0.680	
+  y = 1, black = 1  [n =    200]:	weight: 0.249	loss: 0.676	acc: 0.725	
+objective: 0.683
+penalty: 0.002
+loss_avg: 0.665
+acc_avg: 0.660
+  y = 0, black = 0  [n =    200]:	weight: 0.251	loss: 0.659	acc: 0.715	
+  y = 0, black = 1  [n =    200]:	weight: 0.250	loss: 0.670	acc: 0.635	
+  y = 1, black = 0  [n =    200]:	weight: 0.251	loss: 0.668	acc: 0.630	
+  y = 1, black = 1  [n =    200]:	weight: 0.249	loss: 0.661	acc: 0.660	
+objective: 0.668
+penalty: 0.003
+loss_avg: 0.639
+acc_avg: 0.742
+  y = 0, black = 0  [n =    200]:	weight: 0.249	loss: 0.620	acc: 0.775	
+  y = 0, black = 1  [n =    200]:	weight: 0.251	loss: 0.653	acc: 0.715	
+  y = 1, black = 0  [n =    200]:	weight: 0.251	loss: 0.639	acc: 0.765	
+  y = 1, black = 1  [n =    200]:	weight: 0.249	loss: 0.643	acc: 0.715	
+objective: 0.672
+penalty: 0.003
+loss_avg: 0.646
+acc_avg: 0.692
+  y = 0, black = 0  [n =    200]:	weight: 0.247	loss: 0.628	acc: 0.745	
+  y = 0, black = 1  [n =    200]:	weight: 0.253	loss: 0.667	acc: 0.620	
+  y = 1, black = 0  [n =    200]:	weight: 0.250	loss: 0.639	acc: 0.730	
+  y = 1, black = 1  [n =    200]:	weight: 0.250	loss: 0.648	acc: 0.675	
+objective: 0.665
+penalty: 0.003
+loss_avg: 0.635
+acc_avg: 0.734
+  y = 0, black = 0  [n =    200]:	weight: 0.244	loss: 0.615	acc: 0.795	
+  y = 0, black = 1  [n =    200]:	weight: 0.256	loss: 0.649	acc: 0.675	
+  y = 1, black = 0  [n =    200]:	weight: 0.250	loss: 0.634	acc: 0.730	
+  y = 1, black = 1  [n =    200]:	weight: 0.250	loss: 0.640	acc: 0.735	
+objective: 0.657
+penalty: 0.004
+loss_avg: 0.618
+acc_avg: 0.765
+  y = 0, black = 0  [n =    200]:	weight: 0.242	loss: 0.601	acc: 0.815	
+  y = 0, black = 1  [n =    200]:	weight: 0.257	loss: 0.639	acc: 0.715	
+  y = 1, black = 0  [n =    200]:	weight: 0.250	loss: 0.615	acc: 0.745	
+  y = 1, black = 1  [n =    200]:	weight: 0.250	loss: 0.619	acc: 0.785	
+objective: 0.656
+penalty: 0.004
+loss_avg: 0.619
+acc_avg: 0.759
+  y = 0, black = 0  [n =    200]:	weight: 0.240	loss: 0.594	acc: 0.825	
+  y = 0, black = 1  [n =    200]:	weight: 0.260	loss: 0.641	acc: 0.710	
+  y = 1, black = 0  [n =    200]:	weight: 0.249	loss: 0.610	acc: 0.770	
+  y = 1, black = 1  [n =    200]:	weight: 0.251	loss: 0.631	acc: 0.730	
+objective: 0.651
+penalty: 0.004
+loss_avg: 0.612
+acc_avg: 0.760
+  y = 0, black = 0  [n =    200]:	weight: 0.238	loss: 0.602	acc: 0.770	
+  y = 0, black = 1  [n =    200]:	weight: 0.262	loss: 0.615	acc: 0.760	
+  y = 1, black = 0  [n =    200]:	weight: 0.248	loss: 0.604	acc: 0.770	
+  y = 1, black = 1  [n =    200]:	weight: 0.253	loss: 0.626	acc: 0.740	
+objective: 0.647
+penalty: 0.004
+loss_avg: 0.602
+acc_avg: 0.776
+  y = 0, black = 0  [n =    200]:	weight: 0.236	loss: 0.580	acc: 0.800	
+  y = 0, black = 1  [n =    200]:	weight: 0.264	loss: 0.630	acc: 0.730	
+  y = 1, black = 0  [n =    200]:	weight: 0.247	loss: 0.593	acc: 0.800	
+  y = 1, black = 1  [n =    200]:	weight: 0.254	loss: 0.604	acc: 0.775	
+objective: 0.642
+penalty: 0.004
+loss_avg: 0.596
+acc_avg: 0.779
+  y = 0, black = 0  [n =    200]:	weight: 0.232	loss: 0.561	acc: 0.865	
+  y = 0, black = 1  [n =    200]:	weight: 0.267	loss: 0.624	acc: 0.725	
+  y = 1, black = 0  [n =    200]:	weight: 0.247	loss: 0.603	acc: 0.720	
+  y = 1, black = 1  [n =    200]:	weight: 0.254	loss: 0.597	acc: 0.805	
+objective: 0.642
+penalty: 0.005
+loss_avg: 0.595
+acc_avg: 0.779
+  y = 0, black = 0  [n =    200]:	weight: 0.230	loss: 0.584	acc: 0.805	
+  y = 0, black = 1  [n =    200]:	weight: 0.270	loss: 0.606	acc: 0.750	
+  y = 1, black = 0  [n =    200]:	weight: 0.245	loss: 0.579	acc: 0.825	
+  y = 1, black = 1  [n =    200]:	weight: 0.255	loss: 0.613	acc: 0.735	
+objective: 0.640
+penalty: 0.005
+loss_avg: 0.594
+acc_avg: 0.765
+  y = 0, black = 0  [n =    200]:	weight: 0.228	loss: 0.584	acc: 0.760	
+  y = 0, black = 1  [n =    200]:	weight: 0.272	loss: 0.610	acc: 0.755	
+  y = 1, black = 0  [n =    200]:	weight: 0.244	loss: 0.576	acc: 0.795	
+  y = 1, black = 1  [n =    200]:	weight: 0.257	loss: 0.604	acc: 0.750	
+objective: 0.631
+penalty: 0.005
+loss_avg: 0.579
+acc_avg: 0.810
+  y = 0, black = 0  [n =    200]:	weight: 0.227	loss: 0.560	acc: 0.835	
+  y = 0, black = 1  [n =    200]:	weight: 0.273	loss: 0.592	acc: 0.805	
+  y = 1, black = 0  [n =    200]:	weight: 0.242	loss: 0.565	acc: 0.825	
+  y = 1, black = 1  [n =    200]:	weight: 0.258	loss: 0.598	acc: 0.775	
+objective: 0.628
+penalty: 0.006
+loss_avg: 0.571
+acc_avg: 0.788
+  y = 0, black = 0  [n =    200]:	weight: 0.224	loss: 0.549	acc: 0.825	
+  y = 0, black = 1  [n =    200]:	weight: 0.276	loss: 0.590	acc: 0.720	
+  y = 1, black = 0  [n =    200]:	weight: 0.239	loss: 0.556	acc: 0.825	
+  y = 1, black = 1  [n =    200]:	weight: 0.260	loss: 0.591	acc: 0.780	
+objective: 0.625
+penalty: 0.005
+loss_avg: 0.571
+acc_avg: 0.813
+  y = 0, black = 0  [n =    200]:	weight: 0.221	loss: 0.531	acc: 0.885	
+  y = 0, black = 1  [n =    200]:	weight: 0.279	loss: 0.611	acc: 0.735	
+  y = 1, black = 0  [n =    200]:	weight: 0.237	loss: 0.554	acc: 0.840	
+  y = 1, black = 1  [n =    200]:	weight: 0.263	loss: 0.587	acc: 0.790	
+objective: 0.637
+penalty: 0.005
+loss_avg: 0.587
+acc_avg: 0.762
+  y = 0, black = 0  [n =    200]:	weight: 0.216	loss: 0.552	acc: 0.840	
+  y = 0, black = 1  [n =    200]:	weight: 0.283	loss: 0.606	acc: 0.725	
+  y = 1, black = 0  [n =    200]:	weight: 0.235	loss: 0.574	acc: 0.795	
+  y = 1, black = 1  [n =    200]:	weight: 0.265	loss: 0.617	acc: 0.690	
+objective: 0.630
+penalty: 0.005
+loss_avg: 0.578
+acc_avg: 0.779
+  y = 0, black = 0  [n =    200]:	weight: 0.213	loss: 0.565	acc: 0.790	
+  y = 0, black = 1  [n =    200]:	weight: 0.286	loss: 0.599	acc: 0.740	
+  y = 1, black = 0  [n =    200]:	weight: 0.232	loss: 0.554	acc: 0.825	
+  y = 1, black = 1  [n =    200]:	weight: 0.269	loss: 0.596	acc: 0.760	
+objective: 0.618
+penalty: 0.006
+loss_avg: 0.557
+acc_avg: 0.813
+  y = 0, black = 0  [n =    200]:	weight: 0.210	loss: 0.526	acc: 0.845	
+  y = 0, black = 1  [n =    200]:	weight: 0.290	loss: 0.593	acc: 0.740	
+  y = 1, black = 0  [n =    200]:	weight: 0.230	loss: 0.540	acc: 0.865	
+  y = 1, black = 1  [n =    200]:	weight: 0.270	loss: 0.570	acc: 0.800	
+objective: 0.617
+penalty: 0.006
+loss_avg: 0.557
+acc_avg: 0.807
+  y = 0, black = 0  [n =    200]:	weight: 0.207	loss: 0.532	acc: 0.865	
+  y = 0, black = 1  [n =    200]:	weight: 0.293	loss: 0.572	acc: 0.760	
+  y = 1, black = 0  [n =    200]:	weight: 0.228	loss: 0.545	acc: 0.825	
+  y = 1, black = 1  [n =    200]:	weight: 0.272	loss: 0.578	acc: 0.780	
+objective: 0.629
+penalty: 0.005
+loss_avg: 0.573
+acc_avg: 0.805
+  y = 0, black = 0  [n =    200]:	weight: 0.204	loss: 0.538	acc: 0.840	
+  y = 0, black = 1  [n =    200]:	weight: 0.296	loss: 0.599	acc: 0.775	
+  y = 1, black = 0  [n =    200]:	weight: 0.227	loss: 0.573	acc: 0.820	
+  y = 1, black = 1  [n =    200]:	weight: 0.273	loss: 0.581	acc: 0.785	
+objective: 0.618
+penalty: 0.006
+loss_avg: 0.560
+acc_avg: 0.799
+  y = 0, black = 0  [n =    200]:	weight: 0.202	loss: 0.554	acc: 0.795	
+  y = 0, black = 1  [n =    200]:	weight: 0.298	loss: 0.576	acc: 0.785	
+  y = 1, black = 0  [n =    200]:	weight: 0.227	loss: 0.547	acc: 0.810	
+  y = 1, black = 1  [n =    200]:	weight: 0.274	loss: 0.562	acc: 0.805	
+objective: 0.616
+penalty: 0.006
+loss_avg: 0.556
+acc_avg: 0.806
+  y = 0, black = 0  [n =    200]:	weight: 0.199	loss: 0.524	acc: 0.855	
+  y = 0, black = 1  [n =    200]:	weight: 0.301	loss: 0.579	acc: 0.770	
+  y = 1, black = 0  [n =    200]:	weight: 0.225	loss: 0.550	acc: 0.820	
+  y = 1, black = 1  [n =    200]:	weight: 0.275	loss: 0.571	acc: 0.780	
+objective: 0.617
+penalty: 0.006
+loss_avg: 0.558
+acc_avg: 0.795
+  y = 0, black = 0  [n =    200]:	weight: 0.198	loss: 0.564	acc: 0.775	
+  y = 0, black = 1  [n =    200]:	weight: 0.303	loss: 0.562	acc: 0.785	
+  y = 1, black = 0  [n =    200]:	weight: 0.223	loss: 0.537	acc: 0.845	
+  y = 1, black = 1  [n =    200]:	weight: 0.276	loss: 0.569	acc: 0.775	
+objective: 0.610
+penalty: 0.006
+loss_avg: 0.546
+acc_avg: 0.820
+  y = 0, black = 0  [n =    200]:	weight: 0.197	loss: 0.521	acc: 0.865	
+  y = 0, black = 1  [n =    200]:	weight: 0.304	loss: 0.568	acc: 0.790	
+  y = 1, black = 0  [n =    200]:	weight: 0.221	loss: 0.533	acc: 0.825	
+  y = 1, black = 1  [n =    200]:	weight: 0.278	loss: 0.564	acc: 0.800	
+objective: 0.616
+penalty: 0.006
+loss_avg: 0.556
+acc_avg: 0.798
+  y = 0, black = 0  [n =    200]:	weight: 0.194	loss: 0.532	acc: 0.830	
+  y = 0, black = 1  [n =    200]:	weight: 0.306	loss: 0.570	acc: 0.810	
+  y = 1, black = 0  [n =    200]:	weight: 0.220	loss: 0.545	acc: 0.815	
+  y = 1, black = 1  [n =    200]:	weight: 0.280	loss: 0.576	acc: 0.735	
+objective: 0.607
+penalty: 0.006
+loss_avg: 0.542
+acc_avg: 0.814
+  y = 0, black = 0  [n =    200]:	weight: 0.192	loss: 0.511	acc: 0.835	
+  y = 0, black = 1  [n =    200]:	weight: 0.308	loss: 0.553	acc: 0.820	
+  y = 1, black = 0  [n =    200]:	weight: 0.219	loss: 0.549	acc: 0.800	
+  y = 1, black = 1  [n =    200]:	weight: 0.281	loss: 0.554	acc: 0.800	
+objective: 0.607
+penalty: 0.006
+loss_avg: 0.546
+acc_avg: 0.809
+  y = 0, black = 0  [n =    200]:	weight: 0.189	loss: 0.525	acc: 0.865	
+  y = 0, black = 1  [n =    200]:	weight: 0.311	loss: 0.571	acc: 0.775	
+  y = 1, black = 0  [n =    200]:	weight: 0.218	loss: 0.551	acc: 0.790	
+  y = 1, black = 1  [n =    200]:	weight: 0.282	loss: 0.539	acc: 0.805	
+objective: 0.606
+penalty: 0.006
+loss_avg: 0.538
+acc_avg: 0.804
+  y = 0, black = 0  [n =    200]:	weight: 0.186	loss: 0.521	acc: 0.835	
+  y = 0, black = 1  [n =    200]:	weight: 0.314	loss: 0.556	acc: 0.755	
+  y = 1, black = 0  [n =    200]:	weight: 0.218	loss: 0.518	acc: 0.850	
+  y = 1, black = 1  [n =    200]:	weight: 0.282	loss: 0.558	acc: 0.775	
+objective: 0.606
+penalty: 0.006
+loss_avg: 0.544
+acc_avg: 0.807
+  y = 0, black = 0  [n =    200]:	weight: 0.184	loss: 0.536	acc: 0.830	
+  y = 0, black = 1  [n =    200]:	weight: 0.316	loss: 0.571	acc: 0.735	
+  y = 1, black = 0  [n =    200]:	weight: 0.215	loss: 0.523	acc: 0.855	
+  y = 1, black = 1  [n =    200]:	weight: 0.285	loss: 0.545	acc: 0.810	
+objective: 0.609
+penalty: 0.006
+loss_avg: 0.550
+acc_avg: 0.786
+  y = 0, black = 0  [n =    200]:	weight: 0.185	loss: 0.554	acc: 0.755	
+  y = 0, black = 1  [n =    200]:	weight: 0.317	loss: 0.544	acc: 0.790	
+  y = 1, black = 0  [n =    200]:	weight: 0.213	loss: 0.536	acc: 0.825	
+  y = 1, black = 1  [n =    200]:	weight: 0.285	loss: 0.564	acc: 0.775	
+objective: 0.612
+penalty: 0.006
+loss_avg: 0.550
+acc_avg: 0.789
+  y = 0, black = 0  [n =    200]:	weight: 0.184	loss: 0.528	acc: 0.805	
+  y = 0, black = 1  [n =    200]:	weight: 0.318	loss: 0.558	acc: 0.755	
+  y = 1, black = 0  [n =    200]:	weight: 0.212	loss: 0.544	acc: 0.840	
+  y = 1, black = 1  [n =    200]:	weight: 0.286	loss: 0.571	acc: 0.755	
+objective: 0.593
+penalty: 0.006
+loss_avg: 0.527
+acc_avg: 0.836
+  y = 0, black = 0  [n =    200]:	weight: 0.182	loss: 0.519	acc: 0.835	
+  y = 0, black = 1  [n =    200]:	weight: 0.319	loss: 0.540	acc: 0.820	
+  y = 1, black = 0  [n =    200]:	weight: 0.211	loss: 0.507	acc: 0.850	
+  y = 1, black = 1  [n =    200]:	weight: 0.289	loss: 0.542	acc: 0.840	
+objective: 0.594
+penalty: 0.007
+loss_avg: 0.520
+acc_avg: 0.822
+  y = 0, black = 0  [n =    200]:	weight: 0.180	loss: 0.489	acc: 0.855	
+  y = 0, black = 1  [n =    200]:	weight: 0.320	loss: 0.533	acc: 0.800	
+  y = 1, black = 0  [n =    200]:	weight: 0.209	loss: 0.518	acc: 0.835	
+  y = 1, black = 1  [n =    200]:	weight: 0.291	loss: 0.538	acc: 0.800	
+objective: 0.602
+penalty: 0.006
+loss_avg: 0.539
+acc_avg: 0.811
+  y = 0, black = 0  [n =    200]:	weight: 0.178	loss: 0.523	acc: 0.845	
+  y = 0, black = 1  [n =    200]:	weight: 0.322	loss: 0.558	acc: 0.780	
+  y = 1, black = 0  [n =    200]:	weight: 0.207	loss: 0.520	acc: 0.835	
+  y = 1, black = 1  [n =    200]:	weight: 0.293	loss: 0.553	acc: 0.785	
+objective: 0.605
+penalty: 0.006
+loss_avg: 0.540
+acc_avg: 0.800
+  y = 0, black = 0  [n =    200]:	weight: 0.175	loss: 0.512	acc: 0.820	
+  y = 0, black = 1  [n =    200]:	weight: 0.325	loss: 0.550	acc: 0.795	
+  y = 1, black = 0  [n =    200]:	weight: 0.206	loss: 0.541	acc: 0.800	
+  y = 1, black = 1  [n =    200]:	weight: 0.294	loss: 0.556	acc: 0.785	
+objective: 0.592
+penalty: 0.006
+loss_avg: 0.524
+acc_avg: 0.832
+  y = 0, black = 0  [n =    200]:	weight: 0.173	loss: 0.519	acc: 0.850	
+  y = 0, black = 1  [n =    200]:	weight: 0.327	loss: 0.551	acc: 0.795	
+  y = 1, black = 0  [n =    200]:	weight: 0.204	loss: 0.497	acc: 0.855	
+  y = 1, black = 1  [n =    200]:	weight: 0.295	loss: 0.529	acc: 0.830	
+objective: 0.592
+penalty: 0.007
+loss_avg: 0.518
+acc_avg: 0.820
+  y = 0, black = 0  [n =    200]:	weight: 0.171	loss: 0.485	acc: 0.850	
+  y = 0, black = 1  [n =    200]:	weight: 0.330	loss: 0.544	acc: 0.755	
+  y = 1, black = 0  [n =    200]:	weight: 0.202	loss: 0.499	acc: 0.850	
+  y = 1, black = 1  [n =    200]:	weight: 0.297	loss: 0.542	acc: 0.825	
+objective: 0.603
+penalty: 0.006
+loss_avg: 0.538
+acc_avg: 0.793
+  y = 0, black = 0  [n =    200]:	weight: 0.169	loss: 0.523	acc: 0.790	
+  y = 0, black = 1  [n =    200]:	weight: 0.333	loss: 0.558	acc: 0.765	
+  y = 1, black = 0  [n =    200]:	weight: 0.200	loss: 0.529	acc: 0.785	
+  y = 1, black = 1  [n =    200]:	weight: 0.298	loss: 0.543	acc: 0.830	
+objective: 0.591
+penalty: 0.006
+loss_avg: 0.522
+acc_avg: 0.823
+  y = 0, black = 0  [n =    200]:	weight: 0.167	loss: 0.497	acc: 0.855	
+  y = 0, black = 1  [n =    200]:	weight: 0.334	loss: 0.522	acc: 0.825	
+  y = 1, black = 0  [n =    200]:	weight: 0.199	loss: 0.518	acc: 0.820	
+  y = 1, black = 1  [n =    200]:	weight: 0.300	loss: 0.551	acc: 0.790	
+objective: 0.579
+penalty: 0.007
+loss_avg: 0.506
+acc_avg: 0.826
+  y = 0, black = 0  [n =    200]:	weight: 0.165	loss: 0.490	acc: 0.815	
+  y = 0, black = 1  [n =    200]:	weight: 0.335	loss: 0.522	acc: 0.810	
+  y = 1, black = 0  [n =    200]:	weight: 0.198	loss: 0.498	acc: 0.845	
+  y = 1, black = 1  [n =    200]:	weight: 0.302	loss: 0.514	acc: 0.835	
+objective: 0.582
+penalty: 0.007
+loss_avg: 0.510
+acc_avg: 0.831
+  y = 0, black = 0  [n =    200]:	weight: 0.164	loss: 0.506	acc: 0.860	
+  y = 0, black = 1  [n =    200]:	weight: 0.336	loss: 0.522	acc: 0.815	
+  y = 1, black = 0  [n =    200]:	weight: 0.196	loss: 0.486	acc: 0.840	
+  y = 1, black = 1  [n =    200]:	weight: 0.305	loss: 0.526	acc: 0.810	
+objective: 0.575
+penalty: 0.008
+loss_avg: 0.495
+acc_avg: 0.840
+  y = 0, black = 0  [n =    200]:	weight: 0.162	loss: 0.470	acc: 0.870	
+  y = 0, black = 1  [n =    200]:	weight: 0.338	loss: 0.515	acc: 0.785	
+  y = 1, black = 0  [n =    200]:	weight: 0.195	loss: 0.498	acc: 0.855	
+  y = 1, black = 1  [n =    200]:	weight: 0.306	loss: 0.498	acc: 0.850	
+objective: 0.581
+penalty: 0.007
+loss_avg: 0.511
+acc_avg: 0.830
+  y = 0, black = 0  [n =    200]:	weight: 0.159	loss: 0.492	acc: 0.855	
+  y = 0, black = 1  [n =    200]:	weight: 0.341	loss: 0.522	acc: 0.790	
+  y = 1, black = 0  [n =    200]:	weight: 0.194	loss: 0.502	acc: 0.835	
+  y = 1, black = 1  [n =    200]:	weight: 0.305	loss: 0.529	acc: 0.840	
+objective: 0.582
+penalty: 0.007
+loss_avg: 0.512
+acc_avg: 0.828
+  y = 0, black = 0  [n =    200]:	weight: 0.159	loss: 0.507	acc: 0.840	
+  y = 0, black = 1  [n =    200]:	weight: 0.341	loss: 0.514	acc: 0.825	
+  y = 1, black = 0  [n =    200]:	weight: 0.192	loss: 0.506	acc: 0.830	
+  y = 1, black = 1  [n =    200]:	weight: 0.308	loss: 0.520	acc: 0.815	
+objective: 0.581
+penalty: 0.007
+loss_avg: 0.511
+acc_avg: 0.819
+  y = 0, black = 0  [n =    200]:	weight: 0.159	loss: 0.512	acc: 0.840	
+  y = 0, black = 1  [n =    200]:	weight: 0.341	loss: 0.513	acc: 0.825	
+  y = 1, black = 0  [n =    200]:	weight: 0.192	loss: 0.502	acc: 0.805	
+  y = 1, black = 1  [n =    200]:	weight: 0.308	loss: 0.519	acc: 0.805	
+objective: 0.581
+penalty: 0.007
+loss_avg: 0.506
+acc_avg: 0.822
+  y = 0, black = 0  [n =    200]:	weight: 0.158	loss: 0.505	acc: 0.825	
+  y = 0, black = 1  [n =    200]:	weight: 0.342	loss: 0.527	acc: 0.780	
+  y = 1, black = 0  [n =    200]:	weight: 0.190	loss: 0.475	acc: 0.870	
+  y = 1, black = 1  [n =    200]:	weight: 0.310	loss: 0.517	acc: 0.815	
+objective: 0.577
+penalty: 0.007
+loss_avg: 0.506
+acc_avg: 0.819
+  y = 0, black = 0  [n =    200]:	weight: 0.157	loss: 0.505	acc: 0.810	
+  y = 0, black = 1  [n =    200]:	weight: 0.343	loss: 0.508	acc: 0.800	
+  y = 1, black = 0  [n =    200]:	weight: 0.189	loss: 0.495	acc: 0.835	
+  y = 1, black = 1  [n =    200]:	weight: 0.312	loss: 0.517	acc: 0.830	
+objective: 0.577
+penalty: 0.007
+loss_avg: 0.506
+acc_avg: 0.820
+  y = 0, black = 0  [n =    200]:	weight: 0.158	loss: 0.497	acc: 0.825	
+  y = 0, black = 1  [n =    200]:	weight: 0.343	loss: 0.516	acc: 0.795	
+  y = 1, black = 0  [n =    200]:	weight: 0.188	loss: 0.516	acc: 0.800	
+  y = 1, black = 1  [n =    200]:	weight: 0.310	loss: 0.495	acc: 0.860	
+objective: 0.556
+penalty: 0.008
+loss_avg: 0.478
+acc_avg: 0.861
+  y = 0, black = 0  [n =    200]:	weight: 0.158	loss: 0.500	acc: 0.825	
+  y = 0, black = 1  [n =    200]:	weight: 0.345	loss: 0.466	acc: 0.845	
+  y = 1, black = 0  [n =    200]:	weight: 0.187	loss: 0.456	acc: 0.905	
+  y = 1, black = 1  [n =    200]:	weight: 0.310	loss: 0.491	acc: 0.870	
+objective: 0.570
+penalty: 0.007
+loss_avg: 0.495
+acc_avg: 0.836
+  y = 0, black = 0  [n =    200]:	weight: 0.159	loss: 0.499	acc: 0.825	
+  y = 0, black = 1  [n =    200]:	weight: 0.343	loss: 0.498	acc: 0.830	
+  y = 1, black = 0  [n =    200]:	weight: 0.185	loss: 0.481	acc: 0.870	
+  y = 1, black = 1  [n =    200]:	weight: 0.312	loss: 0.504	acc: 0.820	
+objective: 0.562
+penalty: 0.008
+loss_avg: 0.485
+acc_avg: 0.836
+  y = 0, black = 0  [n =    200]:	weight: 0.158	loss: 0.478	acc: 0.830	
+  y = 0, black = 1  [n =    200]:	weight: 0.343	loss: 0.491	acc: 0.830	
+  y = 1, black = 0  [n =    200]:	weight: 0.184	loss: 0.485	acc: 0.825	
+  y = 1, black = 1  [n =    200]:	weight: 0.314	loss: 0.485	acc: 0.860	
+objective: 0.564
+penalty: 0.008
+loss_avg: 0.488
+acc_avg: 0.843
+  y = 0, black = 0  [n =    200]:	weight: 0.157	loss: 0.471	acc: 0.865	
+  y = 0, black = 1  [n =    200]:	weight: 0.343	loss: 0.479	acc: 0.870	
+  y = 1, black = 0  [n =    200]:	weight: 0.186	loss: 0.512	acc: 0.780	
+  y = 1, black = 1  [n =    200]:	weight: 0.313	loss: 0.491	acc: 0.855	
+objective: 0.568
+penalty: 0.007
+loss_avg: 0.492
+acc_avg: 0.829
+  y = 0, black = 0  [n =    200]:	weight: 0.157	loss: 0.472	acc: 0.825	
+  y = 0, black = 1  [n =    200]:	weight: 0.344	loss: 0.500	acc: 0.800	
+  y = 1, black = 0  [n =    200]:	weight: 0.188	loss: 0.509	acc: 0.830	
+  y = 1, black = 1  [n =    200]:	weight: 0.312	loss: 0.486	acc: 0.860	
+objective: 0.566
+penalty: 0.007
+loss_avg: 0.491
+acc_avg: 0.841
+  y = 0, black = 0  [n =    200]:	weight: 0.155	loss: 0.485	acc: 0.840	
+  y = 0, black = 1  [n =    200]:	weight: 0.345	loss: 0.514	acc: 0.805	
+  y = 1, black = 0  [n =    200]:	weight: 0.188	loss: 0.484	acc: 0.880	
+  y = 1, black = 1  [n =    200]:	weight: 0.311	loss: 0.479	acc: 0.840	
+objective: 0.559
+penalty: 0.008
+loss_avg: 0.481
+acc_avg: 0.846
+  y = 0, black = 0  [n =    200]:	weight: 0.155	loss: 0.497	acc: 0.815	
+  y = 0, black = 1  [n =    200]:	weight: 0.347	loss: 0.470	acc: 0.810	
+  y = 1, black = 0  [n =    200]:	weight: 0.187	loss: 0.461	acc: 0.905	
+  y = 1, black = 1  [n =    200]:	weight: 0.311	loss: 0.496	acc: 0.855	
+objective: 0.557
+penalty: 0.008
+loss_avg: 0.481
+acc_avg: 0.842
+  y = 0, black = 0  [n =    200]:	weight: 0.157	loss: 0.474	acc: 0.840	
+  y = 0, black = 1  [n =    200]:	weight: 0.347	loss: 0.487	acc: 0.825	
+  y = 1, black = 0  [n =    200]:	weight: 0.187	loss: 0.507	acc: 0.815	
+  y = 1, black = 1  [n =    200]:	weight: 0.310	loss: 0.457	acc: 0.890	
+objective: 0.563
+penalty: 0.008
+loss_avg: 0.488
+acc_avg: 0.817
+  y = 0, black = 0  [n =    200]:	weight: 0.157	loss: 0.503	acc: 0.795	
+  y = 0, black = 1  [n =    200]:	weight: 0.347	loss: 0.487	acc: 0.800	
+  y = 1, black = 0  [n =    200]:	weight: 0.186	loss: 0.469	acc: 0.855	
+  y = 1, black = 1  [n =    200]:	weight: 0.309	loss: 0.492	acc: 0.820	
+objective: 0.552
+penalty: 0.008
+loss_avg: 0.470
+acc_avg: 0.850
+  y = 0, black = 0  [n =    200]:	weight: 0.158	loss: 0.486	acc: 0.820	
+  y = 0, black = 1  [n =    200]:	weight: 0.348	loss: 0.468	acc: 0.825	
+  y = 1, black = 0  [n =    200]:	weight: 0.185	loss: 0.456	acc: 0.895	
+  y = 1, black = 1  [n =    200]:	weight: 0.309	loss: 0.471	acc: 0.860	
+objective: 0.569
+penalty: 0.007
+loss_avg: 0.492
+acc_avg: 0.833
+  y = 0, black = 0  [n =    200]:	weight: 0.157	loss: 0.457	acc: 0.890	
+  y = 0, black = 1  [n =    200]:	weight: 0.348	loss: 0.513	acc: 0.805	
+  y = 1, black = 0  [n =    200]:	weight: 0.185	loss: 0.501	acc: 0.825	
+  y = 1, black = 1  [n =    200]:	weight: 0.310	loss: 0.498	acc: 0.810	
+objective: 0.559
+penalty: 0.007
+loss_avg: 0.483
+acc_avg: 0.837
+  y = 0, black = 0  [n =    200]:	weight: 0.155	loss: 0.463	acc: 0.855	
+  y = 0, black = 1  [n =    200]:	weight: 0.349	loss: 0.487	acc: 0.810	
+  y = 1, black = 0  [n =    200]:	weight: 0.185	loss: 0.481	acc: 0.840	
+  y = 1, black = 1  [n =    200]:	weight: 0.311	loss: 0.502	acc: 0.845	
+objective: 0.550
+penalty: 0.008
+loss_avg: 0.471
+acc_avg: 0.849
+  y = 0, black = 0  [n =    200]:	weight: 0.154	loss: 0.497	acc: 0.825	
+  y = 0, black = 1  [n =    200]:	weight: 0.347	loss: 0.452	acc: 0.855	
+  y = 1, black = 0  [n =    200]:	weight: 0.185	loss: 0.456	acc: 0.875	
+  y = 1, black = 1  [n =    200]:	weight: 0.315	loss: 0.480	acc: 0.840	
+objective: 0.552
+penalty: 0.008
+loss_avg: 0.475
+acc_avg: 0.839
+  y = 0, black = 0  [n =    200]:	weight: 0.157	loss: 0.480	acc: 0.830	
+  y = 0, black = 1  [n =    200]:	weight: 0.345	loss: 0.453	acc: 0.830	
+  y = 1, black = 0  [n =    200]:	weight: 0.183	loss: 0.477	acc: 0.840	
+  y = 1, black = 1  [n =    200]:	weight: 0.315	loss: 0.491	acc: 0.855	
+objective: 0.557
+penalty: 0.007
+loss_avg: 0.488
+acc_avg: 0.825
+  y = 0, black = 0  [n =    200]:	weight: 0.157	loss: 0.524	acc: 0.795	
+  y = 0, black = 1  [n =    200]:	weight: 0.344	loss: 0.487	acc: 0.825	
+  y = 1, black = 0  [n =    200]:	weight: 0.183	loss: 0.471	acc: 0.830	
+  y = 1, black = 1  [n =    200]:	weight: 0.315	loss: 0.469	acc: 0.850	
+objective: 0.533
+penalty: 0.009
+loss_avg: 0.446
+acc_avg: 0.863
+  y = 0, black = 0  [n =    200]:	weight: 0.159	loss: 0.453	acc: 0.845	
+  y = 0, black = 1  [n =    200]:	weight: 0.344	loss: 0.458	acc: 0.805	
+  y = 1, black = 0  [n =    200]:	weight: 0.183	loss: 0.447	acc: 0.875	
+  y = 1, black = 1  [n =    200]:	weight: 0.313	loss: 0.425	acc: 0.925	
+objective: 0.548
+penalty: 0.008
+loss_avg: 0.470
+acc_avg: 0.832
+  y = 0, black = 0  [n =    200]:	weight: 0.160	loss: 0.477	acc: 0.810	
+  y = 0, black = 1  [n =    200]:	weight: 0.344	loss: 0.454	acc: 0.820	
+  y = 1, black = 0  [n =    200]:	weight: 0.184	loss: 0.459	acc: 0.875	
+  y = 1, black = 1  [n =    200]:	weight: 0.312	loss: 0.492	acc: 0.825	
+objective: 0.559
+penalty: 0.007
+loss_avg: 0.492
+acc_avg: 0.824
+  y = 0, black = 0  [n =    200]:	weight: 0.161	loss: 0.493	acc: 0.815	
+  y = 0, black = 1  [n =    200]:	weight: 0.343	loss: 0.475	acc: 0.810	
+  y = 1, black = 0  [n =    200]:	weight: 0.183	loss: 0.508	acc: 0.820	
+  y = 1, black = 1  [n =    200]:	weight: 0.314	loss: 0.491	acc: 0.850	
+objective: 0.534
+penalty: 0.008
+loss_avg: 0.454
+acc_avg: 0.843
+  y = 0, black = 0  [n =    200]:	weight: 0.162	loss: 0.479	acc: 0.820	
+  y = 0, black = 1  [n =    200]:	weight: 0.341	loss: 0.448	acc: 0.840	
+  y = 1, black = 0  [n =    200]:	weight: 0.184	loss: 0.462	acc: 0.840	
+  y = 1, black = 1  [n =    200]:	weight: 0.312	loss: 0.427	acc: 0.870	
+objective: 0.537
+penalty: 0.008
+loss_avg: 0.458
+acc_avg: 0.845
+  y = 0, black = 0  [n =    200]:	weight: 0.164	loss: 0.468	acc: 0.810	
+  y = 0, black = 1  [n =    200]:	weight: 0.339	loss: 0.445	acc: 0.835	
+  y = 1, black = 0  [n =    200]:	weight: 0.186	loss: 0.471	acc: 0.860	
+  y = 1, black = 1  [n =    200]:	weight: 0.311	loss: 0.449	acc: 0.875	
+objective: 0.538
+penalty: 0.009
+loss_avg: 0.453
+acc_avg: 0.851
+  y = 0, black = 0  [n =    200]:	weight: 0.165	loss: 0.450	acc: 0.840	
+  y = 0, black = 1  [n =    200]:	weight: 0.338	loss: 0.452	acc: 0.830	
+  y = 1, black = 0  [n =    200]:	weight: 0.187	loss: 0.472	acc: 0.845	
+  y = 1, black = 1  [n =    200]:	weight: 0.310	loss: 0.438	acc: 0.890	
+objective: 0.537
+penalty: 0.008
+loss_avg: 0.464
+acc_avg: 0.840
+  y = 0, black = 0  [n =    200]:	weight: 0.165	loss: 0.470	acc: 0.800	
+  y = 0, black = 1  [n =    200]:	weight: 0.338	loss: 0.441	acc: 0.820	
+  y = 1, black = 0  [n =    200]:	weight: 0.190	loss: 0.493	acc: 0.865	
+  y = 1, black = 1  [n =    200]:	weight: 0.307	loss: 0.452	acc: 0.875	
+objective: 0.537
+penalty: 0.009
+loss_avg: 0.453
+acc_avg: 0.846
+  y = 0, black = 0  [n =    200]:	weight: 0.166	loss: 0.474	acc: 0.815	
+  y = 0, black = 1  [n =    200]:	weight: 0.336	loss: 0.440	acc: 0.850	
+  y = 1, black = 0  [n =    200]:	weight: 0.191	loss: 0.445	acc: 0.850	
+  y = 1, black = 1  [n =    200]:	weight: 0.307	loss: 0.454	acc: 0.870	
+objective: 0.519
+penalty: 0.009
+loss_avg: 0.440
+acc_avg: 0.860
+  y = 0, black = 0  [n =    200]:	weight: 0.169	loss: 0.471	acc: 0.805	
+  y = 0, black = 1  [n =    200]:	weight: 0.332	loss: 0.390	acc: 0.900	
+  y = 1, black = 0  [n =    200]:	weight: 0.193	loss: 0.469	acc: 0.840	
+  y = 1, black = 1  [n =    200]:	weight: 0.307	loss: 0.431	acc: 0.895	
+objective: 0.539
+penalty: 0.008
+loss_avg: 0.461
+acc_avg: 0.842
+  y = 0, black = 0  [n =    200]:	weight: 0.172	loss: 0.492	acc: 0.800	
+  y = 0, black = 1  [n =    200]:	weight: 0.328	loss: 0.459	acc: 0.820	
+  y = 1, black = 0  [n =    200]:	weight: 0.194	loss: 0.460	acc: 0.865	
+  y = 1, black = 1  [n =    200]:	weight: 0.306	loss: 0.432	acc: 0.885	
+objective: 0.513
+penalty: 0.009
+loss_avg: 0.425
+acc_avg: 0.874
+  y = 0, black = 0  [n =    200]:	weight: 0.175	loss: 0.454	acc: 0.840	
+  y = 0, black = 1  [n =    200]:	weight: 0.327	loss: 0.410	acc: 0.840	
+  y = 1, black = 0  [n =    200]:	weight: 0.196	loss: 0.432	acc: 0.905	
+  y = 1, black = 1  [n =    200]:	weight: 0.303	loss: 0.405	acc: 0.910	
+objective: 0.533
+penalty: 0.008
+loss_avg: 0.454
+acc_avg: 0.851
+  y = 0, black = 0  [n =    200]:	weight: 0.177	loss: 0.458	acc: 0.855	
+  y = 0, black = 1  [n =    200]:	weight: 0.325	loss: 0.435	acc: 0.860	
+  y = 1, black = 0  [n =    200]:	weight: 0.196	loss: 0.475	acc: 0.815	
+  y = 1, black = 1  [n =    200]:	weight: 0.301	loss: 0.447	acc: 0.875	
+objective: 0.525
+penalty: 0.009
+loss_avg: 0.440
+acc_avg: 0.860
+  y = 0, black = 0  [n =    200]:	weight: 0.178	loss: 0.452	acc: 0.845	
+  y = 0, black = 1  [n =    200]:	weight: 0.322	loss: 0.420	acc: 0.880	
+  y = 1, black = 0  [n =    200]:	weight: 0.199	loss: 0.447	acc: 0.850	
+  y = 1, black = 1  [n =    200]:	weight: 0.301	loss: 0.440	acc: 0.865	
+objective: 0.520
+penalty: 0.009
+loss_avg: 0.436
+acc_avg: 0.862
+  y = 0, black = 0  [n =    200]:	weight: 0.179	loss: 0.470	acc: 0.845	
+  y = 0, black = 1  [n =    200]:	weight: 0.318	loss: 0.420	acc: 0.875	
+  y = 1, black = 0  [n =    200]:	weight: 0.202	loss: 0.456	acc: 0.850	
+  y = 1, black = 1  [n =    200]:	weight: 0.301	loss: 0.400	acc: 0.880	
+objective: 0.524
+penalty: 0.008
+loss_avg: 0.451
+acc_avg: 0.851
+  y = 0, black = 0  [n =    200]:	weight: 0.183	loss: 0.466	acc: 0.840	
+  y = 0, black = 1  [n =    200]:	weight: 0.318	loss: 0.433	acc: 0.865	
+  y = 1, black = 0  [n =    200]:	weight: 0.204	loss: 0.461	acc: 0.855	
+  y = 1, black = 1  [n =    200]:	weight: 0.296	loss: 0.442	acc: 0.845	
+objective: 0.522
+penalty: 0.009
+loss_avg: 0.435
+acc_avg: 0.850
+  y = 0, black = 0  [n =    200]:	weight: 0.185	loss: 0.458	acc: 0.825	
+  y = 0, black = 1  [n =    200]:	weight: 0.317	loss: 0.444	acc: 0.820	
+  y = 1, black = 0  [n =    200]:	weight: 0.203	loss: 0.432	acc: 0.860	
+  y = 1, black = 1  [n =    200]:	weight: 0.295	loss: 0.404	acc: 0.895	
+objective: 0.533
+penalty: 0.008
+loss_avg: 0.460
+acc_avg: 0.839
+  y = 0, black = 0  [n =    200]:	weight: 0.187	loss: 0.471	acc: 0.800	
+  y = 0, black = 1  [n =    200]:	weight: 0.316	loss: 0.426	acc: 0.830	
+  y = 1, black = 0  [n =    200]:	weight: 0.205	loss: 0.479	acc: 0.845	
+  y = 1, black = 1  [n =    200]:	weight: 0.292	loss: 0.462	acc: 0.880	
+objective: 0.513
+penalty: 0.009
+loss_avg: 0.430
+acc_avg: 0.861
+  y = 0, black = 0  [n =    200]:	weight: 0.190	loss: 0.479	acc: 0.805	
+  y = 0, black = 1  [n =    200]:	weight: 0.313	loss: 0.408	acc: 0.875	
+  y = 1, black = 0  [n =    200]:	weight: 0.206	loss: 0.433	acc: 0.865	
+  y = 1, black = 1  [n =    200]:	weight: 0.291	loss: 0.401	acc: 0.900	
+objective: 0.504
+penalty: 0.009
+loss_avg: 0.415
+acc_avg: 0.875
+  y = 0, black = 0  [n =    200]:	weight: 0.192	loss: 0.420	acc: 0.865	
+  y = 0, black = 1  [n =    200]:	weight: 0.311	loss: 0.400	acc: 0.855	
+  y = 1, black = 0  [n =    200]:	weight: 0.208	loss: 0.436	acc: 0.880	
+  y = 1, black = 1  [n =    200]:	weight: 0.289	loss: 0.403	acc: 0.900	
+objective: 0.505
+penalty: 0.010
+loss_avg: 0.409
+acc_avg: 0.873
+  y = 0, black = 0  [n =    200]:	weight: 0.194	loss: 0.432	acc: 0.840	
+  y = 0, black = 1  [n =    200]:	weight: 0.308	loss: 0.382	acc: 0.905	
+  y = 1, black = 0  [n =    200]:	weight: 0.210	loss: 0.420	acc: 0.875	
+  y = 1, black = 1  [n =    200]:	weight: 0.288	loss: 0.403	acc: 0.870	
+objective: 0.500
+penalty: 0.009
+loss_avg: 0.409
+acc_avg: 0.874
+  y = 0, black = 0  [n =    200]:	weight: 0.198	loss: 0.442	acc: 0.835	
+  y = 0, black = 1  [n =    200]:	weight: 0.304	loss: 0.383	acc: 0.895	
+  y = 1, black = 0  [n =    200]:	weight: 0.211	loss: 0.405	acc: 0.890	
+  y = 1, black = 1  [n =    200]:	weight: 0.287	loss: 0.406	acc: 0.875	
+objective: 0.509
+penalty: 0.009
+loss_avg: 0.423
+acc_avg: 0.866
+  y = 0, black = 0  [n =    200]:	weight: 0.200	loss: 0.425	acc: 0.875	
+  y = 0, black = 1  [n =    200]:	weight: 0.301	loss: 0.413	acc: 0.865	
+  y = 1, black = 0  [n =    200]:	weight: 0.212	loss: 0.439	acc: 0.855	
+  y = 1, black = 1  [n =    200]:	weight: 0.286	loss: 0.414	acc: 0.870	
+objective: 0.512
+penalty: 0.008
+loss_avg: 0.428
+acc_avg: 0.865
+  y = 0, black = 0  [n =    200]:	weight: 0.200	loss: 0.424	acc: 0.885	
+  y = 0, black = 1  [n =    200]:	weight: 0.301	loss: 0.420	acc: 0.860	
+  y = 1, black = 0  [n =    200]:	weight: 0.213	loss: 0.448	acc: 0.835	
+  y = 1, black = 1  [n =    200]:	weight: 0.287	loss: 0.422	acc: 0.880	
+objective: 0.508
+penalty: 0.009
+loss_avg: 0.424
+acc_avg: 0.867
+  y = 0, black = 0  [n =    200]:	weight: 0.200	loss: 0.427	acc: 0.865	
+  y = 0, black = 1  [n =    200]:	weight: 0.300	loss: 0.433	acc: 0.835	
+  y = 1, black = 0  [n =    200]:	weight: 0.215	loss: 0.438	acc: 0.865	
+  y = 1, black = 1  [n =    200]:	weight: 0.284	loss: 0.397	acc: 0.905	
+objective: 0.521
+penalty: 0.008
+loss_avg: 0.443
+acc_avg: 0.854
+  y = 0, black = 0  [n =    200]:	weight: 0.201	loss: 0.471	acc: 0.830	
+  y = 0, black = 1  [n =    200]:	weight: 0.303	loss: 0.465	acc: 0.820	
+  y = 1, black = 0  [n =    200]:	weight: 0.217	loss: 0.440	acc: 0.870	
+  y = 1, black = 1  [n =    200]:	weight: 0.279	loss: 0.396	acc: 0.895	
+objective: 0.506
+penalty: 0.009
+loss_avg: 0.418
+acc_avg: 0.868
+  y = 0, black = 0  [n =    200]:	weight: 0.205	loss: 0.453	acc: 0.835	
+  y = 0, black = 1  [n =    200]:	weight: 0.302	loss: 0.372	acc: 0.905	
+  y = 1, black = 0  [n =    200]:	weight: 0.219	loss: 0.468	acc: 0.825	
+  y = 1, black = 1  [n =    200]:	weight: 0.273	loss: 0.377	acc: 0.905	
+objective: 0.483
+penalty: 0.010
+loss_avg: 0.389
+acc_avg: 0.899
+  y = 0, black = 0  [n =    200]:	weight: 0.209	loss: 0.421	acc: 0.855	
+  y = 0, black = 1  [n =    200]:	weight: 0.297	loss: 0.362	acc: 0.905	
+  y = 1, black = 0  [n =    200]:	weight: 0.223	loss: 0.411	acc: 0.900	
+  y = 1, black = 1  [n =    200]:	weight: 0.270	loss: 0.364	acc: 0.935	
+objective: 0.528
+penalty: 0.008
+loss_avg: 0.448
+acc_avg: 0.837
+  y = 0, black = 0  [n =    200]:	weight: 0.211	loss: 0.470	acc: 0.805	
+  y = 0, black = 1  [n =    200]:	weight: 0.296	loss: 0.442	acc: 0.800	
+  y = 1, black = 0  [n =    200]:	weight: 0.228	loss: 0.476	acc: 0.845	
+  y = 1, black = 1  [n =    200]:	weight: 0.265	loss: 0.403	acc: 0.900	
+objective: 0.512
+penalty: 0.009
+loss_avg: 0.427
+acc_avg: 0.872
+  y = 0, black = 0  [n =    200]:	weight: 0.213	loss: 0.422	acc: 0.850	
+  y = 0, black = 1  [n =    200]:	weight: 0.295	loss: 0.415	acc: 0.870	
+  y = 1, black = 0  [n =    200]:	weight: 0.230	loss: 0.429	acc: 0.885	
+  y = 1, black = 1  [n =    200]:	weight: 0.262	loss: 0.440	acc: 0.885	
+objective: 0.513
+penalty: 0.009
+loss_avg: 0.428
+acc_avg: 0.865
+  y = 0, black = 0  [n =    200]:	weight: 0.214	loss: 0.441	acc: 0.850	
+  y = 0, black = 1  [n =    200]:	weight: 0.292	loss: 0.389	acc: 0.880	
+  y = 1, black = 0  [n =    200]:	weight: 0.232	loss: 0.470	acc: 0.840	
+  y = 1, black = 1  [n =    200]:	weight: 0.262	loss: 0.412	acc: 0.890	
+objective: 0.503
+penalty: 0.009
+loss_avg: 0.414
+acc_avg: 0.868
+  y = 0, black = 0  [n =    200]:	weight: 0.218	loss: 0.470	acc: 0.785	
+  y = 0, black = 1  [n =    200]:	weight: 0.287	loss: 0.387	acc: 0.860	
+  y = 1, black = 0  [n =    200]:	weight: 0.233	loss: 0.414	acc: 0.895	
+  y = 1, black = 1  [n =    200]:	weight: 0.261	loss: 0.386	acc: 0.930	
+objective: 0.490
+penalty: 0.009
+loss_avg: 0.399
+acc_avg: 0.885
+  y = 0, black = 0  [n =    200]:	weight: 0.222	loss: 0.423	acc: 0.865	
+  y = 0, black = 1  [n =    200]:	weight: 0.283	loss: 0.368	acc: 0.895	
+  y = 1, black = 0  [n =    200]:	weight: 0.235	loss: 0.407	acc: 0.875	
+  y = 1, black = 1  [n =    200]:	weight: 0.260	loss: 0.396	acc: 0.905	
+objective: 0.493
+penalty: 0.009
+loss_avg: 0.402
+acc_avg: 0.880
+  y = 0, black = 0  [n =    200]:	weight: 0.225	loss: 0.427	acc: 0.840	
+  y = 0, black = 1  [n =    200]:	weight: 0.279	loss: 0.352	acc: 0.920	
+  y = 1, black = 0  [n =    200]:	weight: 0.238	loss: 0.434	acc: 0.865	
+  y = 1, black = 1  [n =    200]:	weight: 0.258	loss: 0.396	acc: 0.895	
+objective: 0.496
+penalty: 0.009
+loss_avg: 0.405
+acc_avg: 0.876
+  y = 0, black = 0  [n =    200]:	weight: 0.229	loss: 0.448	acc: 0.825	
+  y = 0, black = 1  [n =    200]:	weight: 0.273	loss: 0.379	acc: 0.890	
+  y = 1, black = 0  [n =    200]:	weight: 0.242	loss: 0.422	acc: 0.875	
+  y = 1, black = 1  [n =    200]:	weight: 0.256	loss: 0.370	acc: 0.915	
+objective: 0.495
+penalty: 0.009
+loss_avg: 0.408
+acc_avg: 0.881
+  y = 0, black = 0  [n =    200]:	weight: 0.234	loss: 0.432	acc: 0.840	
+  y = 0, black = 1  [n =    200]:	weight: 0.268	loss: 0.381	acc: 0.900	
+  y = 1, black = 0  [n =    200]:	weight: 0.243	loss: 0.417	acc: 0.880	
+  y = 1, black = 1  [n =    200]:	weight: 0.255	loss: 0.402	acc: 0.905	
+objective: 0.501
+penalty: 0.009
+loss_avg: 0.414
+acc_avg: 0.870
+  y = 0, black = 0  [n =    200]:	weight: 0.235	loss: 0.419	acc: 0.875	
+  y = 0, black = 1  [n =    200]:	weight: 0.267	loss: 0.401	acc: 0.875	
+  y = 1, black = 0  [n =    200]:	weight: 0.245	loss: 0.440	acc: 0.840	
+  y = 1, black = 1  [n =    200]:	weight: 0.253	loss: 0.396	acc: 0.890	
+objective: 0.492
+penalty: 0.009
+loss_avg: 0.405
+acc_avg: 0.875
+  y = 0, black = 0  [n =    200]:	weight: 0.236	loss: 0.410	acc: 0.875	
+  y = 0, black = 1  [n =    200]:	weight: 0.264	loss: 0.373	acc: 0.885	
+  y = 1, black = 0  [n =    200]:	weight: 0.251	loss: 0.451	acc: 0.830	
+  y = 1, black = 1  [n =    200]:	weight: 0.249	loss: 0.386	acc: 0.910	
+objective: 0.494
+penalty: 0.009
+loss_avg: 0.406
+acc_avg: 0.876
+  y = 0, black = 0  [n =    200]:	weight: 0.241	loss: 0.477	acc: 0.785	
+  y = 0, black = 1  [n =    200]:	weight: 0.259	loss: 0.369	acc: 0.915	
+  y = 1, black = 0  [n =    200]:	weight: 0.253	loss: 0.417	acc: 0.880	
+  y = 1, black = 1  [n =    200]:	weight: 0.247	loss: 0.361	acc: 0.925	
+objective: 0.501
+penalty: 0.009
+loss_avg: 0.415
+acc_avg: 0.865
+  y = 0, black = 0  [n =    200]:	weight: 0.247	loss: 0.447	acc: 0.815	
+  y = 0, black = 1  [n =    200]:	weight: 0.254	loss: 0.383	acc: 0.890	
+  y = 1, black = 0  [n =    200]:	weight: 0.256	loss: 0.448	acc: 0.845	
+  y = 1, black = 1  [n =    200]:	weight: 0.243	loss: 0.383	acc: 0.910	
+objective: 0.494
+penalty: 0.009
+loss_avg: 0.402
+acc_avg: 0.872
+  y = 0, black = 0  [n =    200]:	weight: 0.251	loss: 0.443	acc: 0.830	
+  y = 0, black = 1  [n =    200]:	weight: 0.252	loss: 0.374	acc: 0.890	
+  y = 1, black = 0  [n =    200]:	weight: 0.258	loss: 0.407	acc: 0.870	
+  y = 1, black = 1  [n =    200]:	weight: 0.239	loss: 0.383	acc: 0.900	
+objective: 0.500
+penalty: 0.008
+loss_avg: 0.418
+acc_avg: 0.865
+  y = 0, black = 0  [n =    200]:	weight: 0.255	loss: 0.428	acc: 0.850	
+  y = 0, black = 1  [n =    200]:	weight: 0.248	loss: 0.411	acc: 0.865	
+  y = 1, black = 0  [n =    200]:	weight: 0.259	loss: 0.440	acc: 0.845	
+  y = 1, black = 1  [n =    200]:	weight: 0.238	loss: 0.393	acc: 0.900	
+objective: 0.508
+penalty: 0.009
+loss_avg: 0.421
+acc_avg: 0.847
+  y = 0, black = 0  [n =    200]:	weight: 0.257	loss: 0.445	acc: 0.815	
+  y = 0, black = 1  [n =    200]:	weight: 0.246	loss: 0.407	acc: 0.840	
+  y = 1, black = 0  [n =    200]:	weight: 0.264	loss: 0.445	acc: 0.850	
+  y = 1, black = 1  [n =    200]:	weight: 0.233	loss: 0.389	acc: 0.885	
+objective: 0.485
+penalty: 0.009
+loss_avg: 0.390
+acc_avg: 0.885
+  y = 0, black = 0  [n =    200]:	weight: 0.260	loss: 0.419	acc: 0.840	
+  y = 0, black = 1  [n =    200]:	weight: 0.245	loss: 0.379	acc: 0.890	
+  y = 1, black = 0  [n =    200]:	weight: 0.266	loss: 0.402	acc: 0.885	
+  y = 1, black = 1  [n =    200]:	weight: 0.230	loss: 0.360	acc: 0.925	
+objective: 0.495
+penalty: 0.008
+loss_avg: 0.410
+acc_avg: 0.879
+  y = 0, black = 0  [n =    200]:	weight: 0.260	loss: 0.395	acc: 0.870	
+  y = 0, black = 1  [n =    200]:	weight: 0.242	loss: 0.392	acc: 0.900	
+  y = 1, black = 0  [n =    200]:	weight: 0.268	loss: 0.442	acc: 0.860	
+  y = 1, black = 1  [n =    200]:	weight: 0.230	loss: 0.413	acc: 0.885	
+objective: 0.504
+penalty: 0.009
+loss_avg: 0.414
+acc_avg: 0.869
+  y = 0, black = 0  [n =    200]:	weight: 0.261	loss: 0.448	acc: 0.825	
+  y = 0, black = 1  [n =    200]:	weight: 0.239	loss: 0.379	acc: 0.885	
+  y = 1, black = 0  [n =    200]:	weight: 0.274	loss: 0.476	acc: 0.825	
+  y = 1, black = 1  [n =    200]:	weight: 0.226	loss: 0.354	acc: 0.940	
+objective: 0.492
+penalty: 0.008
+loss_avg: 0.408
+acc_avg: 0.874
+  y = 0, black = 0  [n =    200]:	weight: 0.265	loss: 0.436	acc: 0.850	
+  y = 0, black = 1  [n =    200]:	weight: 0.236	loss: 0.374	acc: 0.900	
+  y = 1, black = 0  [n =    200]:	weight: 0.278	loss: 0.412	acc: 0.860	
+  y = 1, black = 1  [n =    200]:	weight: 0.221	loss: 0.410	acc: 0.885	
+objective: 0.503
+penalty: 0.008
+loss_avg: 0.415
+acc_avg: 0.864
+  y = 0, black = 0  [n =    200]:	weight: 0.268	loss: 0.437	acc: 0.845	
+  y = 0, black = 1  [n =    200]:	weight: 0.233	loss: 0.396	acc: 0.890	
+  y = 1, black = 0  [n =    200]:	weight: 0.280	loss: 0.447	acc: 0.810	
+  y = 1, black = 1  [n =    200]:	weight: 0.219	loss: 0.381	acc: 0.910	
+objective: 0.502
+penalty: 0.008
+loss_avg: 0.415
+acc_avg: 0.862
+  y = 0, black = 0  [n =    200]:	weight: 0.270	loss: 0.434	acc: 0.840	
+  y = 0, black = 1  [n =    200]:	weight: 0.230	loss: 0.392	acc: 0.880	
+  y = 1, black = 0  [n =    200]:	weight: 0.285	loss: 0.454	acc: 0.825	
+  y = 1, black = 1  [n =    200]:	weight: 0.215	loss: 0.379	acc: 0.905	
+objective: 0.490
+penalty: 0.009
+loss_avg: 0.398
+acc_avg: 0.881
+  y = 0, black = 0  [n =    200]:	weight: 0.276	loss: 0.468	acc: 0.785	
+  y = 0, black = 1  [n =    200]:	weight: 0.226	loss: 0.347	acc: 0.925	
+  y = 1, black = 0  [n =    200]:	weight: 0.287	loss: 0.406	acc: 0.875	
+  y = 1, black = 1  [n =    200]:	weight: 0.211	loss: 0.369	acc: 0.940	
+objective: 0.487
+penalty: 0.009
+loss_avg: 0.396
+acc_avg: 0.879
+  y = 0, black = 0  [n =    200]:	weight: 0.282	loss: 0.420	acc: 0.845	
+  y = 0, black = 1  [n =    200]:	weight: 0.221	loss: 0.369	acc: 0.895	
+  y = 1, black = 0  [n =    200]:	weight: 0.289	loss: 0.411	acc: 0.870	
+  y = 1, black = 1  [n =    200]:	weight: 0.208	loss: 0.384	acc: 0.905	
+objective: 0.499
+penalty: 0.008
+loss_avg: 0.409
+acc_avg: 0.864
+  y = 0, black = 0  [n =    200]:	weight: 0.287	loss: 0.447	acc: 0.810	
+  y = 0, black = 1  [n =    200]:	weight: 0.216	loss: 0.367	acc: 0.900	
+  y = 1, black = 0  [n =    200]:	weight: 0.291	loss: 0.440	acc: 0.850	
+  y = 1, black = 1  [n =    200]:	weight: 0.206	loss: 0.383	acc: 0.895	
+objective: 0.474
+penalty: 0.009
+loss_avg: 0.378
+acc_avg: 0.880
+  y = 0, black = 0  [n =    200]:	weight: 0.288	loss: 0.375	acc: 0.865	
+  y = 0, black = 1  [n =    200]:	weight: 0.215	loss: 0.376	acc: 0.880	
+  y = 1, black = 0  [n =    200]:	weight: 0.294	loss: 0.400	acc: 0.870	
+  y = 1, black = 1  [n =    200]:	weight: 0.203	loss: 0.361	acc: 0.905	
+objective: 0.475
+penalty: 0.009
+loss_avg: 0.381
+acc_avg: 0.881
+  y = 0, black = 0  [n =    200]:	weight: 0.290	loss: 0.406	acc: 0.850	
+  y = 0, black = 1  [n =    200]:	weight: 0.213	loss: 0.383	acc: 0.875	
+  y = 1, black = 0  [n =    200]:	weight: 0.298	loss: 0.384	acc: 0.875	
+  y = 1, black = 1  [n =    200]:	weight: 0.199	loss: 0.350	acc: 0.925	
+objective: 0.483
+penalty: 0.009
+loss_avg: 0.393
+acc_avg: 0.877
+  y = 0, black = 0  [n =    200]:	weight: 0.290	loss: 0.382	acc: 0.880	
+  y = 0, black = 1  [n =    200]:	weight: 0.212	loss: 0.383	acc: 0.885	
+  y = 1, black = 0  [n =    200]:	weight: 0.300	loss: 0.423	acc: 0.850	
+  y = 1, black = 1  [n =    200]:	weight: 0.198	loss: 0.384	acc: 0.895	
+objective: 0.476
+penalty: 0.009
+loss_avg: 0.387
+acc_avg: 0.880
+  y = 0, black = 0  [n =    200]:	weight: 0.290	loss: 0.412	acc: 0.840	
+  y = 0, black = 1  [n =    200]:	weight: 0.213	loss: 0.383	acc: 0.870	
+  y = 1, black = 0  [n =    200]:	weight: 0.300	loss: 0.375	acc: 0.895	
+  y = 1, black = 1  [n =    200]:	weight: 0.197	loss: 0.380	acc: 0.915	
+objective: 0.486
+penalty: 0.009
+loss_avg: 0.397
+acc_avg: 0.871
+  y = 0, black = 0  [n =    200]:	weight: 0.295	loss: 0.427	acc: 0.815	
+  y = 0, black = 1  [n =    200]:	weight: 0.209	loss: 0.370	acc: 0.900	
+  y = 1, black = 0  [n =    200]:	weight: 0.300	loss: 0.408	acc: 0.865	
+  y = 1, black = 1  [n =    200]:	weight: 0.196	loss: 0.382	acc: 0.905	
+objective: 0.473
+penalty: 0.009
+loss_avg: 0.377
+acc_avg: 0.882
+  y = 0, black = 0  [n =    200]:	weight: 0.296	loss: 0.370	acc: 0.880	
+  y = 0, black = 1  [n =    200]:	weight: 0.207	loss: 0.357	acc: 0.885	
+  y = 1, black = 0  [n =    200]:	weight: 0.301	loss: 0.404	acc: 0.865	
+  y = 1, black = 1  [n =    200]:	weight: 0.196	loss: 0.376	acc: 0.900	
+objective: 0.466
+penalty: 0.010
+loss_avg: 0.364
+acc_avg: 0.899
+  y = 0, black = 0  [n =    200]:	weight: 0.295	loss: 0.383	acc: 0.865	
+  y = 0, black = 1  [n =    200]:	weight: 0.206	loss: 0.356	acc: 0.910	
+  y = 1, black = 0  [n =    200]:	weight: 0.305	loss: 0.383	acc: 0.890	
+  y = 1, black = 1  [n =    200]:	weight: 0.194	loss: 0.333	acc: 0.930	
+objective: 0.460
+penalty: 0.010
+loss_avg: 0.360
+acc_avg: 0.906
+  y = 0, black = 0  [n =    200]:	weight: 0.298	loss: 0.385	acc: 0.855	
+  y = 0, black = 1  [n =    200]:	weight: 0.204	loss: 0.343	acc: 0.915	
+  y = 1, black = 0  [n =    200]:	weight: 0.308	loss: 0.370	acc: 0.910	
+  y = 1, black = 1  [n =    200]:	weight: 0.190	loss: 0.343	acc: 0.945	
+objective: 0.496
+penalty: 0.008
+loss_avg: 0.408
+acc_avg: 0.866
+  y = 0, black = 0  [n =    200]:	weight: 0.302	loss: 0.448	acc: 0.820	
+  y = 0, black = 1  [n =    200]:	weight: 0.200	loss: 0.367	acc: 0.885	
+  y = 1, black = 0  [n =    200]:	weight: 0.310	loss: 0.425	acc: 0.855	
+  y = 1, black = 1  [n =    200]:	weight: 0.189	loss: 0.392	acc: 0.905	
+objective: 0.467
+penalty: 0.009
+loss_avg: 0.372
+acc_avg: 0.891
+  y = 0, black = 0  [n =    200]:	weight: 0.306	loss: 0.379	acc: 0.865	
+  y = 0, black = 1  [n =    200]:	weight: 0.196	loss: 0.341	acc: 0.910	
+  y = 1, black = 0  [n =    200]:	weight: 0.310	loss: 0.398	acc: 0.880	
+  y = 1, black = 1  [n =    200]:	weight: 0.187	loss: 0.372	acc: 0.910	
+objective: 0.450
+penalty: 0.010
+loss_avg: 0.349
+acc_avg: 0.903
+  y = 0, black = 0  [n =    200]:	weight: 0.308	loss: 0.353	acc: 0.870	
+  y = 0, black = 1  [n =    200]:	weight: 0.194	loss: 0.354	acc: 0.895	
+  y = 1, black = 0  [n =    200]:	weight: 0.313	loss: 0.352	acc: 0.905	
+  y = 1, black = 1  [n =    200]:	weight: 0.186	loss: 0.336	acc: 0.940	
+objective: 0.475
+penalty: 0.009
+loss_avg: 0.382
+acc_avg: 0.879
+  y = 0, black = 0  [n =    200]:	weight: 0.309	loss: 0.413	acc: 0.820	
+  y = 0, black = 1  [n =    200]:	weight: 0.192	loss: 0.345	acc: 0.920	
+  y = 1, black = 0  [n =    200]:	weight: 0.315	loss: 0.408	acc: 0.855	
+  y = 1, black = 1  [n =    200]:	weight: 0.184	loss: 0.360	acc: 0.920	
+objective: 0.479
+penalty: 0.009
+loss_avg: 0.385
+acc_avg: 0.880
+  y = 0, black = 0  [n =    200]:	weight: 0.308	loss: 0.375	acc: 0.865	
+  y = 0, black = 1  [n =    200]:	weight: 0.194	loss: 0.429	acc: 0.825	
+  y = 1, black = 0  [n =    200]:	weight: 0.318	loss: 0.407	acc: 0.885	
+  y = 1, black = 1  [n =    200]:	weight: 0.181	loss: 0.329	acc: 0.945	
+objective: 0.478
+penalty: 0.009
+loss_avg: 0.385
+acc_avg: 0.883
+  y = 0, black = 0  [n =    200]:	weight: 0.309	loss: 0.404	acc: 0.845	
+  y = 0, black = 1  [n =    200]:	weight: 0.194	loss: 0.366	acc: 0.885	
+  y = 1, black = 0  [n =    200]:	weight: 0.321	loss: 0.420	acc: 0.860	
+  y = 1, black = 1  [n =    200]:	weight: 0.176	loss: 0.350	acc: 0.940	
+objective: 0.468
+penalty: 0.009
+loss_avg: 0.376
+acc_avg: 0.888
+  y = 0, black = 0  [n =    200]:	weight: 0.312	loss: 0.394	acc: 0.850	
+  y = 0, black = 1  [n =    200]:	weight: 0.191	loss: 0.378	acc: 0.865	
+  y = 1, black = 0  [n =    200]:	weight: 0.324	loss: 0.389	acc: 0.895	
+  y = 1, black = 1  [n =    200]:	weight: 0.173	loss: 0.344	acc: 0.940	
+objective: 0.471
+penalty: 0.008
+loss_avg: 0.390
+acc_avg: 0.887
+  y = 0, black = 0  [n =    200]:	weight: 0.314	loss: 0.409	acc: 0.845	
+  y = 0, black = 1  [n =    200]:	weight: 0.190	loss: 0.352	acc: 0.885	
+  y = 1, black = 0  [n =    200]:	weight: 0.324	loss: 0.377	acc: 0.925	
+  y = 1, black = 1  [n =    200]:	weight: 0.172	loss: 0.423	acc: 0.895	
+objective: 0.492
+penalty: 0.008
+loss_avg: 0.402
+acc_avg: 0.867
+  y = 0, black = 0  [n =    200]:	weight: 0.316	loss: 0.434	acc: 0.815	
+  y = 0, black = 1  [n =    200]:	weight: 0.187	loss: 0.378	acc: 0.870	
+  y = 1, black = 0  [n =    200]:	weight: 0.325	loss: 0.430	acc: 0.865	
+  y = 1, black = 1  [n =    200]:	weight: 0.172	loss: 0.368	acc: 0.920	
+objective: 0.466
+penalty: 0.009
+loss_avg: 0.371
+acc_avg: 0.891
+  y = 0, black = 0  [n =    200]:	weight: 0.321	loss: 0.381	acc: 0.860	
+  y = 0, black = 1  [n =    200]:	weight: 0.184	loss: 0.355	acc: 0.905	
+  y = 1, black = 0  [n =    200]:	weight: 0.327	loss: 0.411	acc: 0.860	
+  y = 1, black = 1  [n =    200]:	weight: 0.168	loss: 0.338	acc: 0.940	
+objective: 0.496
+penalty: 0.008
+loss_avg: 0.400
+acc_avg: 0.874
+  y = 0, black = 0  [n =    200]:	weight: 0.323	loss: 0.464	acc: 0.805	
+  y = 0, black = 1  [n =    200]:	weight: 0.181	loss: 0.367	acc: 0.900	
+  y = 1, black = 0  [n =    200]:	weight: 0.333	loss: 0.432	acc: 0.845	
+  y = 1, black = 1  [n =    200]:	weight: 0.163	loss: 0.338	acc: 0.945	
+objective: 0.462
+penalty: 0.009
+loss_avg: 0.366
+acc_avg: 0.886
+  y = 0, black = 0  [n =    200]:	weight: 0.327	loss: 0.374	acc: 0.850	
+  y = 0, black = 1  [n =    200]:	weight: 0.176	loss: 0.332	acc: 0.915	
+  y = 1, black = 0  [n =    200]:	weight: 0.336	loss: 0.396	acc: 0.860	
+  y = 1, black = 1  [n =    200]:	weight: 0.161	loss: 0.363	acc: 0.920	
+objective: 0.467
+penalty: 0.009
+loss_avg: 0.373
+acc_avg: 0.883
+  y = 0, black = 0  [n =    200]:	weight: 0.328	loss: 0.395	acc: 0.855	
+  y = 0, black = 1  [n =    200]:	weight: 0.175	loss: 0.366	acc: 0.905	
+  y = 1, black = 0  [n =    200]:	weight: 0.339	loss: 0.383	acc: 0.860	
+  y = 1, black = 1  [n =    200]:	weight: 0.159	loss: 0.348	acc: 0.910	
+objective: 0.459
+penalty: 0.009
+loss_avg: 0.364
+acc_avg: 0.900
+  y = 0, black = 0  [n =    200]:	weight: 0.329	loss: 0.363	acc: 0.885	
+  y = 0, black = 1  [n =    200]:	weight: 0.174	loss: 0.358	acc: 0.910	
+  y = 1, black = 0  [n =    200]:	weight: 0.341	loss: 0.399	acc: 0.860	
+  y = 1, black = 1  [n =    200]:	weight: 0.156	loss: 0.338	acc: 0.945	
+objective: 0.471
+penalty: 0.009
+loss_avg: 0.373
+acc_avg: 0.888
+  y = 0, black = 0  [n =    200]:	weight: 0.331	loss: 0.421	acc: 0.840	
+  y = 0, black = 1  [n =    200]:	weight: 0.171	loss: 0.335	acc: 0.930	
+  y = 1, black = 0  [n =    200]:	weight: 0.345	loss: 0.391	acc: 0.865	
+  y = 1, black = 1  [n =    200]:	weight: 0.153	loss: 0.343	acc: 0.915	
+objective: 0.459
+penalty: 0.009
+loss_avg: 0.365
+acc_avg: 0.897
+  y = 0, black = 0  [n =    200]:	weight: 0.335	loss: 0.372	acc: 0.875	
+  y = 0, black = 1  [n =    200]:	weight: 0.167	loss: 0.315	acc: 0.935	
+  y = 1, black = 0  [n =    200]:	weight: 0.347	loss: 0.397	acc: 0.870	
+  y = 1, black = 1  [n =    200]:	weight: 0.151	loss: 0.377	acc: 0.910	
+objective: 0.454
+penalty: 0.010
+loss_avg: 0.352
+acc_avg: 0.899
+  y = 0, black = 0  [n =    200]:	weight: 0.338	loss: 0.395	acc: 0.845	
+  y = 0, black = 1  [n =    200]:	weight: 0.162	loss: 0.321	acc: 0.915	
+  y = 1, black = 0  [n =    200]:	weight: 0.348	loss: 0.345	acc: 0.910	
+  y = 1, black = 1  [n =    200]:	weight: 0.151	loss: 0.347	acc: 0.925	
+objective: 0.480
+penalty: 0.008
+loss_avg: 0.389
+acc_avg: 0.872
+  y = 0, black = 0  [n =    200]:	weight: 0.342	loss: 0.403	acc: 0.850	
+  y = 0, black = 1  [n =    200]:	weight: 0.160	loss: 0.366	acc: 0.900	
+  y = 1, black = 0  [n =    200]:	weight: 0.348	loss: 0.415	acc: 0.840	
+  y = 1, black = 1  [n =    200]:	weight: 0.150	loss: 0.372	acc: 0.900	
+Traceback (most recent call last):
+  File "examples/run_expt.py", line 285, in <module>
+    main()
+  File "examples/run_expt.py", line 255, in main
+    train(
+  File "/home/joe/CORALaDRO/examples/train.py", line 82, in train
+    run_epoch(algorithm, datasets['train'], general_logger, epoch, config, train=True)
+  File "/home/joe/CORALaDRO/examples/train.py", line 31, in run_epoch
+    batch_results = algorithm.update(batch)
+  File "/home/joe/CORALaDRO/examples/algorithms/single_model_algorithm.py", line 103, in update
+    self._update(results)
+  File "/home/joe/CORALaDRO/examples/algorithms/KLaDRO.py", line 153, in _update
+    group_losses, _, _ = self.loss.compute_group_wise(
+  File "/data/anaconda3/envs/unsupervised/lib/python3.8/site-packages/wilds/common/metrics/metric.py", line 114, in compute_group_wise
+    group_metrics, group_counts, worst_group_metric = self._compute_group_wise(y_pred, y_true, g, n_groups)
+  File "/data/anaconda3/envs/unsupervised/lib/python3.8/site-packages/wilds/common/metrics/metric.py", line 181, in _compute_group_wise
+    group_metrics, group_counts = avg_over_groups(element_wise_metrics, g, n_groups)
+  File "/data/anaconda3/envs/unsupervised/lib/python3.8/site-packages/wilds/common/utils.py", line 87, in avg_over_groups
+    group_count = get_counts(g, n_groups)
+  File "/data/anaconda3/envs/unsupervised/lib/python3.8/site-packages/wilds/common/utils.py", line 70, in get_counts
+    unique_groups, unique_counts = torch.unique(g, sorted=False, return_counts=True)
+  File "/data/anaconda3/envs/unsupervised/lib/python3.8/site-packages/torch/_jit_internal.py", line 267, in fn
+    return if_false(*args, **kwargs)
+  File "/data/anaconda3/envs/unsupervised/lib/python3.8/site-packages/torch/_jit_internal.py", line 265, in fn
+    return if_true(*args, **kwargs)
+  File "/data/anaconda3/envs/unsupervised/lib/python3.8/site-packages/torch/functional.py", line 756, in _return_counts
+    output, _, counts = _unique_impl(input, sorted, return_inverse, return_counts, dim)
+  File "/data/anaconda3/envs/unsupervised/lib/python3.8/site-packages/torch/functional.py", line 678, in _unique_impl
+    output, inverse_indices, counts = torch._unique2(
+KeyboardInterrupt

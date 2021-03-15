@@ -1,0 +1,39 @@
+Train data...
+    y = 0, black = 0: n = 231738
+    y = 0, black = 1: n = 6785
+    y = 1, black = 0: n = 27404
+    y = 1, black = 1: n = 3111
+Validation data...
+    y = 0, black = 0: n = 39006
+    y = 0, black = 1: n = 1119
+    y = 1, black = 0: n = 4522
+    y = 1, black = 1: n = 533
+Test data...
+    y = 0, black = 0: n = 115223
+    y = 0, black = 1: n = 3335
+    y = 1, black = 0: n = 13687
+    y = 1, black = 1: n = 1537
+
+Epoch [0]:
+
+Train:
+Traceback (most recent call last):
+  File "examples/run_expt.py", line 285, in <module>
+    main()
+  File "examples/run_expt.py", line 255, in main
+    train(
+  File "/home/joe/CORALaDRO/examples/train.py", line 82, in train
+    run_epoch(algorithm, datasets['train'], general_logger, epoch, config, train=True)
+  File "/home/joe/CORALaDRO/examples/train.py", line 31, in run_epoch
+    batch_results = algorithm.update(batch)
+  File "/home/joe/CORALaDRO/examples/algorithms/single_model_algorithm.py", line 103, in update
+    self._update(results)
+  File "/home/joe/CORALaDRO/examples/algorithms/KLaDRO.py", line 165, in _update
+    super()._update(results)
+  File "/home/joe/CORALaDRO/examples/algorithms/single_model_algorithm.py", line 115, in _update
+    objective = self.objective(results)
+  File "/home/joe/CORALaDRO/examples/algorithms/KLaDRO.py", line 119, in objective
+    penalty += self.coral_penalty(features[group_indices[i_group]], features[group_indices[j_group]])
+  File "/home/joe/CORALaDRO/examples/algorithms/KLaDRO.py", line 81, in coral_penalty
+    mm = torch.nn.functional.log(m)
+AttributeError: module 'torch.nn.functional' has no attribute 'log'

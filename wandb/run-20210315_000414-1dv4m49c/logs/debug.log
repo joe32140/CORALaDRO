@@ -1,0 +1,81 @@
+2021-03-15 00:04:14,456 INFO    MainThread:106991 [wandb_setup.py:_flush():69] setting env: {}
+2021-03-15 00:04:14,456 INFO    MainThread:106991 [wandb_setup.py:_flush():69] setting login settings: {}
+2021-03-15 00:04:14,457 INFO    MainThread:106991 [wandb_init.py:_log_setup():334] Logging user logs to /home/joe/CORALaDRO/wandb/run-20210315_000414-1dv4m49c/logs/debug.log
+2021-03-15 00:04:14,457 INFO    MainThread:106991 [wandb_init.py:_log_setup():335] Logging internal logs to /home/joe/CORALaDRO/wandb/run-20210315_000414-1dv4m49c/logs/debug-internal.log
+2021-03-15 00:04:14,457 INFO    MainThread:106991 [wandb_init.py:init():367] calling init triggers
+2021-03-15 00:04:14,458 INFO    MainThread:106991 [wandb_init.py:init():372] wandb.init called with sweep_config: {}
+config: {}
+2021-03-15 00:04:14,458 INFO    MainThread:106991 [wandb_init.py:init():416] starting backend
+2021-03-15 00:04:14,458 INFO    MainThread:106991 [backend.py:_multiprocessing_setup():69] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2021-03-15 00:04:14,482 INFO    MainThread:106991 [backend.py:ensure_launched():123] starting backend process...
+2021-03-15 00:04:14,499 INFO    MainThread:106991 [backend.py:ensure_launched():127] started backend process with pid: 107324
+2021-03-15 00:04:14,501 INFO    MainThread:106991 [wandb_init.py:init():421] backend started and connected
+2021-03-15 00:04:14,504 INFO    MainThread:106991 [wandb_init.py:init():461] updated telemetry
+2021-03-15 00:04:14,505 INFO    MainThread:106991 [wandb_init.py:init():480] communicating current version
+2021-03-15 00:04:15,311 INFO    MainThread:106991 [wandb_init.py:init():485] got version response 
+2021-03-15 00:04:15,312 INFO    MainThread:106991 [wandb_init.py:init():493] communicating run to backend with 30 second timeout
+2021-03-15 00:04:15,436 INFO    MainThread:106991 [wandb_init.py:init():518] starting run threads in backend
+2021-03-15 00:04:15,615 INFO    MainThread:106991 [wandb_run.py:_console_start():1480] atexit reg
+2021-03-15 00:04:15,616 INFO    MainThread:106991 [wandb_run.py:_redirect():1343] redirect: SettingsConsole.REDIRECT
+2021-03-15 00:04:15,617 INFO    MainThread:106991 [wandb_run.py:_redirect():1348] Redirecting console.
+2021-03-15 00:04:15,617 INFO    MainThread:106991 [redirect.py:install():213] install start
+2021-03-15 00:04:15,618 INFO    MainThread:106991 [redirect.py:install():228] install stop
+2021-03-15 00:04:15,618 INFO    MainThread:106991 [redirect.py:install():213] install start
+2021-03-15 00:04:15,618 INFO    MainThread:106991 [redirect.py:install():228] install stop
+2021-03-15 00:04:15,618 INFO    MainThread:106991 [wandb_run.py:_redirect():1394] Redirects installed.
+2021-03-15 00:04:15,618 INFO    MainThread:106991 [wandb_init.py:init():542] run started, returning control to user process
+2021-03-15 00:04:15,620 INFO    MainThread:106991 [wandb_run.py:_config_callback():733] config_cb None None {'dataset': 'camelyon17', 'algorithm': 'KLaDRO', 'root_dir': '/data/wilds/data', 'split_scheme': 'official', 'dataset_kwargs': {}, 'download': False, 'frac': 1.0, 'version': None, 'loader_kwargs': {'num_workers': 4, 'pin_memory': True}, 'train_loader': 'group', 'uniform_over_groups': True, 'distinct_groups': True, 'n_groups_per_batch': 2, 'batch_size': 32, 'eval_loader': 'standard', 'model': 'densenet121', 'model_kwargs': {'pretrained': False}, 'train_transform': 'image_base', 'eval_transform': 'image_base', 'target_resolution': [96, 96], 'resize_scale': None, 'max_token_length': None, 'loss_function': 'cross_entropy', 'groupby_fields': ['hospital'], 'group_dro_step_size': 0.01, 'coral_penalty_weight': 0.1, 'irm_lambda': 1.0, 'irm_penalty_anneal_iters': None, 'algo_log_metric': 'accuracy', 'val_metric': 'acc_avg', 'val_metric_decreasing': False, 'n_epochs': 5, 'optimizer': 'SGD', 'lr': 0.001, 'weight_decay': 0.01, 'max_grad_norm': None, 'optimizer_kwargs': {'momentum': 0.9}, 'scheduler': None, 'scheduler_kwargs': {}, 'scheduler_metric_split': 'val', 'scheduler_metric_name': None, 'process_outputs_function': 'multiclass_logits_to_pred', 'evaluate_all_splits': True, 'eval_splits': [], 'eval_only': False, 'eval_epoch': None, 'device': 'cuda:0', 'seed': 0, 'log_dir': '/data/wilds/log/camelyon17_KLaDRO', 'log_every': 50, 'save_step': None, 'save_best': True, 'save_last': True, 'save_pred': True, 'no_group_logging': False, 'use_wandb': True, 'progress_bar': False, 'resume': False}
+2021-03-15 00:04:15,632 INFO    MainThread:106991 [wandb_setup.py:_flush():69] setting env: {}
+2021-03-15 00:04:15,632 INFO    MainThread:106991 [wandb_setup.py:_flush():69] setting login settings: {}
+2021-03-15 00:04:15,632 INFO    MainThread:106991 [wandb_init.py:_log_setup():334] Logging user logs to /home/joe/CORALaDRO/wandb/run-20210315_000415-2qq0qngx/logs/debug.log
+2021-03-15 00:04:15,632 INFO    MainThread:106991 [wandb_init.py:_log_setup():335] Logging internal logs to /home/joe/CORALaDRO/wandb/run-20210315_000415-2qq0qngx/logs/debug-internal.log
+2021-03-15 00:04:15,633 INFO    MainThread:106991 [wandb_init.py:init():367] calling init triggers
+2021-03-15 00:04:15,633 INFO    MainThread:106991 [wandb_init.py:init():372] wandb.init called with sweep_config: {}
+config: {}
+2021-03-15 00:04:15,633 INFO    MainThread:106991 [wandb_init.py:init():413] wandb.init() called when a run is still active
+2021-03-15 00:04:15,633 INFO    MainThread:106991 [wandb_run.py:_config_callback():733] config_cb None None {'dataset': 'camelyon17', 'algorithm': 'KLaDRO', 'root_dir': '/data/wilds/data', 'split_scheme': 'official', 'dataset_kwargs': {}, 'download': False, 'frac': 1.0, 'version': None, 'loader_kwargs': {'num_workers': 4, 'pin_memory': True}, 'train_loader': 'group', 'uniform_over_groups': True, 'distinct_groups': True, 'n_groups_per_batch': 2, 'batch_size': 32, 'eval_loader': 'standard', 'model': 'densenet121', 'model_kwargs': {'pretrained': False}, 'train_transform': 'image_base', 'eval_transform': 'image_base', 'target_resolution': [96, 96], 'resize_scale': None, 'max_token_length': None, 'loss_function': 'cross_entropy', 'groupby_fields': ['hospital'], 'group_dro_step_size': 0.01, 'coral_penalty_weight': 0.1, 'irm_lambda': 1.0, 'irm_penalty_anneal_iters': None, 'algo_log_metric': 'accuracy', 'val_metric': 'acc_avg', 'val_metric_decreasing': False, 'n_epochs': 5, 'optimizer': 'SGD', 'lr': 0.001, 'weight_decay': 0.01, 'max_grad_norm': None, 'optimizer_kwargs': {'momentum': 0.9}, 'scheduler': None, 'scheduler_kwargs': {}, 'scheduler_metric_split': 'val', 'scheduler_metric_name': None, 'process_outputs_function': 'multiclass_logits_to_pred', 'evaluate_all_splits': True, 'eval_splits': [], 'eval_only': False, 'eval_epoch': None, 'device': 'cuda:0', 'seed': 0, 'log_dir': '/data/wilds/log/camelyon17_KLaDRO', 'log_every': 50, 'save_step': None, 'save_best': True, 'save_last': True, 'save_pred': True, 'no_group_logging': False, 'use_wandb': True, 'progress_bar': False, 'resume': False}
+2021-03-15 00:04:15,642 INFO    MainThread:106991 [wandb_setup.py:_flush():69] setting env: {}
+2021-03-15 00:04:15,642 INFO    MainThread:106991 [wandb_setup.py:_flush():69] setting login settings: {}
+2021-03-15 00:04:15,642 INFO    MainThread:106991 [wandb_init.py:_log_setup():334] Logging user logs to /home/joe/CORALaDRO/wandb/run-20210315_000415-2rl4p138/logs/debug.log
+2021-03-15 00:04:15,642 INFO    MainThread:106991 [wandb_init.py:_log_setup():335] Logging internal logs to /home/joe/CORALaDRO/wandb/run-20210315_000415-2rl4p138/logs/debug-internal.log
+2021-03-15 00:04:15,642 INFO    MainThread:106991 [wandb_init.py:init():367] calling init triggers
+2021-03-15 00:04:15,642 INFO    MainThread:106991 [wandb_init.py:init():372] wandb.init called with sweep_config: {}
+config: {}
+2021-03-15 00:04:15,642 INFO    MainThread:106991 [wandb_init.py:init():413] wandb.init() called when a run is still active
+2021-03-15 00:04:15,643 INFO    MainThread:106991 [wandb_run.py:_config_callback():733] config_cb None None {'dataset': 'camelyon17', 'algorithm': 'KLaDRO', 'root_dir': '/data/wilds/data', 'split_scheme': 'official', 'dataset_kwargs': {}, 'download': False, 'frac': 1.0, 'version': None, 'loader_kwargs': {'num_workers': 4, 'pin_memory': True}, 'train_loader': 'group', 'uniform_over_groups': True, 'distinct_groups': True, 'n_groups_per_batch': 2, 'batch_size': 32, 'eval_loader': 'standard', 'model': 'densenet121', 'model_kwargs': {'pretrained': False}, 'train_transform': 'image_base', 'eval_transform': 'image_base', 'target_resolution': [96, 96], 'resize_scale': None, 'max_token_length': None, 'loss_function': 'cross_entropy', 'groupby_fields': ['hospital'], 'group_dro_step_size': 0.01, 'coral_penalty_weight': 0.1, 'irm_lambda': 1.0, 'irm_penalty_anneal_iters': None, 'algo_log_metric': 'accuracy', 'val_metric': 'acc_avg', 'val_metric_decreasing': False, 'n_epochs': 5, 'optimizer': 'SGD', 'lr': 0.001, 'weight_decay': 0.01, 'max_grad_norm': None, 'optimizer_kwargs': {'momentum': 0.9}, 'scheduler': None, 'scheduler_kwargs': {}, 'scheduler_metric_split': 'val', 'scheduler_metric_name': None, 'process_outputs_function': 'multiclass_logits_to_pred', 'evaluate_all_splits': True, 'eval_splits': [], 'eval_only': False, 'eval_epoch': None, 'device': 'cuda:0', 'seed': 0, 'log_dir': '/data/wilds/log/camelyon17_KLaDRO', 'log_every': 50, 'save_step': None, 'save_best': True, 'save_last': True, 'save_pred': True, 'no_group_logging': False, 'use_wandb': True, 'progress_bar': False, 'resume': False}
+2021-03-15 00:04:15,650 INFO    MainThread:106991 [wandb_setup.py:_flush():69] setting env: {}
+2021-03-15 00:04:15,650 INFO    MainThread:106991 [wandb_setup.py:_flush():69] setting login settings: {}
+2021-03-15 00:04:15,650 INFO    MainThread:106991 [wandb_init.py:_log_setup():334] Logging user logs to /home/joe/CORALaDRO/wandb/run-20210315_000415-cw1u15fo/logs/debug.log
+2021-03-15 00:04:15,650 INFO    MainThread:106991 [wandb_init.py:_log_setup():335] Logging internal logs to /home/joe/CORALaDRO/wandb/run-20210315_000415-cw1u15fo/logs/debug-internal.log
+2021-03-15 00:04:15,650 INFO    MainThread:106991 [wandb_init.py:init():367] calling init triggers
+2021-03-15 00:04:15,651 INFO    MainThread:106991 [wandb_init.py:init():372] wandb.init called with sweep_config: {}
+config: {}
+2021-03-15 00:04:15,651 INFO    MainThread:106991 [wandb_init.py:init():413] wandb.init() called when a run is still active
+2021-03-15 00:04:15,651 INFO    MainThread:106991 [wandb_run.py:_config_callback():733] config_cb None None {'dataset': 'camelyon17', 'algorithm': 'KLaDRO', 'root_dir': '/data/wilds/data', 'split_scheme': 'official', 'dataset_kwargs': {}, 'download': False, 'frac': 1.0, 'version': None, 'loader_kwargs': {'num_workers': 4, 'pin_memory': True}, 'train_loader': 'group', 'uniform_over_groups': True, 'distinct_groups': True, 'n_groups_per_batch': 2, 'batch_size': 32, 'eval_loader': 'standard', 'model': 'densenet121', 'model_kwargs': {'pretrained': False}, 'train_transform': 'image_base', 'eval_transform': 'image_base', 'target_resolution': [96, 96], 'resize_scale': None, 'max_token_length': None, 'loss_function': 'cross_entropy', 'groupby_fields': ['hospital'], 'group_dro_step_size': 0.01, 'coral_penalty_weight': 0.1, 'irm_lambda': 1.0, 'irm_penalty_anneal_iters': None, 'algo_log_metric': 'accuracy', 'val_metric': 'acc_avg', 'val_metric_decreasing': False, 'n_epochs': 5, 'optimizer': 'SGD', 'lr': 0.001, 'weight_decay': 0.01, 'max_grad_norm': None, 'optimizer_kwargs': {'momentum': 0.9}, 'scheduler': None, 'scheduler_kwargs': {}, 'scheduler_metric_split': 'val', 'scheduler_metric_name': None, 'process_outputs_function': 'multiclass_logits_to_pred', 'evaluate_all_splits': True, 'eval_splits': [], 'eval_only': False, 'eval_epoch': None, 'device': 'cuda:0', 'seed': 0, 'log_dir': '/data/wilds/log/camelyon17_KLaDRO', 'log_every': 50, 'save_step': None, 'save_best': True, 'save_last': True, 'save_pred': True, 'no_group_logging': False, 'use_wandb': True, 'progress_bar': False, 'resume': False}
+2021-03-15 00:11:35,183 INFO    MainThread:106991 [wandb_run.py:_atexit_cleanup():1450] got exitcode: 255
+2021-03-15 00:11:35,185 INFO    MainThread:106991 [wandb_run.py:_restore():1422] restore
+2021-03-15 00:11:35,186 INFO    MainThread:106991 [redirect.py:uninstall():232] uninstall start
+2021-03-15 00:11:35,186 INFO    MainThread:106991 [redirect.py:_stop():287] _stop: stdout
+2021-03-15 00:11:35,189 INFO    MainThread:106991 [redirect.py:_stop():293] _stop closed: stdout
+2021-03-15 00:11:35,189 INFO    stdout    :106991 [redirect.py:_pipe_relay():129] relay done saw last write: stdout
+2021-03-15 00:11:35,189 INFO    stdout    :106991 [redirect.py:_pipe_relay():145] relay done done: stdout
+2021-03-15 00:11:35,190 INFO    MainThread:106991 [redirect.py:_stop():299] _stop joined: stdout
+2021-03-15 00:11:35,190 INFO    MainThread:106991 [redirect.py:_stop():301] _stop rd closed: stdout
+2021-03-15 00:11:35,191 INFO    MainThread:106991 [redirect.py:uninstall():236] uninstall done
+2021-03-15 00:11:35,191 INFO    MainThread:106991 [redirect.py:uninstall():232] uninstall start
+2021-03-15 00:11:35,191 INFO    MainThread:106991 [redirect.py:_stop():287] _stop: stderr
+2021-03-15 00:11:35,192 INFO    stderr    :106991 [redirect.py:_pipe_relay():129] relay done saw last write: stderr
+2021-03-15 00:11:35,192 INFO    MainThread:106991 [redirect.py:_stop():293] _stop closed: stderr
+2021-03-15 00:11:35,192 INFO    stderr    :106991 [redirect.py:_pipe_relay():145] relay done done: stderr
+2021-03-15 00:11:35,193 INFO    MainThread:106991 [redirect.py:_stop():299] _stop joined: stderr
+2021-03-15 00:11:35,193 INFO    MainThread:106991 [redirect.py:_stop():301] _stop rd closed: stderr
+2021-03-15 00:11:35,194 INFO    MainThread:106991 [redirect.py:uninstall():236] uninstall done
+2021-03-15 00:11:35,347 INFO    MainThread:106991 [wandb_run.py:_wait_for_finish():1572] got exit ret: file_counts {
+  wandb_count: 2
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 16876
+  total_bytes: 16876
+}
+
