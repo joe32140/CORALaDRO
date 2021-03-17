@@ -1,0 +1,52 @@
+Train data...
+    hospital = 0: n = 53425
+    hospital = 1: n = 0
+    hospital = 2: n = 0
+    hospital = 3: n = 116959
+    hospital = 4: n = 132052
+Validation (ID) data...
+    hospital = 0: n = 6011
+    hospital = 1: n = 0
+    hospital = 2: n = 0
+    hospital = 3: n = 12879
+    hospital = 4: n = 14670
+Test data...
+    hospital = 0: n = 0
+    hospital = 1: n = 0
+    hospital = 2: n = 85054
+    hospital = 3: n = 0
+    hospital = 4: n = 0
+Validation (OOD) data...
+    hospital = 0: n = 0
+    hospital = 1: n = 34904
+    hospital = 2: n = 0
+    hospital = 3: n = 0
+    hospital = 4: n = 0
+
+Epoch [0]:
+
+Train:
+objective: 0.467
+loss_avg: 0.467
+acc_avg: 0.789
+  hospital = 0  [n =    297]:	loss: 0.461	acc: 0.811	
+  hospital = 3  [n =    613]:	loss: 0.372	acc: 0.832	
+  hospital = 4  [n =    690]:	loss: 0.555	acc: 0.741	
+objective: 0.367
+loss_avg: 0.367
+acc_avg: 0.855
+  hospital = 0  [n =    288]:	loss: 0.382	acc: 0.837	
+  hospital = 3  [n =    613]:	loss: 0.300	acc: 0.889	
+  hospital = 4  [n =    699]:	loss: 0.420	acc: 0.833	
+objective: 0.299
+loss_avg: 0.299
+acc_avg: 0.878
+  hospital = 0  [n =    279]:	loss: 0.314	acc: 0.864	
+  hospital = 3  [n =    625]:	loss: 0.274	acc: 0.886	
+  hospital = 4  [n =    696]:	loss: 0.315	acc: 0.875	
+objective: 0.288
+loss_avg: 0.288
+acc_avg: 0.880
+  hospital = 0  [n =    264]:	loss: 0.337	acc: 0.845	
+  hospital = 3  [n =    636]:	loss: 0.282	acc: 0.881	
+  hospital = 4  [n =    700]:	loss: 0.274	acc: 0.893	

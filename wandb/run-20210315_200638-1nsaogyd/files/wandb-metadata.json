@@ -1,0 +1,36 @@
+{
+    "os": "Linux-5.4.0-66-generic-x86_64-with-glibc2.10",
+    "python": "3.8.5",
+    "heartbeatAt": "2021-03-16T02:06:39.116842",
+    "startedAt": "2021-03-16T02:06:38.322667",
+    "docker": null,
+    "gpu": "TITAN RTX",
+    "gpu_count": 2,
+    "cpu_count": 64,
+    "cuda": null,
+    "args": [
+        "--dataset",
+        "camelyon17",
+        "--algorithm",
+        "KL",
+        "--root_dir",
+        "/data/wilds/data",
+        "--log_dir",
+        "/data/wilds/log/camelyon17_KL",
+        "--use_wandb",
+        "--device",
+        "1"
+    ],
+    "state": "running",
+    "program": "examples/run_expt.py",
+    "codePath": "examples/run_expt.py",
+    "git": {
+        "remote": "git@github.com:joe32140/CORALaDRO.git",
+        "commit": "ec5fd664d2adef64ba104955389e7a63c1bb10d6"
+    },
+    "email": "joe32140@hotmail.com.tw",
+    "root": "/home/joe/CORALaDRO",
+    "host": "tango",
+    "username": "joe",
+    "executable": "/data/anaconda3/envs/unsupervised/bin/python"
+}

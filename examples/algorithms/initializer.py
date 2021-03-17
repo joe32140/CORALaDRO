@@ -3,6 +3,7 @@ from algorithms.ERM import ERM
 from algorithms.groupDRO import GroupDRO
 from algorithms.CORALaDRO import CORALaDRO
 from algorithms.KLaDRO import KLaDRO
+from algorithms.KL import KL
 from algorithms.deepCORAL import DeepCORAL
 from algorithms.IRM import IRM
 from configs.supported import algo_log_metrics, losses
@@ -51,7 +52,7 @@ def initialize_algorithm(config, datasets, train_grouper):
             metric=metric,
             n_train_steps=n_train_steps,
             is_group_in_train=is_group_in_train)
-            
+
     elif config.algorithm == 'CORALaDRO':
         train_g = train_grouper.metadata_to_group(train_dataset.metadata_array)
         is_group_in_train = get_counts(train_g, train_grouper.n_groups) > 0
@@ -75,6 +76,15 @@ def initialize_algorithm(config, datasets, train_grouper):
             metric=metric,
             n_train_steps=n_train_steps,
             is_group_in_train=is_group_in_train)
+
+    elif config.algorithm=='KL':
+        algorithm = KL(
+            config=config,
+            d_out=d_out,
+            grouper=train_grouper,
+            loss=loss,
+            metric=metric,
+            n_train_steps=n_train_steps)
 
     elif config.algorithm=='deepCORAL':
         algorithm = DeepCORAL(
